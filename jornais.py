@@ -3,53 +3,74 @@ import json
 import requests
 from bs4 import BeautifulSoup
 
-url = "https://www.opovo.com.br/vidaearte/"
-site = requests.get(url)
-soup = BeautifulSoup(site.text, "lxml")
 
-articles = soup.find_all("div", class_="box-listing")
+def esturuturar_dados(articles):
+    dados = []
 
-dados = []
+    for art in articles:
+        topper = art.find("span", class_="topper")
 
-for a in articles:
-    topper = a.find("span", class_="topper")
+        if topper and "portal edicase" in topper.text.lower():
+            continue
 
-    if topper and "portal edicase" in topper.text.lower():
-        continue
+        categoria = topper.text.strip() if topper else None
 
-    categoria = topper.text.strip() if topper else None
+        titulo = art.find("h3").text.strip() if art.find("h3") else None
 
-    titulo_tag = a.find("h3")
-    titulo = titulo_tag.text.strip() if titulo_tag else None
+        links = (
+            art.find("a", class_="link-listagem").get("href")
+            if art.find("a", class_="link-listagem")
+            else None
+        )
 
-    info = a.find("div", class_="time-category-listing")
+        info = art.find("div", class_="time-category-listing")
 
-    data = None
-    autor = None
+        data = None
+        autor = None
 
-    if info:
-        span = a.find_all("span")
+        if info:
+            span = art.find_all("span")
 
-        # data
-        for s in span:
-            if s.has_attr("timestamp"):
-                data = s["timestamp"]
+            # data
+            for s in span:
+                if s.has_attr("timestamp"):
+                    data = s["timestamp"]
 
-        # autor
-        for s in span:
-            if "Por" in s.text:
-                autor = s.text.replace("Por", "").strip()
+            # autor
+            for s in span:
+                if "Por" in s.text:
+                    autor = s.text.replace("Por", "").strip()
 
-    # montar o dicionario
-    dados.append(
-        {"titulo": titulo, "categoria": categoria, "autor": autor, "data": data}
-    )
+        # montar o dicionario
+        dados.append(
+            {
+                "titulo": titulo,
+                "categoria": categoria,
+                "autor": autor,
+                "data": data,
+                "link": links,
+            }
+        )
 
-print(dados)
+    # convertendo para json
+    return json.dumps(dados, ensure_ascii=False, indent=4)
 
-# convertendo para json
-dados_json = json.dumps(dados, ensure_ascii=False, indent=4)
-print(dados_json)
 
-with open("noticias.json", "w", encoding="utf-8") as f:
-    f.write(dados_json)
+if __name__ == "__main__":
+    print("começo do programa")
+
+    url = "https://www.opovo.com.br/vidaearte/"
+
+    site = requests.get(url)
+
+    soup = BeautifulSoup(site.text, "lxml")
+
+    articles = soup.find_all("div", class_="box-listing")
+
+    # lista = filter(articles(lamda x: x.find("art", class_="link-listagem")))
+    # a = articles.find("a", class_="link-listagem")
+
+    data_json = esturuturar_dados(articles)
+
+    with open("noticias.json", "w", encoding="utf-8") as f:
+        f.write(data_json)
