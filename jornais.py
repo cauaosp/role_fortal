@@ -1,4 +1,5 @@
 import json
+from datetime import datetime
 
 import requests
 from bs4 import BeautifulSoup
@@ -49,6 +50,8 @@ def esturuturar_dados(articles):
                 "autor": autor,
                 "data": data,
                 "link": links,
+                "jornal": "opovo",
+                "CreatedAt": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             }
         )
 

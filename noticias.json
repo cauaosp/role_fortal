@@ -1,51 +1,38 @@
 [
     {
-        "titulo": "Número de consumidores de livros aumenta e chega a 18% da população",
-        "categoria": "Vida&Arte",
-        "autor": "Camila Boehm - Repórter da Agência Brasil",
-        "data": "2026-03-31T11:41:00-0300",
-        "link": "https://www.opovo.com.br/vidaearte/2026/03/31/numero-de-consumidores-de-livros-aumenta-e-chega-a-18-da-populacao.html"
-    },
-    {
-        "titulo": "Avatar: Netflix anuncia data de estreia da segunda temporada",
-        "categoria": "Vida&Arte",
-        "autor": "Miguel Araujo",
-        "data": "2026-03-31T11:13:00-0300",
-        "link": "https://www.opovo.com.br/vidaearte/2026/03/31/avatar-netflix-anuncia-data-de-estreia-da-segunda-temporada.html"
-    },
-    {
-        "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  31 de março(31/03)",
+        "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  01 de abril(01/04)",
         "categoria": "Cinema",
         "autor": "Ingresso.com",
-        "data": "2026-03-31T09:00:12-0300",
-        "link": "https://www.opovo.com.br/vidaearte/cinema/2026/03/31/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-31-de-marco-31-03.html"
+        "data": "2026-04-01T09:00:12-0300",
+        "link": "https://www.opovo.com.br/vidaearte/cinema/2026/04/01/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-01-de-abril-01-04.html",
+        "jornal": "opovo",
+        "CreatedAt": "2026-04-01 23:40:55"
     },
     {
-        "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo terça, 31/03/2026",
+        "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo quarta, 01/04/2026",
         "categoria": "Vida&Arte",
         "autor": "Carolina Passos",
-        "data": "2026-03-31T00:15:00-0300",
-        "link": "https://www.opovo.com.br/vidaearte/2026/03/31/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-terca-31-03-2026.html"
+        "data": "2026-04-01T00:15:00-0300",
+        "link": "https://www.opovo.com.br/vidaearte/2026/04/01/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-quarta-01-04-2026.html",
+        "jornal": "opovo",
+        "CreatedAt": "2026-04-01 23:40:55"
     },
     {
-        "titulo": "Após 4 anos, banda Calmará lança single com crítica à igreja e à cultura gospel",
+        "titulo": "HBO revela novos nomes da 4ª temporada da série The White Lotus",
         "categoria": "Vida&Arte",
-        "autor": "Camila Pontes",
-        "data": "2026-03-30T23:12:48-0300",
-        "link": "https://www.opovo.com.br/vidaearte/2026/03/30/banda-calmara-lanca-single-com-critica-a-igreja-e-ao-gospel.html"
+        "autor": "Eduarda fírio",
+        "data": "2026-03-31T18:52:00-0300",
+        "link": "https://www.opovo.com.br/vidaearte/2026/03/31/hbo-revela-novos-nomes-da-4-temporada-da-serie-the-white-lotus.html",
+        "jornal": "opovo",
+        "CreatedAt": "2026-04-01 23:40:55"
     },
     {
-        "titulo": "O Testamento: entenda a história da série documental que viralizou",
-        "categoria": "Vida&Arte",
-        "autor": "Júlia Honorato",
-        "data": "2026-03-30T22:50:14-0300",
-        "link": "https://www.opovo.com.br/vidaearte/2026/03/30/o-testamento-entenda-a-historia-da-serie-documental-que-viralizou.html"
-    },
-    {
-        "titulo": "Corpo, imagem e identidade pautam seminário na Pinacoteca",
-        "categoria": "Agenda",
+        "titulo": "Filme solo de 'Supergirl' ganha trailer e dia de estreia; confira",
+        "categoria": "Cinema",
         "autor": "Carolina Passos",
-        "data": "2026-03-30T17:13:00-0300",
-        "link": "https://www.opovo.com.br/vidaearte/agenda/2026/03/30/corpo-imagem-e-identidade-pautam-seminario-na-pinacoteca.html"
+        "data": "2026-03-31T18:34:00-0300",
+        "link": "https://www.opovo.com.br/vidaearte/cinema/2026/03/31/filme-solo-de-supergirl-ganha-trailer-e-dia-de-estreia-confira.html",
+        "jornal": "opovo",
+        "CreatedAt": "2026-04-01 23:40:55"
     }
 ]
