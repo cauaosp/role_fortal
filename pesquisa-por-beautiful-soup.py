@@ -4,6 +4,8 @@ from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
 
+# buscar usando beautiful soup
+
 
 def esturuturar_dados(articles):
     dados = []
@@ -64,14 +66,15 @@ if __name__ == "__main__":
 
     url = "https://www.opovo.com.br/vidaearte/"
 
+    hearders = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
+    }
+
     site = requests.get(url)
 
     soup = BeautifulSoup(site.text, "lxml")
 
     articles = soup.find_all("div", class_="box-listing")
-
-    # lista = filter(articles(lamda x: x.find("art", class_="link-listagem")))
-    # a = articles.find("a", class_="link-listagem")
 
     data_json = esturuturar_dados(articles)
 
