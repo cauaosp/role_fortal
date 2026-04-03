@@ -19,5 +19,14 @@ services:
     volumes:
       - data:/app/data
 
+  frontend:
+    build: ../roles_fortal_frontend/roles-fortal
+    image: role_fortal_frontend:latest
+    container_name: artigos_opovo_frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - web
+
 volumes:
   data:
