@@ -1,5 +1,25 @@
 [
     {
+        "titulo": "Mona Gadelha revisita álbum de estreia em show no TJA",
+        "subtitulo": "Espetáculo no dia 10 de abril marca 30 anos do disco de estreia de Mona Gadelha e reúne músicos convidados no palco principal do teatro",
+        "categoria": "Agenda",
+        "autor": "Carolina Passos",
+        "dataPublicacao": "2026-04-02 17:11:00",
+        "link": "https://www.opovo.com.br/vidaearte/agenda/2026/04/02/mona-gadelha-revisita-album-de-estreia-em-show-no-tja.html",
+        "jornal": "opovo",
+        "createdAt": "2026-04-03 03:13:36"
+    },
+    {
+        "titulo": "Resident Evil 30 anos: uma franquia entre sustos e inovações",
+        "subtitulo": "\"Resident Evil Requiem\", novo capítulo da popular série, foi lançado em fevereiro deste ano\r\n\r\n",
+        "categoria": "Vida&Arte",
+        "autor": "Esaú Souza",
+        "dataPublicacao": "2026-04-02 17:04:00",
+        "link": "https://www.opovo.com.br/vidaearte/2026/04/02/resident-evil-30-anos-uma-franquia-entre-sustos-e-inovacoes.html",
+        "jornal": "opovo",
+        "createdAt": "2026-04-03 03:13:36"
+    },
+    {
         "titulo": "Coletivo nordestino questiona herança cultural na música cristã brasileira",
         "subtitulo": "Coletivo Candiero rompe padrões da música cristã ao unir regionalidade, poesia e teologia, enquanto provoca a igreja a repensar cultura, missão e identidade no Brasil",
         "categoria": "Vida&Arte",
@@ -7,7 +27,7 @@
         "dataPublicacao": "2026-04-02 15:55:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/04/02/coletivo-nordestino-questiona-heranca-cultural-na-musica-crista-brasileira.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Pause: momentos de reflexão sobre a Páscoa com a Irmã Conceição",
@@ -17,7 +37,7 @@
         "dataPublicacao": "2026-04-02 15:23:34",
         "link": "https://www.opovo.com.br/vidaearte/2026/04/02/pause-momentos-de-reflexao-sobre-pascoa-com-a-irma-conceicao.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  02 de abril(02/04)",
@@ -27,7 +47,7 @@
         "dataPublicacao": "2026-04-02 09:00:12",
         "link": "https://www.opovo.com.br/vidaearte/cinema/2026/04/02/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-02-de-abril-02-04.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo quinta, 02/04/2026",
@@ -37,7 +57,7 @@
         "dataPublicacao": "2026-04-02 00:15:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/04/02/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-quinta-02-04-2026.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  01 de abril(01/04)",
@@ -47,7 +67,7 @@
         "dataPublicacao": "2026-04-01 09:00:12",
         "link": "https://www.opovo.com.br/vidaearte/cinema/2026/04/01/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-01-de-abril-01-04.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo quarta, 01/04/2026",
@@ -57,7 +77,7 @@
         "dataPublicacao": "2026-04-01 00:15:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/04/01/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-quarta-01-04-2026.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "HBO revela novos nomes da 4ª temporada da série The White Lotus",
@@ -67,7 +87,7 @@
         "dataPublicacao": "2026-03-31 18:52:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/31/hbo-revela-novos-nomes-da-4-temporada-da-serie-the-white-lotus.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Filme solo de 'Supergirl' ganha trailer e dia de estreia; confira",
@@ -77,7 +97,7 @@
         "dataPublicacao": "2026-03-31 18:34:00",
         "link": "https://www.opovo.com.br/vidaearte/cinema/2026/03/31/filme-solo-de-supergirl-ganha-trailer-e-dia-de-estreia-confira.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Shopping celebra 300 anos de Fortaleza com shows gratuitos",
@@ -87,7 +107,7 @@
         "dataPublicacao": "2026-03-31 18:26:00",
         "link": "https://www.opovo.com.br/vidaearte/agenda/2026/03/31/shopping-celebra-300-anos-de-fortaleza-com-shows-gratuitos.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Após autógrafo na cueca, Falcão faz homenagem aos Mamonas Assassinas",
@@ -97,7 +117,7 @@
         "dataPublicacao": "2026-03-31 17:17:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/31/apos-autografo-na-cueca-falcao-faz-homenagem-aos-mamonas-assassinas.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Com Taty Girl e Alok, São João de Maracanaú divulga programação",
@@ -107,7 +127,7 @@
         "dataPublicacao": "2026-03-31 15:41:00",
         "link": "https://www.opovo.com.br/vidaearte/sao-joao/2026/03/31/com-taty-girl-e-alok-sao-joao-de-maracanau-divulga-programacao.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "'Olhos nos Olhos': Ana Lúcia Torre celebra a obra de Chico Buarque em peça",
@@ -117,7 +137,7 @@
         "dataPublicacao": "2026-03-31 14:23:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/31/olhos-nos-olhos-ana-lucia-torre-celebra-a-obra-de-chico-buarque-em-peca.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Número de consumidores de livros aumenta e chega a 18% da população",
@@ -127,7 +147,7 @@
         "dataPublicacao": "2026-03-31 11:41:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/31/numero-de-consumidores-de-livros-aumenta-e-chega-a-18-da-populacao.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Avatar: Netflix anuncia data de estreia da segunda temporada",
@@ -137,7 +157,7 @@
         "dataPublicacao": "2026-03-31 11:13:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/31/avatar-netflix-anuncia-data-de-estreia-da-segunda-temporada.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  31 de março(31/03)",
@@ -147,7 +167,7 @@
         "dataPublicacao": "2026-03-31 09:00:12",
         "link": "https://www.opovo.com.br/vidaearte/cinema/2026/03/31/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-31-de-marco-31-03.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo terça, 31/03/2026",
@@ -157,7 +177,7 @@
         "dataPublicacao": "2026-03-31 00:15:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/31/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-terca-31-03-2026.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Após 4 anos, banda Calmará lança single com crítica à igreja e à cultura gospel",
@@ -167,7 +187,7 @@
         "dataPublicacao": "2026-03-30 23:12:48",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/30/banda-calmara-lanca-single-com-critica-a-igreja-e-ao-gospel.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "O Testamento: entenda a história da série documental que viralizou",
@@ -177,7 +197,7 @@
         "dataPublicacao": "2026-03-30 22:50:14",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/30/o-testamento-entenda-a-historia-da-serie-documental-que-viralizou.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Corpo, imagem e identidade pautam seminário na Pinacoteca",
@@ -187,7 +207,7 @@
         "dataPublicacao": "2026-03-30 17:13:00",
         "link": "https://www.opovo.com.br/vidaearte/agenda/2026/03/30/corpo-imagem-e-identidade-pautam-seminario-na-pinacoteca.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Cidadão Instigado apresenta novo disco no aniversário do Dragão",
@@ -197,7 +217,7 @@
         "dataPublicacao": "2026-03-30 16:45:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/30/cidadao-instigado-apresenta-novo-disco-no-aniversario-do-dragao.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Aos 83 anos, Paul McCartney anuncia lançamento de novo álbum",
@@ -207,7 +227,7 @@
         "dataPublicacao": "2026-03-30 16:19:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/30/aos-83-anos-paul-mccartney-anuncia-lancamento-de-novo-album.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Gilberto Gil encerra 'última turnê', mas volta para o Rock In Rio",
@@ -217,7 +237,7 @@
         "dataPublicacao": "2026-03-30 15:54:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/30/gilberto-gil-encerra-ultima-turne-mas-volta-para-o-rock-in-rio.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Obras de Renoir, Cézanne e Matisse são roubadas de museu italiano",
@@ -227,7 +247,7 @@
         "dataPublicacao": "2026-03-30 15:19:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/30/obras-de-renoir-cezanne-e-matisse-sao-roubadas-de-museu-italiano.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "São João Gomes: turnê temática do cantor pernambucano anuncia passagem por Fortaleza",
@@ -237,7 +257,7 @@
         "dataPublicacao": "2026-03-30 13:31:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/30/sao-joao-gomes-turne-tematica-tera-passagem-por-fortaleza.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "300 anos de Fortaleza: festa terá Alcione, Nattan, Simone Mendes e outros",
@@ -247,7 +267,7 @@
         "dataPublicacao": "2026-03-30 10:27:00",
         "link": "https://www.opovo.com.br/vidaearte/agenda/2026/03/30/300-anos-de-fortaleza-festa-tera-alcione-nattan-simone-mendes-e-outros.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  30 de março(30/03)",
@@ -257,7 +277,7 @@
         "dataPublicacao": "2026-03-30 09:00:12",
         "link": "https://www.opovo.com.br/vidaearte/cinema/2026/03/30/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-30-de-marco-30-03.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo segunda, 30/03/2026",
@@ -267,7 +287,7 @@
         "dataPublicacao": "2026-03-30 00:15:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/30/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-segunda-30-03-2026.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Por onde começar a ler Machado de Assis?",
@@ -277,7 +297,7 @@
         "dataPublicacao": "2026-03-30 00:03:25",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/30/por-onde-comecar-a-ler-machado-de-assis.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:36"
     },
     {
         "titulo": "Dublador brasileiro é levado ao hospital após publicação de carta",
@@ -287,7 +307,7 @@
         "dataPublicacao": "2026-03-29 19:22:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/29/dublador-brasileiro-e-levado-ao-hospital-apos-publicacao-de-carta.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Exercícios ajudam a retardar sintomas do Parkinson; entenda rotina adotada por Renata Capucci",
@@ -297,7 +317,7 @@
         "dataPublicacao": "2026-03-29 17:07:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/29/exercicios-ajudam-a-retardar-sintomas-do-parkinson-entenda-rotina-adotada-por-renata-capucci.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:07"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Páscoa 2026: veja onde comprar chocolates veganos em Fortaleza",
@@ -307,7 +327,7 @@
         "dataPublicacao": "2026-03-29 16:00:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/29/pascoa-2026-veja-onde-comprar-chocolates-veganos-em-fortaleza.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Morre escritor e teatrólogo cearense José Mapurunga, aos 74 anos",
@@ -317,7 +337,7 @@
         "dataPublicacao": "2026-03-29 14:04:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/29/morre-escritor-e-teatrologo-jose-mapurunga-aos-74-anos.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "São João 2026: Prefeitura de Fortaleza abre edital para parcerias",
@@ -327,7 +347,7 @@
         "dataPublicacao": "2026-03-29 13:24:00",
         "link": "https://www.opovo.com.br/vidaearte/sao-joao/2026/03/29/sao-joao-2026-prefeitura-de-fortaleza-abre-edital-para-parcerias.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Guns N’ Roses anuncia nova formação para turnê no Brasil em abril",
@@ -337,7 +357,7 @@
         "dataPublicacao": "2026-03-29 12:43:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/29/guns-n-roses-anuncia-mudanca-na-formacao-para-shows-no-brasil.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Fotógrafo cearense realiza mostra sobre comunidade Santa Filomena",
@@ -347,7 +367,7 @@
         "dataPublicacao": "2026-03-29 12:22:00",
         "link": "https://www.opovo.com.br/vidaearte/agenda/2026/03/29/fotografo-cearense-realiza-exposicao-sobre-comunidade-santa-filomena.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Almoço de Páscoa: veja onde comprar receitas prontas em Fortaleza",
@@ -357,7 +377,7 @@
         "dataPublicacao": "2026-03-29 12:00:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/29/almoco-de-pascoa-veja-onde-comprar-receitas-prontas-em-fortaleza.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Tiago Iorc revisita álbum ‘Troco Likes’ em edição com convidados",
@@ -367,7 +387,7 @@
         "dataPublicacao": "2026-03-29 11:38:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/29/tiago-iorc-revisita-album-troco-likes-em-edicao-com-convidados.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Aos 96 anos, Nathalia Timberg se emociona em homenagem no RJ",
@@ -377,7 +397,7 @@
         "dataPublicacao": "2026-03-29 11:32:00",
         "link": "https://www.opovo.com.br/divirtase/2026/03/29/aos-96-anos-nathalia-timberg-se-emociona-em-homenagem-no-rj.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  29 de março(29/03)",
@@ -387,7 +407,7 @@
         "dataPublicacao": "2026-03-29 09:00:13",
         "link": "https://www.opovo.com.br/vidaearte/cinema/2026/03/29/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-29-de-marco-29-03.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Temperatura Máxima hoje (29/03/26); filme de domingo na TV Globo",
@@ -397,7 +417,7 @@
         "dataPublicacao": "2026-03-29 00:15:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/29/temperatura-maxima-hoje-29-03-26-filme-de-domingo-na-tv-globo.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Aos 40 anos, Lady Gaga ainda não parou de revolucionar o pop",
@@ -407,7 +427,7 @@
         "dataPublicacao": "2026-03-29 00:08:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/29/aos-40-anos-lady-gaga-ainda-nao-parou-de-revolucionar-o-pop.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "O que fazer em Fortaleza hoje, 28/03? Veja agenda de festas e shows",
@@ -417,7 +437,7 @@
         "dataPublicacao": "2026-03-28 11:00:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/28/o-que-fazer-em-fortaleza-hoje-28-03-veja-agenda-de-festas-e-shows.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Cinema em Fortaleza: veja os filmes em cartaz de hoje, 28 de março (28/03)",
@@ -427,7 +447,7 @@
         "dataPublicacao": "2026-03-28 09:00:00",
         "link": "https://www.opovo.com.br/vidaearte/cinema/2026/03/28/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-28-de-marco-28-03.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Livro infantil aborda sensibilidade e relação com a natureza",
@@ -437,7 +457,7 @@
         "dataPublicacao": "2026-03-27 19:25:00",
         "link": "https://www.opovo.com.br/vidaearte/agenda/2026/03/27/livro-infantil-aborda-sensibilidade-e-relacao-com-a-natureza.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Veja agenda para assistir à Paixão de Cristo em cidades do Ceará",
@@ -447,7 +467,7 @@
         "dataPublicacao": "2026-03-27 19:18:00",
         "link": "https://www.opovo.com.br/vidaearte/agenda/2026/03/27/veja-agenda-para-assistir-a-paixao-de-cristo-em-cidades-do-ceara.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Novo filme de Karim Aïnouz se passa durante a seca de 1870 no Ceará",
@@ -457,7 +477,7 @@
         "dataPublicacao": "2026-03-27 17:52:00",
         "link": "https://www.opovo.com.br/vidaearte/cinema/2026/03/27/novo-filme-de-karim-ainouz-se-passa-durante-a-seca-de-1870-no-ce.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Pause: empreendedorismo e tendências no mundo do chocolate",
@@ -467,7 +487,7 @@
         "dataPublicacao": "2026-03-27 15:02:32",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/27/pause-empreendedorismo-e-tendencias-no-mundo-do-chocolate.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Netflix, Disney+ e HBO: as estreias da semana (23/03 a 29/03) ",
@@ -477,7 +497,7 @@
         "dataPublicacao": "2026-03-27 11:00:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/27/netflix-disney-e-hbo-as-estreias-da-semana-23-03-a-29-03.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "O que fazer em Fortaleza hoje, 27/03? Veja agenda de festas e shows",
@@ -487,7 +507,7 @@
         "dataPublicacao": "2026-03-27 11:00:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/27/o-que-fazer-em-fortaleza-hoje-27-03-veja-agenda-de-festas-e-shows.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Grupo de teatro cearense registra 60 anos de história em exposição",
@@ -497,7 +517,7 @@
         "dataPublicacao": "2026-03-27 10:11:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/27/grupo-de-teatro-cearense-registra-60-anos-de-historia-em-exposicao.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  27 de março(27/03)",
@@ -507,7 +527,7 @@
         "dataPublicacao": "2026-03-27 09:00:13",
         "link": "https://www.opovo.com.br/vidaearte/cinema/2026/03/27/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-27-de-marco-27-03.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo sexta, 27/03/2026",
@@ -517,7 +537,7 @@
         "dataPublicacao": "2026-03-27 00:15:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/27/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-sexta-27-03-2026.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Páscoa: onde comprar chocolate sem açúcar e sem lactose em Fortaleza",
@@ -527,7 +547,7 @@
         "dataPublicacao": "2026-03-26 23:45:33",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/26/onde-comprar-chocolate-sem-acucar-e-sem-lactose-em-fortaleza.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Escola do Livro Cearense abre inscrições para cursos gratuitos",
@@ -537,7 +557,7 @@
         "dataPublicacao": "2026-03-26 10:49:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/26/escola-do-livro-cearense-abre-inscricoes-para-cursos-gratuitos.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Festival em Quixadá premia as melhores histórias mentirosas; entenda",
@@ -547,7 +567,7 @@
         "dataPublicacao": "2026-03-26 10:25:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/26/festival-em-quixada-premia-as-melhores-historias-mentirosas-entenda.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Banda cover Backdoors faz tributo ao The Doors em Fortaleza",
@@ -557,7 +577,7 @@
         "dataPublicacao": "2026-03-26 10:20:00",
         "link": "https://www.opovo.com.br/vidaearte/agenda/2026/03/26/banda-cover-backdoors-faz-tributo-ao-the-doors-em-fortaleza.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  26 de março(26/03)",
@@ -567,7 +587,7 @@
         "dataPublicacao": "2026-03-26 09:00:13",
         "link": "https://www.opovo.com.br/vidaearte/cinema/2026/03/26/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-26-de-marco-26-03.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "Família Vilas Boas homenageia 300 anos de Fortaleza com show",
@@ -577,7 +597,7 @@
         "dataPublicacao": "2026-03-25 12:56:46",
         "link": "https://www.opovo.com.br/vidaearte/agenda/2026/03/25/familia-vilas-boas-homenageia-300-anos-de-fortaleza-com-show.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:38"
     },
     {
         "titulo": "\"A Rebelião dos Jangadeiros\" tem sessão gratuita no Dragão do Mar",
@@ -587,7 +607,7 @@
         "dataPublicacao": "2026-03-25 10:00:26",
         "link": "https://www.opovo.com.br/vidaearte/cinema/2026/03/25/cinema-gratuito-a-rebeliao-dos-jangadeiros-nesta-quarta.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  25 de março(25/03)",
@@ -597,7 +617,7 @@
         "dataPublicacao": "2026-03-25 09:00:19",
         "link": "https://www.opovo.com.br/vidaearte/cinema/2026/03/25/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-25-de-marco-25-03.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:08"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo quarta, 25/03/2026",
@@ -607,7 +627,7 @@
         "dataPublicacao": "2026-03-25 00:15:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/25/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-quarta-25-03-2026.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Autor cearense relança livro em homenagem aos 300 anos de Fortaleza",
@@ -617,7 +637,7 @@
         "dataPublicacao": "2026-03-24 19:30:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/24/autor-cearense-relanca-livro-em-homenagem-aos-300-anos-de-fortaleza.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Workshop gratuito de roteiro abre vagas com bolsa de R$300; saiba mais",
@@ -627,7 +647,7 @@
         "dataPublicacao": "2026-03-24 19:21:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/24/workshop-gratuito-de-roteiro-abre-vagas-com-bolsa-de-rs300-saiba-mais.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Peça baseada na obra de Dostoiévski é exibida na rede Cuca; gratuito",
@@ -637,7 +657,7 @@
         "dataPublicacao": "2026-03-24 17:13:00",
         "link": "https://www.opovo.com.br/vidaearte/agenda/2026/03/24/peca-baseada-na-obra-de-dostoievski-e-exibida-na-rede-cuca-gratuito.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Edisca inaugura loja física do brechó Segundo Ato; saiba quando",
@@ -647,7 +667,7 @@
         "dataPublicacao": "2026-03-24 16:39:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/24/edisca-inaugura-loja-fisica-do-brecho-segundo-ato-saiba-quando.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Mostra restaura obras do artista cearense Zé Pinto",
@@ -657,7 +677,7 @@
         "dataPublicacao": "2026-03-24 10:37:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/24/mostra-restaura-obras-do-artista-cearense-ze-pinto.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Com shows de Rachel Reis e Fat Family, Estação das Artes celebra quatro anos",
@@ -667,7 +687,7 @@
         "dataPublicacao": "2026-03-24 10:28:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/24/com-rachel-reis-e-fat-family-estacao-das-artes-celebra-4-anos.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Bridgerton: 5ª temporada destaca romance de Francesca e Michaela",
@@ -677,7 +697,7 @@
         "dataPublicacao": "2026-03-24 10:01:21",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/24/bridgerton-5-temporada-destaca-romance-de-francesca-e-michaela.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  24 de março(24/03)",
@@ -687,7 +707,7 @@
         "dataPublicacao": "2026-03-24 09:00:14",
         "link": "https://www.opovo.com.br/vidaearte/cinema/2026/03/24/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-24-de-marco-24-03.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "'Emergência Radioativa': o que é verdade e ficção na nova série da Netflix",
@@ -697,7 +717,7 @@
         "dataPublicacao": "2026-03-24 06:00:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/24/emergencia-radioativa-o-que-e-verdade-e-ficcao-na-nova-serie-da-netflix.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo quarta, 25/03/2026",
@@ -707,7 +727,7 @@
         "dataPublicacao": "2026-03-24 00:15:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/24/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-terca-24-03-2026.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Morre Gerson Brenner, ator de ‘Rainha da Sucata’, aos 66 anos",
@@ -717,7 +737,7 @@
         "dataPublicacao": "2026-03-23 23:50:01",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/23/gerson-brenner-ator-de-rainha-da-sucata-morre-aos-66-anos.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Banda Coda faz tributo ao 1º álbum da Legião Urbana na sexta, 27 ",
@@ -727,7 +747,7 @@
         "dataPublicacao": "2026-03-23 19:17:13",
         "link": "https://www.opovo.com.br/vidaearte/agenda/2026/03/23/banda-coda-faz-tributo-ao-1-album-da-legiao-urbana-na-sexta-27.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Festival intergeracional homenageia artistas 60+ de Fortaleza ",
@@ -737,7 +757,7 @@
         "dataPublicacao": "2026-03-23 19:11:00",
         "link": "https://www.opovo.com.br/vidaearte/agenda/2026/03/23/festival-intergeracional-homenageia-artistas-60-de-fortaleza.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Banda Coda faz tributo ao 1º álbum da Legião Urbana na sexta, 27 ",
@@ -747,7 +767,7 @@
         "dataPublicacao": "2026-03-23 17:53:00",
         "link": "https://www.opovo.com.br/vidaearte/agenda/2026/03/23/.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Valerie Perrine, atriz de 'Superman', morre aos 82 anos; relembre",
@@ -757,7 +777,7 @@
         "dataPublicacao": "2026-03-23 16:58:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/23/valerie-perrine-atriz-de-superman-morre-aos-82-anos-relembre.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  23 de março(23/03)",
@@ -767,7 +787,7 @@
         "dataPublicacao": "2026-03-23 09:00:13",
         "link": "https://www.opovo.com.br/vidaearte/cinema/2026/03/23/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-23-de-marco-23-03.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Terror e história: abertas inscrições para tour no Cemitério São João Batista",
@@ -777,7 +797,7 @@
         "dataPublicacao": "2026-03-23 09:00:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/23/terror-e-historia-abertas-inscricoes-para-tour-no-cemiterio-sao-joao-batista.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo segunda, 23/03/2026",
@@ -787,7 +807,7 @@
         "dataPublicacao": "2026-03-23 00:15:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/23/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-segunda-23-03-2026.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  22 de março(22/03)",
@@ -797,7 +817,7 @@
         "dataPublicacao": "2026-03-22 09:00:13",
         "link": "https://www.opovo.com.br/vidaearte/cinema/2026/03/22/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-22-de-marco-22-03.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Temperatura Máxima hoje (22/03/26); filme de domingo na TV Globo",
@@ -807,7 +827,7 @@
         "dataPublicacao": "2026-03-22 02:00:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/22/temperatura-maxima-hoje-22-03-26-filme-de-domingo-na-tv-globo.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Biblioteca da Sabiaguaba cresce, amplia alcance e tenta comprar sede",
@@ -817,7 +837,7 @@
         "dataPublicacao": "2026-03-21 14:00:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/21/biblioteca-da-sabiaguaba-cresce-amplia-alcance-e-tenta-comprar-sede.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Paixão de Cristo: saiba onde ocorrem as maiores encenações no Brasil",
@@ -827,7 +847,7 @@
         "dataPublicacao": "2026-03-21 13:55:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/21/paixao-de-cristo-saiba-onde-ocorrem-as-maiores-encenacoes-no-brasil.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "\"Oficialmente em remissão\": Dani Gondim celebra vitória contra o câncer",
@@ -837,7 +857,7 @@
         "dataPublicacao": "2026-03-21 12:15:16",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/21/oficialmente-em-remissao-dani-gondim-celebra-vitoria-contra-o-cancer.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Morre aos 91 anos o ator e dramaturgo Juca de Oliveira",
@@ -847,7 +867,7 @@
         "dataPublicacao": "2026-03-21 11:23:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/21/morre-aos-91-anos-o-ator-e-dramaturgo-juca-de-oliveira.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "O que fazer em Fortaleza hoje, 21/03? Veja agenda de festas e shows",
@@ -857,7 +877,7 @@
         "dataPublicacao": "2026-03-21 11:00:00",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/21/o-que-fazer-em-fortaleza-hoje-21-03-veja-agenda-de-festas-e-shows.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  21 de março(21/03)",
@@ -867,7 +887,7 @@
         "dataPublicacao": "2026-03-21 09:00:13",
         "link": "https://www.opovo.com.br/vidaearte/cinema/2026/03/21/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-21-de-marco-21-03.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     },
     {
         "titulo": "BTS está de volta após hiato de quase quatro anos",
@@ -877,26 +897,6 @@
         "dataPublicacao": "2026-03-21 00:03:42",
         "link": "https://www.opovo.com.br/vidaearte/2026/03/21/bts-esta-de-volta-apos-hiato-de-quase-quatro-anos.html",
         "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
-    },
-    {
-        "titulo": "Mestre Ambrósio e Leila Pinheiro se apresentam da Caixa Cultural",
-        "subtitulo": "Mestre Ambrósio toca nos dias 11 e 12 e Leila Pinheiro se apresenta de 15 a 19; agenda completa sai em breve",
-        "categoria": "Agenda",
-        "autor": "Carolina Passos",
-        "dataPublicacao": "2026-03-20 19:57:00",
-        "link": "https://www.opovo.com.br/vidaearte/agenda/2026/03/20/mestre-ambrosio-e-leila-pinheiro-se-apresentam-da-caixa-cultural.html",
-        "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
-    },
-    {
-        "titulo": "Romeu e Julieta ganha releitura com bois Caprichoso e Garantido",
-        "subtitulo": "Espetáculo inspirado em Romeu e Julieta, clássico de Shakespeare, ganha releitura amazonense",
-        "categoria": "Agenda",
-        "autor": "Eduarda Porfírio ",
-        "dataPublicacao": "2026-03-20 16:01:00",
-        "link": "https://www.opovo.com.br/vidaearte/agenda/2026/03/20/romeu-e-julieta-ganha-releitura-com-bois-caprichoso-e-garantido.html",
-        "jornal": "opovo",
-        "createdAt": "2026-04-02 16:25:09"
+        "createdAt": "2026-04-03 03:13:39"
     }
 ]
