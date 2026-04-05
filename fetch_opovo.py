@@ -1,5 +1,6 @@
 import json
-from datetime import datetime
+import time
+from datetime import datetime, timedelta, timezone
 
 import requests
 
@@ -20,6 +21,10 @@ def fetch_opovo(url, params, headers):
 
             for item in data:
                 try:
+                    fuso_brasilia = timezone(timedelta(hours=-3))
+                    created_at = datetime.now(fuso_brasilia).strftime(
+                        "%Y-%m-%d %H:%M:%S"
+                    )
                     all_data.append(
                         {
                             "titulo": item["ds_matia_titlo"],
@@ -29,7 +34,7 @@ def fetch_opovo(url, params, headers):
                             "dataPublicacao": item["dt_matia_publi"],
                             "link": "https://www.opovo.com.br" + item["ds_matia_path"],
                             "jornal": "opovo",
-                            "createdAt": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                            "createdAt": created_at,
                         }
                     )
                 except KeyError:
@@ -43,19 +48,22 @@ def fetch_opovo(url, params, headers):
 
 
 if __name__ == "__main__":
-    url = "https://www.opovo.com.br/index.php"
+    while True:
+        url = "https://www.opovo.com.br/index.php"
 
-    params = {
-        "id": "/reboot/src/endpoints/VerMais.php",
-        "dinamico": 1,
-        "site_arvor": "Vida&Arte",
-        "offset": 0,
-        "limit": 30,
-    }
+        params = {
+            "id": "/reboot/src/endpoints/VerMais.php",
+            "dinamico": 1,
+            "site_arvor": "Vida&Arte",
+            "offset": 0,
+            "limit": 30,
+        }
 
-    headers = {"User-Agent": "Mozilla/5.0"}
+        headers = {"User-Agent": "Mozilla/5.0"}
 
-    data = fetch_opovo(url, params, headers)
+        data = fetch_opovo(url, params, headers)
 
-    with open("data/artigos_opovo.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
+        with open("data/artigos_opovo.json", "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=4)
+
+        time.sleep(360)
