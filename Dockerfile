@@ -10,4 +10,4 @@ COPY . .
 
 EXPOSE 5001
 
-CMD ["python", "fetch_opovo.py"]
+CMD ["python", "site.py"]
