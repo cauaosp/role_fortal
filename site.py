@@ -1,4 +1,5 @@
 import json
+import os
 
 from flask import Flask, jsonify
 from flask_cors import CORS
@@ -6,12 +7,25 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)
 
+DATA_FILE = "data/artigos_opovo.json"
+
 
 @app.route("/opovo")
 def get_opovo():
-    with open("data/artigos_opovo.json", "r") as f:
-        data = json.load(f)
-    return jsonify(data)
+    if not os.path.exists(DATA_FILE):
+        return jsonify({"error": "Dados não disponíveis ainda", "artigos": []}), 503
+
+    try:
+        with open(DATA_FILE, "r") as f:
+            data = json.load(f)
+        return jsonify(data)
+    except json.JSONDecodeError:
+        return jsonify({"error": "Erro ao ler dados", "artigos": []}), 500
+
+
+@app.route("/")
+def index():
+    return jsonify({"Status": "rodando", "endpoints": ["/opovo"]})
 
 
 if __name__ == "__main__":
