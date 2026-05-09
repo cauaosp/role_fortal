@@ -1,6 +1,46 @@
 {
     "opovo": [
         {
+            "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  06 de maio(06/05)",
+            "subtitulo": "Veja programação - com estreia, horários de hoje, quarta, 06 de maio(06/05), dos cinemas de Fortaleza.",
+            "categoria": "Cinema",
+            "autor": "Ingresso.com",
+            "dataPublicacao": "2026-05-06 09:00:13",
+            "link": "https://www.opovo.com.br/vidaearte/cinema/2026/05/06/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-06-de-maio-06-05.html",
+            "jornal": "opovo",
+            "createdAt": "2026-05-09 02:07:17"
+        },
+        {
+            "titulo": "Barbalha 2026: fé e grandes shows na Festa do Pau da Bandeira",
+            "subtitulo": "Com missas, shows e quermesses, a Festa do Pau da Bandeira  mobiliza a cidade de Barbalha. Elba Ramalho, Taty Girl e Lagosta Bronzeada são atrações; Veja programação\r\n",
+            "categoria": "Vida&Arte",
+            "autor": "Laíssa Esmeraldo/ Especial para O POVO",
+            "dataPublicacao": "2026-05-06 08:00:00",
+            "link": "https://www.opovo.com.br/vidaearte/2026/05/06/barbalha-2026-fe-e-grandes-shows-na-festa-do-pau-da-bandeira.html",
+            "jornal": "opovo",
+            "createdAt": "2026-05-09 02:07:17"
+        },
+        {
+            "titulo": "A saga de Orson Welles no Ceará: morte, censura e o filme inacabado \"It's All True\"",
+            "subtitulo": "Conheça a história de \"It's All True\", o documentário inacabado que uniu o gênio de Hollywood à luta por direitos dos pescadores cearenses em 1942",
+            "categoria": "Vida&Arte",
+            "autor": "Arthur Albano",
+            "dataPublicacao": "2026-05-06 06:00:00",
+            "link": "https://www.opovo.com.br/vidaearte/2026/05/06/a-saga-de-orson-welles-no-ceara-morte-censura-e-o-filme-inacabado-its-all-true.html",
+            "jornal": "opovo",
+            "createdAt": "2026-05-09 02:07:17"
+        },
+        {
+            "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo quarta, 06/05/2026",
+            "subtitulo": "Um filme de drama vai passar na Sessão da Tarde hoje, quarta 6 de maio de 2026, (06/05/2026) às 15h35min (horário de Brasília), na TV Globo",
+            "categoria": "Vida&Arte",
+            "autor": "Laíssa Esmeraldo/ Especial para O POVO",
+            "dataPublicacao": "2026-05-06 00:15:00",
+            "link": "https://www.opovo.com.br/vidaearte/2026/05/06/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-quarta-06-05-2026.html",
+            "jornal": "opovo",
+            "createdAt": "2026-05-09 02:07:17"
+        },
+        {
             "titulo": "Amazon não vai encerrar venda de livros físicos; entenda boato",
             "subtitulo": "A informação é referente a antigas versões do Kindle, mas teve interpretação confundida em alguns veículos e circulou nas redes sociais",
             "categoria": "Vida&Arte",
@@ -8,7 +48,7 @@
             "dataPublicacao": "2026-05-05 15:41:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/05/amazon-nao-vai-encerrar-venda-de-livros-fisicos-entenda-boato.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "Tour 'Assombros e memórias' narra Fortaleza em aula guiada em cemitério",
@@ -18,7 +58,7 @@
             "dataPublicacao": "2026-05-05 13:08:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/05/tour-narra-historia-de-fortaleza-em-aula-guiada-no-cemiterio.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  05 de maio(05/05)",
@@ -28,7 +68,7 @@
             "dataPublicacao": "2026-05-05 09:00:12",
             "link": "https://www.opovo.com.br/vidaearte/cinema/2026/05/05/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-05-de-maio-05-05.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "Shows em Fortaleza: confira a programação para maio",
@@ -38,7 +78,7 @@
             "dataPublicacao": "2026-05-05 08:00:00",
             "link": "https://www.opovo.com.br/vidaearte/shows-e-espetaculos/2026/05/05/shows-em-fortaleza-confira-a-programacao-para-maio.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo terça, 05/05/2026",
@@ -48,7 +88,7 @@
             "dataPublicacao": "2026-05-05 00:15:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/05/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-terca-05-05-2026.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "O caso de amor entre dois homens que abalou o Império Alemão",
@@ -58,7 +98,7 @@
             "dataPublicacao": "2026-05-05 00:09:58",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/05/o-caso-de-amor-entre-dois-homens-que-abalou-o-imperio-alemao.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "Wesley Safadão rebate críticas por cachês recebidos de prefeituras",
@@ -68,7 +108,7 @@
             "dataPublicacao": "2026-05-04 12:47:26",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/04/wesley-safadao-rebate-criticas-por-caches-recebidos-de-prefeituras.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "Atriz Alanis Guillen obtém medida protetiva contra ex-namorada Giovanna Reis",
@@ -78,7 +118,7 @@
             "dataPublicacao": "2026-05-04 12:41:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/04/alanis-guillen-consegue-medida-protetiva-contra-ex-entenda.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "Morre aos 69 anos o cantor e compositor cearense Evaristo Filho",
@@ -88,7 +128,7 @@
             "dataPublicacao": "2026-05-04 12:28:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/04/morre-aos-69-anos-o-cantor-e-compositor-cearense-evaristo-filho.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "'A Casa dos Espíritos': conheça o livro que inspirou série da Amazon Prime",
@@ -98,7 +138,7 @@
             "dataPublicacao": "2026-05-04 11:01:54",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/04/a-casa-dos-espiritos-livro-que-inspirou-serie-da-amazon-prime.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  04 de maio(04/05)",
@@ -108,7 +148,7 @@
             "dataPublicacao": "2026-05-04 09:00:11",
             "link": "https://www.opovo.com.br/vidaearte/cinema/2026/05/04/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-04-de-maio-04-05.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "MEC Livros: obras e autores premiados para ler na plataforma gratuita",
@@ -118,7 +158,7 @@
             "dataPublicacao": "2026-05-04 06:32:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/04/mec-livros-obras-e-autores-premiados-para-ler-na-plataforma-gratuita.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo segunda, 04/05/2026",
@@ -128,7 +168,7 @@
             "dataPublicacao": "2026-05-04 00:15:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/04/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-segunda-04-05-2026.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "Banksy confirma autoria de nova estátua no centro de Londres",
@@ -138,7 +178,7 @@
             "dataPublicacao": "2026-05-04 00:04:49",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/04/banksy-confirma-autoria-de-nova-estatua-no-centro-de-londres.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "Imprensa europeia celebra show histórico de Shakira em Copacabana",
@@ -148,7 +188,7 @@
             "dataPublicacao": "2026-05-04 00:04:44",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/04/imprensa-europeia-celebra-show-historico-de-shakira-em-copacabana.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "Conheça atores de doramas que são ou já foram cantores de kpop",
@@ -158,7 +198,7 @@
             "dataPublicacao": "2026-05-03 16:00:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/03/conheca-atores-de-doramas-que-sao-ou-ja-foram-cantores-de-kpop.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "Domingo Maior: qual filme passa hoje (03/05/26), domingo, na TV Globo",
@@ -168,7 +208,7 @@
             "dataPublicacao": "2026-05-03 13:00:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/03/domingo-maior-qual-filme-passa-hoje-03-05-26-domingo-na-tv-globo.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  03 de maio(03/05)",
@@ -178,7 +218,7 @@
             "dataPublicacao": "2026-05-03 09:00:12",
             "link": "https://www.opovo.com.br/vidaearte/cinema/2026/05/03/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-03-de-maio-03-05.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "Temperatura Máxima hoje (03/05/26); filme de domingo na TV Globo",
@@ -188,7 +228,7 @@
             "dataPublicacao": "2026-05-03 00:15:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/03/temperatura-maxima-hoje-03-05-26-filme-de-domingo-na-tv-globo.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "Shakira em Copacabana: veja horário e como assistir ao show deste sábado, 2",
@@ -198,7 +238,7 @@
             "dataPublicacao": "2026-05-02 18:51:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/02/shakira-em-copacabana-onde-ver-e-detalhes-do-show.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "O que fazer em Fortaleza hoje, 02/05? Veja agenda de festas e shows",
@@ -208,7 +248,7 @@
             "dataPublicacao": "2026-05-02 11:00:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/02/o-que-fazer-em-fortaleza-hoje-02-05-veja-agenda-de-festas-e-shows.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  02 de maio(02/05)",
@@ -218,7 +258,7 @@
             "dataPublicacao": "2026-05-02 08:55:13",
             "link": "https://www.opovo.com.br/vidaearte/cinema/2026/05/02/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-02-de-maio-02-05.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "Prime Video, Netflix e HBO Max: as estreias da semana (27/04 a 03/05)",
@@ -228,7 +268,7 @@
             "dataPublicacao": "2026-05-01 11:00:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/01/prime-video-netflix-e-hbo-max-as-estreias-da-semana-27-04-a-03-05.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "O que fazer em Fortaleza hoje, 01/05? Veja agenda de festas e shows",
@@ -238,7 +278,7 @@
             "dataPublicacao": "2026-05-01 11:00:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/01/o-que-fazer-em-fortaleza-hoje-01-05-veja-agenda-de-festas-e-shows.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  01 de maio(01/05)",
@@ -248,7 +288,7 @@
             "dataPublicacao": "2026-05-01 09:00:14",
             "link": "https://www.opovo.com.br/vidaearte/cinema/2026/05/01/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-01-de-maio-01-05.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
+            "createdAt": "2026-05-09 02:07:17"
         },
         {
             "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo sexta, 01/05/2026",
@@ -258,650 +298,152 @@
             "dataPublicacao": "2026-05-01 00:15:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/01/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-sexta-01-05-2026.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
-        },
-        {
-            "titulo": "Pause: especialistas debatem o Dia Internacional do Trabalhador",
-            "subtitulo": "Em clima de 1º de Maio, o programa recebe a professora e pesquisadora Alba Carvalho (UFC) e a mentora e especialista em desenvolvimento de líderes Maria Reinald",
-            "categoria": "Vida&Arte",
-            "autor": "George Sousa ",
-            "dataPublicacao": "2026-04-30 15:37:45",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/30/pause-especialistas-debatem-o-dia-internacional-do-trabalhador.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
-        },
-        {
-            "titulo": "'Fantástica Fábrica de Chocolate': Netflix anuncia animação e reality show ",
-            "subtitulo": "Com Kit Connor e Taika Waititi, o longa de animação traz o universo de Willy Wonka para a atualidade. Netflix também prepara um reality show inspirado na história\r\n",
-            "categoria": "Vida&Arte",
-            "autor": "Lívia Vieira/ Especial para O POVO",
-            "dataPublicacao": "2026-04-30 12:21:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/30/fantastica-fabrica-de-chocolate-netflix-tera-filme-e-reality.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
-        },
-        {
-            "titulo": "Nove anos sem Belchior: obra conecta gerações e emoções",
-            "subtitulo": "O legado do cantor Belchior segue tocando e influenciando a vida de muitos, mantendo-o vivo na vida de brasileiros e atravessando gerações \r\n",
-            "categoria": "Vida&Arte",
-            "autor": "Laíssa Esmeraldo/ Especial para O POVO",
-            "dataPublicacao": "2026-04-30 11:24:29",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/30/nove-anos-sem-belchior-obra-conecta-geracoes-e-emocoes.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
-        },
-        {
-            "titulo": "Rita Lessa expõe 50 anos de produção em exposição na Cave Galeria ",
-            "subtitulo": "Artista mineira reúne 50 anos de produção em mostra que investiga imagem, inconsciente e formas híbridas em Fortaleza ",
-            "categoria": "Vida&Arte",
-            "autor": "Carolina Passos",
-            "dataPublicacao": "2026-04-30 11:14:25",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/30/rita-lessa-expoe-50-anos-de-producao-em-exposicao-na-cave-galeria.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:37"
-        },
-        {
-            "titulo": "Belchior: o eterno retorno do rapaz latino-americano",
-            "subtitulo": "Nove anos após sua morte, a obra do cantor cearense Belchior segue atual, crítica e inquieta – um \"novo\" que nunca se esgota",
-            "categoria": "Vida&Arte",
-            "autor": "Vida&Arte O POVO",
-            "dataPublicacao": "2026-04-30 11:00:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/30/belchior-o-eterno-retorno-do-rapaz-latino-americano.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "O Diabo Veste Prada 2: Elenco original retorna, novas estrelas chegam e participações são cortadas",
-            "subtitulo": "Com o retorno de Meryl Streep e Anne Hathaway, sequência do clássico de 2006 aposta em ícones da moda como Donatella Versace e Lady Gaga. Veja quem mais aparece",
-            "categoria": "Filme",
-            "autor": "Arthur Albano",
-            "dataPublicacao": "2026-04-30 09:33:00",
-            "link": "https://www.opovo.com.br/vidaearte/cinema/filme/2026/04/30/o-diabo-veste-prada-2-veja-todos-os-famosos-que-aparecem-no-filme.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  30 de abril(30/04)",
-            "subtitulo": "Veja programação - com estreia, horários de hoje, quinta, 30 de abril(30/04), dos cinemas de Fortaleza.",
-            "categoria": "Cinema",
-            "autor": "Ingresso.com",
-            "dataPublicacao": "2026-04-30 09:00:13",
-            "link": "https://www.opovo.com.br/vidaearte/cinema/2026/04/30/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-30-de-abril-30-04.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo quinta, 30/04/2026",
-            "subtitulo": "Um filme de comédia vai passar na Sessão da Tarde hoje,quinta,30 abril de 2026 (30/04/2026) às 15h40min (horário de Brasília), na TV Globo",
-            "categoria": "Vida&Arte",
-            "autor": "Carolina Passos",
-            "dataPublicacao": "2026-04-30 00:15:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/30/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-quinta-30-04-2026.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "De ingresso a R$5 à acusação de plágio: 5 curiosidades sobre Shakira",
-            "subtitulo": "Confira alguns fatos que marcaram os 30 anos de carreira da cantora colombiana",
-            "categoria": "Vida&Arte",
-            "autor": "DW",
-            "dataPublicacao": "2026-04-30 00:09:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/30/de-ingresso-a-rs-5-a-acusacao-de-plagio-5-curiosidades-sobre-shakira.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Met Gala 2026: veja o que se sabe até agora",
-            "subtitulo": "Com o código de vestimenta Fashion is Art, edição 2026 celebra a moda como expressão artística central, com Beyoncé e Anna Wintour no papel de anfitriãs",
-            "categoria": "Vida&Arte",
-            "autor": "Arthur Albano",
-            "dataPublicacao": "2026-04-29 22:52:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/29/met-gala-2026-veja-o-que-se-sabe-ate-agora.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Cearense Davi Cartaxo lança ‘Templo’, segundo álbum autoral",
-            "subtitulo": "Com lançamento em 7 de maio, disco de Davi Cartaxo reúne oito faixas autorais e apresenta sonoridade moderna construída entre introspecção e energia",
-            "categoria": "Vida&Arte",
-            "autor": "Carolina Passos",
-            "dataPublicacao": "2026-04-29 19:42:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/29/cearense-davi-cartaxo-lanca-templo-segundo-album-autoral.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "RPG de ação 'Crimson Desert' é tão grande que se perde",
-            "subtitulo": "\"Crimson Desert\" combina um mundo aberto gigantesco com gráficos impressionantes, mas sofre com enredo pobre e sistemas confusos. Ainda assim, é muito divertido",
-            "categoria": "Vida&Arte",
-            "autor": null,
-            "dataPublicacao": "2026-04-29 18:30:47",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/29/rpg-de-acao-crimson-desert-e-tao-grande-que-se-perde.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Dia Mundial do Jazz: roteiro para curtir o gênero em Fortaleza",
-            "subtitulo": "Em homenagem ao Dia Mundial do Jazz, celebrado nesta quinta-feira, 30, espaços proporcionam experiências únicas com o estilo musical norte-americano que conquistou o mundo\r\n",
-            "categoria": "Vida&Arte",
-            "autor": null,
-            "dataPublicacao": "2026-04-29 17:18:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/29/dia-mundial-do-jazz-roteiro-para-curtir-o-genero-em-fortaleza.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Ator Sam Neill, de 'Jurassic Park', diz que superou câncer",
-            "subtitulo": "O ator Sam Neill passou por uma terapia genética e afirma ter superado um câncer no sangue",
-            "categoria": "Cinema",
-            "autor": "AFP",
-            "dataPublicacao": "2026-04-29 16:21:00",
-            "link": "https://www.opovo.com.br/vidaearte/cinema/2026/04/29/ator-sam-neill-de-jurassic-park-diz-que-superou-cancer.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Madrinha do punk, Patti Smith recebe prêmio Princesa de Astúrias",
-            "subtitulo": "Cantora, compositora, poetisa e escritora de 79 anos, Patti Smith foi apresentada pela Fundação Princesa das Astúrias como \"uma comunicadora multidisciplinar e iconoclasta\"",
-            "categoria": "Vida&Arte",
-            "autor": "AFP",
-            "dataPublicacao": "2026-04-29 16:04:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/29/madrinha-do-punk-patti-smith-recebe-premio-princesa-de-asturias.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "DFB Festival divulga programação; evento será no Dragão do Mar",
-            "subtitulo": "A 27ª edição do DFB Festival será entre os dias 9 e 12 de junho. Evento retorna à Praia de Iracema e integra comemorações dos 300 de Fortaleza",
-            "categoria": "Vida&Arte",
-            "autor": "Larissa Viegas",
-            "dataPublicacao": "2026-04-29 12:01:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/29/dfb-festival-divulga-programacao-evento-sera-no-dragao-do-mar.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Visitas guiadas por Fortaleza recontam os 300 anos da cidade",
-            "subtitulo": "Seja para conhecer a história, a religiosidade, o patrimônio ou a cultura de Fortaleza, visitas guiadas levam os participantes a desbravar locais importantes para a fundação e desenvolvimento da capital cearense",
-            "categoria": "Vida&Arte",
-            "autor": "Lillian Santos",
-            "dataPublicacao": "2026-04-29 11:15:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/29/visitas-guiadas-por-fortaleza-recontam-os-300-anos-da-cidade.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "'DTF St. Louis': desconfortável, estranha e impecável",
-            "subtitulo": "Uma morte logo de cara, três protagonistas em crise, traições e um aplicativo que conecta desejos. Tudo isso está na série da HBO Max: \"DTF St. Louis\"\r\n",
-            "categoria": "Vida&Arte",
-            "autor": "Fernando Graziani",
-            "dataPublicacao": "2026-04-29 10:19:00",
-            "link": "https://www.opovo.com.br/vidaearte/cinema/2026/04/29/dtf-st-louis-desconfortavel-estranha-e-impecavel.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Daniela Mercury insinua que Edson Gomes agride esposa; cantor rebate",
-            "subtitulo": "Cantora faz fala sobre violência contra a mulher, sugere agressão e gera reação imediata de Edson Gomes em evento com artistas",
-            "categoria": "Vida&Arte",
-            "autor": "Izabele Vasconcelos",
-            "dataPublicacao": "2026-04-29 10:18:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/29/edson-gomes-e-daniela-mercury-entenda-briga-ao-vivo-em-palco.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  29 de abril(29/04)",
-            "subtitulo": "Veja programação - com estreia, horários de hoje, quarta, 29 de abril(29/04), dos cinemas de Fortaleza.",
-            "categoria": "Cinema",
-            "autor": "Ingresso.com",
-            "dataPublicacao": "2026-04-29 09:00:11",
-            "link": "https://www.opovo.com.br/vidaearte/cinema/2026/04/29/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-29-de-abril-29-04.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo quarta, 29/04/2026",
-            "subtitulo": "Um filme de ficção científica vai passar na Sessão da Tarde hoje,quarta,29 abril de 2026 (29/04/2026) às 15h40min (horário de Brasília), na TV Globo",
-            "categoria": "Vida&Arte",
-            "autor": "Carolina Passos",
-            "dataPublicacao": "2026-04-29 00:15:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/29/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-quarta-29-04-2026.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Tom Hardy, ator de Venom, anuncia pausa na carreira; saiba motivo",
-            "subtitulo": "Após anuncio de Tom Hardy, tabloide britânico e fontes próximas ao ator dizem que intervalo pode durar anos; entenda o motivo",
-            "categoria": "Vida&Arte",
-            "autor": "Júlia Honorato",
-            "dataPublicacao": "2026-04-28 21:55:08",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/28/tom-hardy-ator-de-venom-anuncia-pausa-na-carreira-saiba-motivo.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "O Diabo Veste Prada 2: um filme que Hollywood desistiu de fazer, mas faz falta",
-            "subtitulo": "Em \"O Diabo Veste Prada 2\", Miranda, Andrea, Nigel e Emily voltam 20 anos depois para uma história que ainda tem algo a dizer sobre o mundo",
-            "categoria": "Cinema",
-            "autor": "Arthur Gadelha",
-            "dataPublicacao": "2026-04-28 18:41:00",
-            "link": "https://www.opovo.com.br/vidaearte/cinema/2026/04/28/o-diabo-veste-prada-2-um-filme-que-hollywood-desistiu-de-fazer-mas-faz-falta.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Homem assume culpa de planejar atentado em show de Taylor Swift",
-            "subtitulo": "Beran A., de 21 anos, se declarou culpado por planejar atentado jihadista contra show de Taylor Swift em 2024",
-            "categoria": "Vida&Arte",
-            "autor": "AFP",
-            "dataPublicacao": "2026-04-28 16:56:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/28/homem-assume-culpa-de-planejar-atentado-em-show-de-taylor-swift.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Morre Wilson Cirino, músico e compositor cearense, aos 76 anos",
-            "subtitulo": "Violonista, compositor e arranjador cearense, José Wilson Cirino foi um dos protagonistas do Pessoal do Ceará",
-            "categoria": "Vida&Arte",
-            "autor": "Julia Vasconcelos",
-            "dataPublicacao": "2026-04-28 14:35:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/28/morre-wilson-cirino-musico-e-compositor-cearense-aos-76-anos.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Cangaço Novo terá 3ª temporada? Entenda como terminou ",
-            "subtitulo": "O rastro de sangue e poeira deixado pela segunda temporada de Cangaço Novo, da Pime Video, ainda nem baixou, mas os fãs já querem outra temporada. Veja possibilidades",
-            "categoria": "Vida&Arte",
-            "autor": "Yasmin Louise Szezerbatz",
-            "dataPublicacao": "2026-04-28 13:40:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/28/cangaco-novo-tera-3-temporada-entenda-como-terminou.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Marina Sena é atração de festival gratuito em Uruoca ",
-            "subtitulo": "Apresentação da cantora mineira Marina Sena foi confirmada pela prefeitura do município. Ela é atração do Festival de Quadrilhas de Uruoca (FQU). Confira detalhes",
-            "categoria": "Vida&Arte",
-            "autor": "Lívia Vieira/ Especial para O POVO",
-            "dataPublicacao": "2026-04-28 12:39:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/28/marina-sena-e-atracao-de-festival-gratuito-em-uruoca.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Gravadora em Juazeiro do Norte promove novos músicos do Ceará",
-            "subtitulo": "Nova gravadora localizada no Centro de Juazeiro do Norte, Ninho de Cobras é criada para atender demanda de artistas independentes das redondezas",
-            "categoria": "Vida&Arte",
-            "autor": "Julia Vasconcelos",
-            "dataPublicacao": "2026-04-28 10:00:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/28/gravadora-em-juazeiro-do-norte-promove-novos-musicos-do-ceara.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  28 de abril(28/04)",
-            "subtitulo": "Veja programação - com estreia, horários de hoje, terça, 28 de abril(28/04), dos cinemas de Fortaleza.",
-            "categoria": "Cinema",
-            "autor": "Ingresso.com",
-            "dataPublicacao": "2026-04-28 09:00:12",
-            "link": "https://www.opovo.com.br/vidaearte/cinema/2026/04/28/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-28-de-abril-28-04.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Cangaço Novo: elenco cearense ganha destaque na 2ª temporada ",
-            "subtitulo": "Além do elenco principal, série \"Cangaço Novo\", do Prime Video reúne artistas cearenses como Marta Aurélia, Yuri Yamamoto, Nataly Rocha e Robério Diógenes\r\n",
-            "categoria": "Cinema",
-            "autor": "Arthur Gadelha",
-            "dataPublicacao": "2026-04-28 09:00:00",
-            "link": "https://www.opovo.com.br/vidaearte/cinema/2026/04/28/cangaco-novo-elenco-cearense-ganha-destaque-na-2-temporada.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Shakira em Copacabana: saiba quando será o show e onde assistir online",
-            "subtitulo": "Shakira é a terceira cantora a se apresentar em Copacabana pelo projeto Todo Mundo no Rio; confira horário e onde assistir ao vivo",
-            "categoria": "Shows e Espetáculos",
-            "autor": "Júlia Honorato",
-            "dataPublicacao": "2026-04-27 23:15:43",
-            "link": "https://www.opovo.com.br/vidaearte/shows-e-espetaculos/2026/04/27/shakira-em-copacabana-veja-quando-e-o-show-e-onde-assistir.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Shakira promete surpresas no RJ; o que se sabe sobre o show em Copacabana",
-            "subtitulo": "A colombiana se apresenta no próximo sábado, 2, no Rio de Janeiro. Confira o que se sabe e expectativas para o show\r\n",
-            "categoria": "Shows e Espetáculos",
-            "autor": "Mariana Fernandes",
-            "dataPublicacao": "2026-04-27 23:04:00",
-            "link": "https://www.opovo.com.br/vidaearte/shows-e-espetaculos/2026/04/27/shakira-promete-surpresas-no-rj-veja-o-que-se-sabe-do-show.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "O POVO conquista dois prêmios no SND, o 'Oscar' do design mundial",
-            "subtitulo": "Pelo segundo ano consecutivo, O POVO é reconhecido pela Society for News Design (SND). As capas premiadas abordam a sucessão papal e as políticas ambientais de Donald Trump",
-            "categoria": "Vida&Arte",
-            "autor": "Carolina Passos",
-            "dataPublicacao": "2026-04-27 21:19:50",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/27/o-povo-conquista-dois-premios-no-snd-o-oscar-do-design-mundial.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "Michael Jackson: entenda as denúncias de abuso sexual contra o cantor",
-            "subtitulo": "Das primeiras denúncias nos anos 1990 às ações judiciais após sua morte, entenda a cronologia das acusações e os motivos legais que levaram a cinebiografia a excluir esse conteúdo",
-            "categoria": "Vida&Arte",
-            "autor": "Arthur Albano",
-            "dataPublicacao": "2026-04-27 17:18:32",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/27/michael-jackson-entenda-as-investigacoes-de-abuso-sexual.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:38"
-        },
-        {
-            "titulo": "A Casa do Dragão: veja o que se sabe sobre a 3° temporada da série",
-            "subtitulo": "Confira as expectativas e bastidores da nova temporada da série do universo de Game of Thrones",
-            "categoria": "Vida&Arte",
-            "autor": "Lívia Vieira/ Especial para O POVO",
-            "dataPublicacao": "2026-04-27 17:06:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/27/a-casa-do-dragao-tudo-que-sabemos-sobre-a-3-temporada.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Michael, a cinebiografia do rei do pop terá sequência? Saiba mais",
-            "subtitulo": "Estúdio avalia continuação para explorar fase mais controversa da vida do artista, com possível reaproveitamento de cenas já filmadas",
-            "categoria": "Filme",
-            "autor": "Arthur Albano",
-            "dataPublicacao": "2026-04-27 15:02:25",
-            "link": "https://www.opovo.com.br/vidaearte/cinema/filme/2026/04/27/michael-a-cinebiografia-do-rei-do-pop-tera-sequencia-saiba-mais.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Cratará é uma cidade no Ceará? Veja onde foi gravada 'Cangaço Novo'",
-            "subtitulo": "A 2ª temporada de \"Cangaço Novo\" estreou em 24 de abril no Prime Video e reacendeu a curiosidade: Cratará existe no Ceará? Entenda a origem do cenário",
-            "categoria": "Vida&Arte",
-            "autor": "Izabele Vasconcelos",
-            "dataPublicacao": "2026-04-27 13:40:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/27/cratara-existe-no-ceara-saiba-onde-cangaco-novo-foi-gravada.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "'Michael': veja todas as polêmicas cujos cortes do filme custaram US$ 15 milhões",
-            "subtitulo": "Longa passou por refilmagens milionárias e retirou sequências sobre denúncias de abuso, alterando profundamente o terceiro ato e seu desfecho original. Saiba mais",
-            "categoria": "Filme",
-            "autor": "Arthur Albano",
-            "dataPublicacao": "2026-04-27 11:38:00",
-            "link": "https://www.opovo.com.br/vidaearte/cinema/filme/2026/04/27/michael-veja-todas-as-polemicas-cortadas-do-filme-de-jackson.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  27 de abril(27/04)",
-            "subtitulo": "Veja programação - com estreia, horários de hoje, segunda, 27 de abril(27/04), dos cinemas de Fortaleza.",
-            "categoria": "Cinema",
-            "autor": "Ingresso.com",
-            "dataPublicacao": "2026-04-27 09:00:12",
-            "link": "https://www.opovo.com.br/vidaearte/cinema/2026/04/27/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-27-de-abril-27-04.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Copa do Mundo: filmes e séries para entrar no clima da competição",
-            "subtitulo": "Confira lista de filmes com temas futebolísticos para torcer e se emocionar junto a menos de 50 dias da Copa do Mundo de Futebol 2026 ",
-            "categoria": "Vida&Arte",
-            "autor": null,
-            "dataPublicacao": "2026-04-27 08:00:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/27/copa-do-mundo-filmes-e-series-para-entrar-no-clima-da-competicao.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo segunda, 27/04/2026",
-            "subtitulo": "Um filme de ação vai passar na Sessão da Tarde hoje,segunda,27 abril de 2026 (27/04/2026) às 15h25min (horário de Brasília), na TV Globo",
-            "categoria": "Vida&Arte",
-            "autor": "Carolina Passos",
-            "dataPublicacao": "2026-04-27 00:15:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/27/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-segunda-27-04-2026.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Como os memes são usados como ferramentas de manipulação política",
-            "subtitulo": null,
-            "categoria": "Vida&Arte",
-            "autor": "DW",
-            "dataPublicacao": "2026-04-27 00:03:39",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/27/como-os-memes-sao-usados-como-ferramentas-de-manipulacao-politica.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Punk na igreja: a aliança inusitada na Alemanha Oriental",
-            "subtitulo": null,
-            "categoria": "Vida&Arte",
-            "autor": "DW",
-            "dataPublicacao": "2026-04-27 00:03:30",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/27/punk-na-igreja-a-alianca-inusitada-na-alemanha-oriental.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "'Michael' tem segunda maior estreia do ano em bilheteria",
-            "subtitulo": "'Michael', cinebiografia de Michael Jackson, arrecada mais de 200 milhões de dólares em bilheteria e se torna segunda maior estreia do ano",
-            "categoria": "Filme",
-            "autor": "Julia Vasconcelos",
-            "dataPublicacao": "2026-04-26 15:43:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/26/michael-tem-segunda-maior-estreia-do-ano-em-bilheteria-entenda.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Anderson Neiff, cantor de brega funk, sofre ataque a tiros após show",
-            "subtitulo": "Conhecido como 'rei do brega funk', o cantor Anderson Neiff sofreu ataque a tiros após sair de show em São Paulo",
-            "categoria": "Vida&Arte",
-            "autor": "Julia Vasconcelos",
-            "dataPublicacao": "2026-04-26 13:26:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/26/anderson-neiff-cantor-de-brega-funk-sofre-ataque-a-tiros-apos-show.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "'Sofrência' vira crítica social em musical gratuito em Fortaleza",
-            "subtitulo": "Espetáculo em Fortaleza usa humor e canções conhecidas para refletir sobre vínculos, violência emocional e afetos na era digital",
-            "categoria": "Vida&Arte",
-            "autor": "Carolina Passos",
-            "dataPublicacao": "2026-04-26 12:45:39",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/26/sofrencia-vira-critica-social-em-musical-gratuito-em-fortaleza.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Domingo Maior: qual filme passa hoje (26/04/26), domingo, na TV Globo",
-            "subtitulo": "No Domingo Maior deste domingo (26/04) será exibido \"Infiltrado\" que vai ao ar logo após o \"Fantástico \", com início previsto para as 23h35min, na TV Globo",
-            "categoria": "Vida&Arte",
-            "autor": "Carolina Passos",
-            "dataPublicacao": "2026-04-26 12:00:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/26/domingo-maior-qual-filme-passa-hoje-26-04-26-domingo-na-tv-globo.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Banda Jumentaparida é homenageada com show gratuito em Fortaleza",
-            "subtitulo": "Show no Hub Porto Dragão reúne 14 bandas em releituras do grupo cearense e apresenta o legado da Jumentaparida a novas gerações",
-            "categoria": "Agenda",
-            "autor": "Carolina Passos",
-            "dataPublicacao": "2026-04-26 10:00:00",
-            "link": "https://www.opovo.com.br/vidaearte/agenda/2026/04/26/banda-jumentaparida-e-homenageada-com-show-gratuito-em-fortaleza.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  26 de abril(26/04)",
-            "subtitulo": "Veja programação - com estreia, horários de hoje, domingo, 26 de abril(26/04), dos cinemas de Fortaleza.",
-            "categoria": "Cinema",
-            "autor": "Ingresso.com",
-            "dataPublicacao": "2026-04-26 09:00:12",
-            "link": "https://www.opovo.com.br/vidaearte/cinema/2026/04/26/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-26-de-abril-26-04.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Temperatura Máxima hoje (26/04/26); filme de domingo na TV Globo",
-            "subtitulo": "O filme \"Moonfall: Ameaça Lunar\" será exibido neste domingo, 26 de abril de 2026, às 12h25min, na sessão Temperatura Máxima da TV Globo",
-            "categoria": "Vida&Arte",
-            "autor": "Carolina Passos",
-            "dataPublicacao": "2026-04-26 00:15:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/26/temperatura-maxima-hoje-26-04-26-filme-de-domingo-na-tv-globo.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Conheça Tais Assis, cearense de 15 anos que lança o terceiro livro",
-            "subtitulo": "De uma redação escolar ao terceiro livro, Tais Assis transforma experiências, leitura e criatividade em projeto literário",
-            "categoria": "Vida&Arte",
-            "autor": "Carolina Passos",
-            "dataPublicacao": "2026-04-25 10:00:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/25/conheca-tais-assis-cearense-de-15-anos-que-lanca-o-terceiro-livro.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  25 de abril(25/04)",
-            "subtitulo": "Veja programação - com estreia, horários de hoje, sábado, 25 de abril(25/04), dos cinemas de Fortaleza.",
-            "categoria": "Cinema",
-            "autor": "Ingresso.com",
-            "dataPublicacao": "2026-04-25 09:00:14",
-            "link": "https://www.opovo.com.br/vidaearte/cinema/2026/04/25/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-25-de-abril-25-04.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Como os memes são usados como ferramentas de manipulação política",
-            "subtitulo": null,
-            "categoria": "Vida&Arte",
-            "autor": "DW",
-            "dataPublicacao": "2026-04-25 00:03:13",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/25/como-os-memes-sao-usados-como-ferramentas-de-manipulacao-politica.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "O Diabo Veste Prada 2: quem é a editora de moda que inspirou filme original",
-            "subtitulo": "A sequência do filme de 2006 estreia no dia 30 de abril; saiba quem inspirou a criação da personagem icônica de Meryl Streep",
-            "categoria": "Filme",
-            "autor": "Júlia Honorato",
-            "dataPublicacao": "2026-04-25 00:02:00",
-            "link": "https://www.opovo.com.br/vidaearte/cinema/2026/04/25/o-diabo-veste-prada-2-quem-e-a-editora-que-inspirou-filme.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "O Diabo Veste Prada 2: conheça livro que foi ignorado na sequência",
-            "subtitulo": "Apesar de ter uma sequência que poderia ser utilizada, segundo livro da série O Diabo Veste Prada não teve influência no roteiro; conheça",
-            "categoria": "Filme",
-            "autor": "Mariana Fernandes",
-            "dataPublicacao": "2026-04-24 23:40:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/24/o-diabo-veste-prada-2-conheca-livro-que-foi-ignorado-na-sequencia.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Acidum Project pinta mural para celebrar 300 anos de Fortaleza",
-            "subtitulo": "Arte do Acidum Project mede 104 m² e foi pintada na lateral de prédio na Avenida Santos Dumont. Obra simboliza o cuidado com Fortaleza, do mar ao asfalto ",
-            "categoria": "Vida&Arte",
-            "autor": null,
-            "dataPublicacao": "2026-04-24 19:21:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/24/acidum-project-pinta-mural-para-celebrar-300-anos-de-fortaleza.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Pause: galeristas refletem sobre o mercado atual e o futuro da arte",
-            "subtitulo": "Programa recebe Victor Perlingeiro, nome à frente da Pinakotheke, e Leonardo Leal, responsável pela galeria homônima",
-            "categoria": "Vida&Arte",
-            "autor": "George Sousa ",
-            "dataPublicacao": "2026-04-24 14:38:43",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/24/pause-galeristas-refletem-sobre-o-mercado-atual-da-arte.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Além de 'A Cabeça do Santo', descubra mais livros da cearense Socorro Acioli",
-            "subtitulo": "Um dos principais nomes da literatura brasileira atualmente, Socorro Acioli une regionalismo e fantasia em suas obras. Conheça mais obras da escritora cearense",
-            "categoria": "Vida&Arte",
-            "autor": "Lillian Santos",
-            "dataPublicacao": "2026-04-24 11:11:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/24/alem-de-a-cabeca-do-santo-descubra-mais-livros-da-cearense-socorro-acioli.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Lançamentos do streaming: Séries \"Pela Metade\" e \"Cangaço Novo\" ganham novas temporadas",
-            "subtitulo": "O Vida&Arte selecionou filmes e séries que chegam aos catálogos dos principais streamings de 20 a 26 de abril de 2026. Confira lista",
-            "categoria": "Vida&Arte",
-            "autor": "Carolina Passos",
-            "dataPublicacao": "2026-04-24 11:00:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/24/hbo-max-netflix-prime-video-as-estreias-da-semana-20-a-26-04.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "O que fazer em Fortaleza hoje, 24/04? Veja agenda de festas e shows",
-            "subtitulo": "Confira o que fazer em Fortaleza nesta sexta, 24 de abril (24/04/2026). Veja opções de festas e shows em diversos bairros da capital cearense",
-            "categoria": "Vida&Arte",
-            "autor": "Carolina Passos",
-            "dataPublicacao": "2026-04-24 11:00:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/24/o-que-fazer-em-fortaleza-hoje-24-04-veja-agenda-de-festas-e-shows.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  24 de abril(24/04)",
-            "subtitulo": "Veja programação - com estreia, horários de hoje, sexta, 24 de abril(24/04), dos cinemas de Fortaleza.",
-            "categoria": "Cinema",
-            "autor": "Ingresso.com",
-            "dataPublicacao": "2026-04-24 09:00:15",
-            "link": "https://www.opovo.com.br/vidaearte/cinema/2026/04/24/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-24-de-abril-24-04.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo sexta, 24/04/2026",
-            "subtitulo": "Um filme de ação vai passar na Sessão da Tarde hoje,sexta,24 abril de 2026 (24/04/2026) às 15h30min (horário de Brasília), na TV Globo",
-            "categoria": "Vida&Arte",
-            "autor": "Carolina Passos",
-            "dataPublicacao": "2026-04-24 00:15:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/24/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-sexta-24-04-2026.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Brasileira Solange Farkas presidirá júri da Bienal de Veneza",
-            "subtitulo": null,
-            "categoria": "Vida&Arte",
-            "autor": "DW",
-            "dataPublicacao": "2026-04-24 00:03:04",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/24/brasileira-solange-farkas-presidira-juri-da-bienal-de-veneza.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
-        },
-        {
-            "titulo": "Foto de família separada pelo ICE vence World Press Photo de 2026",
-            "subtitulo": null,
-            "categoria": "Vida&Arte",
-            "autor": "DW",
-            "dataPublicacao": "2026-04-24 00:03:03",
-            "link": "https://www.opovo.com.br/vidaearte/2026/04/24/foto-de-familia-separada-pelo-ice-vence-world-press-photo-de-2026.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-05 16:00:39"
+            "createdAt": "2026-05-09 02:07:17"
         }
     ],
     "gcmais": [
+        {
+            "titulo": "Thiago revela estratégia após ser eliminado da Casa do Patrão",
+            "subtitulo": "Personal trainer afirmou que queria permanecer na Casa do Trampo para ganhar mais destaque no programa",
+            "categoria": [
+                "A Casa do Patrão",
+                "Entretenimento",
+                "Notícias",
+                "Zedia",
+                "Zedia Destaques"
+            ],
+            "autor": "Danielle Christine",
+            "dataPublicacao": "2026-05-08T14:47:08",
+            "link": "https://gcmais.com.br/entretenimento/2026/05/08/thiago-revela-estrategia-no-reality-apos-ser-eliminado-da-casa-do-patrao/",
+            "jornal": "gcmais",
+            "createdAt": "2026-05-09 02:07:20"
+        },
+        {
+            "titulo": "Leandro Hassum volta a dar bronca na Casa do Patrão e faz alerta: &#8220;o público não é bobo&#8221;",
+            "subtitulo": "A nova chamada de atenção aconteceu dois dias depois de Hassum interromper a formação da berlinda para cobrar mais atitude dos participantes",
+            "categoria": [
+                "A Casa do Patrão",
+                "Entretenimento",
+                "Notícias",
+                "Televisão",
+                "Zedia",
+                "Zedia Destaques"
+            ],
+            "autor": "Anderson Gurgel",
+            "dataPublicacao": "2026-05-08T09:46:00",
+            "link": "https://gcmais.com.br/entretenimento/2026/05/08/leandro-hassum-volta-a-dar-bronca-na-casa-do-patrao-e-faz-alerta-o-publico-nao-e-bobo/",
+            "jornal": "gcmais",
+            "createdAt": "2026-05-09 02:07:20"
+        },
+        {
+            "titulo": "Thiago é eliminado da Casa do Patrão com 20,61% dos votos",
+            "subtitulo": "Educador físico protagonizou rivalidades, polêmicas e movimentou o reality da Record desde o início da competição",
+            "categoria": [
+                "A Casa do Patrão",
+                "Entretenimento",
+                "Notícias",
+                "Zedia",
+                "Zedia Destaques"
+            ],
+            "autor": "Dayse Lima",
+            "dataPublicacao": "2026-05-08T06:19:51",
+            "link": "https://gcmais.com.br/entretenimento/2026/05/08/thiago-e-eliminado-da-casa-do-patrao-com-2061-dos-votos/",
+            "jornal": "gcmais",
+            "createdAt": "2026-05-09 02:07:20"
+        },
+        {
+            "titulo": "Mayara Lorena participa do programa “Acerte ou Caia!” com Tom Cavalcante",
+            "subtitulo": "Apresentadora da TV Cidade Fortaleza participou da atração comandada por Tom Cavalcante em São Paulo",
+            "categoria": [
+                "Entretenimento",
+                "Notícias",
+                "Zedia",
+                "Zedia Destaques"
+            ],
+            "autor": "Lucca Franco",
+            "dataPublicacao": "2026-05-07T17:44:54",
+            "link": "https://gcmais.com.br/entretenimento/2026/05/07/mayara-lorena-participa-do-programa-acerte-ou-caia-com-tom-cavalcante/",
+            "jornal": "gcmais",
+            "createdAt": "2026-05-09 02:07:20"
+        },
+        {
+            "titulo": "Novo participante agita a Casa do Patrão e promete movimentar o jogo: “Vim para competir”",
+            "subtitulo": "O anúncio pegou todos de surpresa e rapidamente se tornou o principal assunto entre os moradores",
+            "categoria": [
+                "A Casa do Patrão",
+                "Entretenimento",
+                "Notícias",
+                "Zedia",
+                "Zedia Destaques"
+            ],
+            "autor": "Dayse Lima",
+            "dataPublicacao": "2026-05-07T11:52:41",
+            "link": "https://gcmais.com.br/entretenimento/2026/05/07/novo-participante-agita-a-casa-do-patrao-e-promete-movimentar-o-jogo-vim-para-competir/",
+            "jornal": "gcmais",
+            "createdAt": "2026-05-09 02:07:20"
+        },
+        {
+            "titulo": "Conheça João Pedro, novo participante da Casa do Patrão após saída de Jovan",
+            "subtitulo": "A chegada de J.P aconteceu de forma inesperada para os demais participantes; veja como aconteceu a entrada",
+            "categoria": [
+                "A Casa do Patrão",
+                "Entretenimento",
+                "Notícias",
+                "Televisão",
+                "Zedia",
+                "Zedia Destaques"
+            ],
+            "autor": "Anderson Gurgel",
+            "dataPublicacao": "2026-05-07T08:31:49",
+            "link": "https://gcmais.com.br/entretenimento/2026/05/07/conheca-joao-pedro-novo-participante-da-casa-do-patrao-apos-saida-de-jovan/",
+            "jornal": "gcmais",
+            "createdAt": "2026-05-09 02:07:20"
+        },
+        {
+            "titulo": "Hassum revela entrada de novo participante na Casa do Patrão",
+            "subtitulo": "Anúncio foi feito após dinâmica do Tá na Reta e levanta dúvidas sobre permanência no jogo",
+            "categoria": [
+                "A Casa do Patrão",
+                "Entretenimento",
+                "Notícias",
+                "Zedia",
+                "Zedia Destaques"
+            ],
+            "autor": "Lucca Franco",
+            "dataPublicacao": "2026-05-06T15:12:07",
+            "link": "https://gcmais.com.br/entretenimento/2026/05/06/hassum-revela-entrada-de-novo-participante-na-casa-do-patrao/",
+            "jornal": "gcmais",
+            "createdAt": "2026-05-09 02:07:20"
+        },
+        {
+            "titulo": "Tá na Reta: Luiza, Sheila e Thiago disputam permanência na Casa do Patrão",
+            "subtitulo": "A noite começou com a decisão da Patroa da semana, Morena, que indicou diretamente Luiza para a berlinda",
+            "categoria": [
+                "A Casa do Patrão",
+                "Entretenimento",
+                "Notícias",
+                "Zedia",
+                "Zedia Destaques"
+            ],
+            "autor": "Dayse Lima",
+            "dataPublicacao": "2026-05-06T06:44:21",
+            "link": "https://gcmais.com.br/entretenimento/2026/05/06/ta-na-reta-luiza-sheila-e-thiago-disputam-permanencia-na-casa-do-patrao/",
+            "jornal": "gcmais",
+            "createdAt": "2026-05-09 02:07:20"
+        },
+        {
+            "titulo": "Rolling Stones anunciam lançamento de &#8216;Foreign Tongues&#8217;, seu 28º disco de estúdio",
+            "subtitulo": "O lançamento foi adiantado por Will Hodgkinson, jornalista do <i>London Times</i>, e oficializado nesta terça-feira, 5, nas redes sociais do grupo",
+            "categoria": [
+                "Entretenimento",
+                "Notícias"
+            ],
+            "autor": "Lucca Franco",
+            "dataPublicacao": "2026-05-05T17:53:13",
+            "link": "https://gcmais.com.br/entretenimento/2026/05/05/rolling-stones-anunciam-lancamento-de-foreign-tongues-seu-28o-disco-de-estudio/",
+            "jornal": "gcmais",
+            "createdAt": "2026-05-09 02:07:20"
+        },
         {
             "titulo": "Confinados se reúnem e cobram explicações de Thiago sobre formação do Tá na Reta",
             "subtitulo": "O encontro, que começou de forma organizada, rapidamente ganhou tons mais intensos",
@@ -914,7 +456,7 @@
             "dataPublicacao": "2026-05-05T09:00:35",
             "link": "https://gcmais.com.br/entretenimento/2026/05/05/confinados-se-reunem-e-cobram-explicacoes-de-thiago-sobre-formacao-do-ta-na-reta/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
+            "createdAt": "2026-05-09 02:07:20"
         },
         {
             "titulo": "Luís Fellipe vence Prova Tô Fora no reality Casa do Patrão; entenda o que muda",
@@ -931,7 +473,7 @@
             "dataPublicacao": "2026-05-05T08:38:15",
             "link": "https://gcmais.com.br/entretenimento/2026/05/05/luis-fellipe-vence-prova-to-fora-no-reality-casa-do-patrao-entenda-o-que-muda/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
+            "createdAt": "2026-05-09 02:07:20"
         },
         {
             "titulo": "Morena surpreende ao colocar aliados na Casa do Trampo após vencer Prova do Patrão",
@@ -948,7 +490,7 @@
             "dataPublicacao": "2026-05-04T08:56:52",
             "link": "https://gcmais.com.br/entretenimento/2026/05/04/morena-surpreende-ao-colocar-aliados-na-casa-do-trampo-apos-vencer-prova-do-patrao/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
+            "createdAt": "2026-05-09 02:07:20"
         },
         {
             "titulo": "Jovan desiste da Casa do Patrão após conflitos e sinais de desgaste no reality",
@@ -963,7 +505,7 @@
             "dataPublicacao": "2026-05-03T21:03:12",
             "link": "https://gcmais.com.br/entretenimento/2026/05/03/jovan-desiste-da-casa-do-patrao-apos-conflitos-e-sinais-de-desgaste-no-reality/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
+            "createdAt": "2026-05-09 02:07:20"
         },
         {
             "titulo": "Luana Piovani diz que esqueceu encontro com Shakira no programa de Hebe: “achei que era montagem”",
@@ -978,7 +520,7 @@
             "dataPublicacao": "2026-05-03T19:22:38",
             "link": "https://gcmais.com.br/entretenimento/2026/05/03/luana-piovani-diz-que-esqueceu-encontro-com-shakira-no-programa-de-hebe-achei-que-era-montagem/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
+            "createdAt": "2026-05-09 02:07:20"
         },
         {
             "titulo": "Shakira divide palco com Maria Bethânia durante show no Rio de Janeiro",
@@ -993,7 +535,7 @@
             "dataPublicacao": "2026-05-03T17:43:37",
             "link": "https://gcmais.com.br/noticias/2026/05/03/shakira-divide-palco-com-maria-bethania-durante-show-no-rio-de-janeiro/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
+            "createdAt": "2026-05-09 02:07:20"
         },
         {
             "titulo": "Shakira dedica show às mães solteiras durante apresentação no Rio de Janeiro: “nós fazemos tudo”",
@@ -1008,7 +550,7 @@
             "dataPublicacao": "2026-05-03T16:39:07",
             "link": "https://gcmais.com.br/entretenimento/2026/05/03/shakira-dedica-show-as-maes-solteiras-durante-apresentacao-no-rio-de-janeiro-nos-fazemos-tudo/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
+            "createdAt": "2026-05-09 02:07:20"
         },
         {
             "titulo": "Cearense Morena vence Prova do Patrão e assume comando da Casa do Patrão",
@@ -1023,7 +565,7 @@
             "dataPublicacao": "2026-05-03T13:15:45",
             "link": "https://gcmais.com.br/entretenimento/2026/05/03/cearense-morena-vence-prova-do-patrao-e-assume-comando-da-casa-do-patrao/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
+            "createdAt": "2026-05-09 02:07:20"
         },
         {
             "titulo": "Shakira transforma Copacabana em megafesta latina e reúne 2 milhões em show histórico no Rio",
@@ -1037,7 +579,7 @@
             "dataPublicacao": "2026-05-03T12:54:10",
             "link": "https://gcmais.com.br/entretenimento/2026/05/03/shakira-transforma-copacabana-em-megafesta-latina-e-reune-2-milhoes-em-show-historico-no-rio/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
+            "createdAt": "2026-05-09 02:07:20"
         },
         {
             "titulo": "Faustão faz rara aparição em vídeo com Tom Cavalcante ao completar 76 anos",
@@ -1052,7 +594,7 @@
             "dataPublicacao": "2026-05-02T21:17:16",
             "link": "https://gcmais.com.br/entretenimento/2026/05/02/faustao-faz-rara-aparicao-em-video-com-tom-cavalcante-ao-completar-76-anos/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
+            "createdAt": "2026-05-09 02:07:20"
         },
         {
             "titulo": "Matheus, da dupla com Kauan, anuncia separação de Paula Aires após 14 anos",
@@ -1067,7 +609,7 @@
             "dataPublicacao": "2026-05-02T20:24:22",
             "link": "https://gcmais.com.br/entretenimento/2026/05/02/matheus-da-dupla-com-kauan-anuncia-separacao-de-paula-aires-apos-14-anos/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
+            "createdAt": "2026-05-09 02:07:20"
         },
         {
             "titulo": "Faustão faz aniversário de 76 anos e recebe homenagem emocionada da esposa; confira",
@@ -1082,7 +624,7 @@
             "dataPublicacao": "2026-05-02T20:09:08",
             "link": "https://gcmais.com.br/entretenimento/2026/05/02/faustao-faz-aniversario-de-76-anos-e-recebe-homenagem-emocionada-da-esposa-confira/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
+            "createdAt": "2026-05-09 02:07:20"
         },
         {
             "titulo": "Ivete Sangalo é vista indo ao show de Shakira no Rio; as duas cantarão juntas",
@@ -1099,7 +641,7 @@
             "dataPublicacao": "2026-05-02T19:01:28",
             "link": "https://gcmais.com.br/entretenimento/2026/05/02/ivete-sangalo-e-vista-indo-ao-show-de-shakira-no-rio-as-duas-cantarao-juntas/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
+            "createdAt": "2026-05-09 02:07:20"
         },
         {
             "titulo": "Sheila chora ao ser votada a mais falsa na Casa do Patrão; confira o vídeo",
@@ -1116,7 +658,7 @@
             "dataPublicacao": "2026-05-02T17:03:45",
             "link": "https://gcmais.com.br/entretenimento/2026/05/02/sheila-chora-ao-ser-votada-a-mais-falsa-na-casa-do-patrao-confira-o-video/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
+            "createdAt": "2026-05-09 02:07:20"
         },
         {
             "titulo": "Shakira se surpreende com multidão antes de show em Copacabana: “Isso tudo é pra mim?”",
@@ -1129,7 +671,7 @@
             "dataPublicacao": "2026-05-02T13:56:33",
             "link": "https://gcmais.com.br/entretenimento/2026/05/02/shakira-surpresa-multidao-copacabana-show/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
+            "createdAt": "2026-05-09 02:07:20"
         },
         {
             "titulo": "MC Brinquedo anuncia fim da carreira no funk após conversão religiosa",
@@ -1142,7 +684,7 @@
             "dataPublicacao": "2026-05-01T20:35:17",
             "link": "https://gcmais.com.br/noticias/brasil/2026/05/01/mc-brinquedo-fim-carreira-funk/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
+            "createdAt": "2026-05-09 02:07:20"
         },
         {
             "titulo": "Marcelo Skova critica Sheila após eliminação na Casa do Patrão e revela bastidores do jogo",
@@ -1159,7 +701,7 @@
             "dataPublicacao": "2026-05-01T19:01:22",
             "link": "https://gcmais.com.br/entretenimento/2026/05/01/marcelo-skova-critica-sheila-apos-eliminacao-na-casa-do-patrao-e-revela-bastidores-do-jogo/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
+            "createdAt": "2026-05-09 02:07:20"
         },
         {
             "titulo": "Marcelo Skova é o primeiro eliminado da Casa do Patrão, com 21,60% dos votos",
@@ -1176,7 +718,7 @@
             "dataPublicacao": "2026-05-01T09:00:47",
             "link": "https://gcmais.com.br/entretenimento/2026/05/01/marcelo-skova-e-o-primeiro-eliminado-da-casa-do-patrao-com-2160-dos-votos/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
+            "createdAt": "2026-05-09 02:07:20"
         },
         {
             "titulo": "Narcisa Tamborindeguy usa megafone para falar com Shakira antes de show no Rio",
@@ -1192,7 +734,7 @@
             "dataPublicacao": "2026-05-01T08:38:40",
             "link": "https://gcmais.com.br/entretenimento/2026/05/01/narcisa-tamborindeguy-usa-megafone-para-falar-com-shakira-antes-de-show-no-rio/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
+            "createdAt": "2026-05-09 02:07:20"
         },
         {
             "titulo": "Sheila recusa ordens do Patrão Luis Fellipe e gera primeira treta na Casa do Patrão",
@@ -1206,7 +748,7 @@
             "dataPublicacao": "2026-04-30T18:44:24",
             "link": "https://gcmais.com.br/entretenimento/2026/04/30/sheila-recusa-ordens-do-patrao-luis-fellipe-e-gera-primeira-treta-na-casa-do-patrao/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
+            "createdAt": "2026-05-09 02:07:20"
         },
         {
             "titulo": "Casa do Patrão: alianças, conflitos e estratégias marcam pós-festa antes de eliminação",
@@ -1223,1084 +765,892 @@
             "dataPublicacao": "2026-04-30T18:33:34",
             "link": "https://gcmais.com.br/entretenimento/2026/04/30/casa-do-patrao-aliancas-conflitos-e-estrategias-marcam-pos-festa-antes-de-eliminacao/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Conheça o cantor católico sul-coreano que deixou o ateísmo para viver missão no Brasil",
-            "subtitulo": "<p data-start=\"102\" data-end=\"217\">Artista se converteu durante serviço militar e hoje usa a música como instrumento de evangelização</p>\r\n<p data-start=\"219\" data-end=\"264\"></p>",
-            "categoria": [
-                "Entretenimento",
-                "Notícias",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Danielle Christine",
-            "dataPublicacao": "2026-04-30T18:15:32",
-            "link": "https://gcmais.com.br/noticias/2026/04/30/conheca-o-cantor-catolico-sul-coreano-que-deixou-o-ateismo-para-viver-missao-no-brasil/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Porto de Fortaleza recebe visitação gratuita em fragata da Marinha Argentina; veja horários",
-            "subtitulo": "<p data-start=\"99\" data-end=\"209\">Agendamento prévio é obrigatório para conhecer a embarcação histórica da Marinha da Argentina</p>\r\n<p data-start=\"211\" data-end=\"260\"></p>",
-            "categoria": [
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Danielle Christine",
-            "dataPublicacao": "2026-04-30T14:34:07",
-            "link": "https://gcmais.com.br/noticias/2026/04/30/porto-de-fortaleza-recebe-visitacao-gratuita-em-fragata-da-marinha-argentina/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Jovan, Marcelo Skova e Marina Keller estão no primeiro “Tá na Reta” da Casa do Patrão",
-            "subtitulo": "O competidor com menor percentual de votos será eliminado na edição desta quinta-feira (30)",
-            "categoria": [
-                "A Casa do Patrão",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Anderson Gurgel",
-            "dataPublicacao": "2026-04-30T10:00:36",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/30/jovan-marcelo-skova-e-marina-keller-estao-no-primeiro-ta-na-reta-da-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Luis Fellipe indica Marina ao Tá na Reta e movimenta estratégia na Casa do Patrão",
-            "subtitulo": "Segundo ele, a decisão não foi baseada em conflitos diretos, mas sim na dificuldade de leitura do jogo da colega",
-            "categoria": [
-                "A Casa do Patrão",
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Dayse Lima",
-            "dataPublicacao": "2026-04-30T06:52:43",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/30/luis-fellipe-indica-marina-ao-ta-na-reta-e-movimenta-estrategia-na-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Humorista Marquito recebe alta hospitalar após dois meses internado",
-            "subtitulo": "Marquito foi inicialmente internado no Hospital Nipo-Brasileiro, e foi transferido para o Beneficência Portuguesa em março",
-            "categoria": [
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Lucca Franco",
-            "dataPublicacao": "2026-04-29T18:20:54",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/29/humorista-marquito-recebe-alta-hospitalar-apos-dois-meses-internado/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Tá na Reta: saiba como será formada a berlinda em A Casa do Patrão",
-            "subtitulo": "Dinâmica envolve indicação direta, voto do patrão e escolha coletiva dos participantes",
-            "categoria": [
-                "A Casa do Patrão",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Danielle Christine",
-            "dataPublicacao": "2026-04-29T15:43:58",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/29/ta-na-reta-saiba-como-sera-formada-a-berlinda-em-a-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Mick Jagger quase morreu após overdose em 1976, diz nova biografia",
-            "subtitulo": "Segundo Chess, Jagger teria ligado para ele e dito estar entediado. O vocalista, então, foi até a casa do empresário",
-            "categoria": [
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Lucca Franco",
-            "dataPublicacao": "2026-04-29T14:31:13",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/29/mick-jagger-quase-morreu-apos-overdose-em-1976-diz-nova-biografia/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Centro Cultural Belchior comemora 9 anos com programação gratuita em Fortaleza",
-            "subtitulo": "O aniversário de nove anos do Centro Cultural Belchior será comemorado no sábado, 23 de maio, mas há programação também para todo o restante do mês",
-            "categoria": [
-                "Arte e Cultura",
-                "Entretenimento",
-                "Fortaleza",
-                "Música",
-                "Notícias",
-                "R7",
-                "Shows"
-            ],
-            "autor": "Anderson Gurgel",
-            "dataPublicacao": "2026-04-29T13:55:39",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/29/centro-cultural-belchior-comemora-9-anos-com-programacao-gratuita-em-fortaleza-em-maio/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Sheila revela critério de voto na Casa do Patrão e cita nomes: &#8220;quem me deu cueca para lavar&#8221;",
-            "subtitulo": "A participante afirmou que pretende observar quem não consegue cuidar das próprias tarefas básicas dentro da casa",
-            "categoria": [
-                "A Casa do Patrão",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Anderson Gurgel",
-            "dataPublicacao": "2026-04-29T08:49:47",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/29/sheila-revela-criterio-de-voto-na-casa-do-patrao-e-cita-nomes-quem-me-deu-cueca-para-lavar/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Público elogia vinheta da Casa do Patrão com música inédita de Zeca Pagodinho: “Reality raiz”",
-            "subtitulo": "A canção foi composta especialmente para o programa, a pedido de Boninho. A produção musical ficou por conta de Pretinho da Serrinha, enquanto a composição leva a assinatura de Serginho Meriti em parceria com o próprio Zeca Pagodinho",
-            "categoria": [
-                "A Casa do Patrão",
-                "Entretenimento",
-                "Notícias",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Dayse Lima",
-            "dataPublicacao": "2026-04-29T07:35:57",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/29/publico-elogia-vinheta-da-casa-do-patrao-com-musica-inedita-de-zeca-pagodinho-reality-raiz/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Thiago Monteiro vence prova &#8220;Poder do Voto&#8221; e indica adversário direto para o &#8220;Tá na Reta&#8221;",
-            "subtitulo": "Competidor também garante poder de decisão na formação da berlinda no reality exibido pela TV Cidade/Record",
-            "categoria": [
-                "A Casa do Patrão",
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Paulo Martins",
-            "dataPublicacao": "2026-04-28T23:35:22",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/28/thiago-monteiro-vence-prova-poder-do-voto-e-indica-adversario-direto-para-o-ta-na-reta/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Dragão Fashion Brasil anuncia line-up e retorno à Praia de Iracema, em Fortaleza",
-            "subtitulo": "Evento integra celebrações dos 300 anos de Fortaleza e reforça o bairro como polo criativo e símbolo da moda no Nordeste",
-            "categoria": [
-                "Ceará",
-                "Entretenimento",
-                "Fortaleza",
-                "Notícias"
-            ],
-            "autor": "Paulo Martins",
-            "dataPublicacao": "2026-04-28T22:18:03",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/28/dragao-fashion-brasil-anuncia-line-up-e-retorno-a-praia-de-iracema-em-fortaleza/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Hayley Williams, vocalista do Paramore, anuncia 1º show no Brasil; veja data, local e ingressos",
-            "subtitulo": "A pré-venda de ingressos começa no dia 4 de maio",
-            "categoria": [
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Lucca Franco",
-            "dataPublicacao": "2026-04-28T18:47:29",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/28/hayley-williams-vocalista-do-paramore-anuncia-1o-show-no-brasil-veja-data-local-e-ingressos/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "&#8216;A Casa do Dragão&#8217; promete fogo e sangue em trailer da 3ª temporada",
-            "subtitulo": "A terceira temporada de A Casa do Dragão também ganhou data de estreia: novos episódios chegam a partir de 21 de junho, na HBO e na HBO Max",
-            "categoria": [
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Lucca Franco",
-            "dataPublicacao": "2026-04-28T18:42:43",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/28/a-casa-do-dragao-promete-fogo-e-sangue-em-trailer-da-3a-temporada/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Casa do Patrão: &#8220;Prova do Poder do Voto&#8221; define primeira indicação para o “Tá na Reta”",
-            "subtitulo": "Dinâmica vai ao ar nesta terça-feira (28) e garante vantagem estratégica no jogo",
-            "categoria": [
-                "A Casa do Patrão",
-                "Celebridades",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Danielle Christine",
-            "dataPublicacao": "2026-04-28T17:19:56",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/28/casa-do-patrao-prova-do-poder-do-voto-define-primeira-indicacao-para-o-ta-na-reta/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Ana Castela vai às redes para negar aposentadoria: &#8216;não tem como&#8217;",
-            "subtitulo": "\"No futuro, querendo ou não, a gente vai diminuindo os shows, a gente vai diminuindo os trabalhos\", seguiu Ana Castela",
-            "categoria": [
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Lucca Franco",
-            "dataPublicacao": "2026-04-28T13:50:13",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/28/ana-castela-vai-as-redes-para-negar-aposentadoria-nao-tem-como/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Casa do Patrão: Luís Fellipe vence primeira Prova do Patrão e assume comando do reality",
-            "subtitulo": "Antes da prova principal, Luís Fellipe já havia se destacado ao vencer a dinâmica da Dança das Cadeiras, garantindo R$ 20 mil em prêmios",
-            "categoria": [
-                "A Casa do Patrão",
-                "Celebridades",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Anderson Gurgel",
-            "dataPublicacao": "2026-04-28T11:34:31",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/28/casa-do-patrao-luis-fellipe-vence-primeira-prova-do-patrao-e-assume-comando-do-reality/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Cearense Morena estreia em “A Casa do Patrão” e diz que conflitos serão inevitáveis no reality",
-            "subtitulo": "Participante afirma que discussões fazem parte do jogo; programa da Record estreia com dinâmica de poder e prêmio de até R$ 2 milhões",
-            "categoria": [
-                "A Casa do Patrão",
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Paulo Martins",
-            "dataPublicacao": "2026-04-27T23:46:13",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/27/cearense-morena-estreia-em-a-casa-do-patrao-e-diz-que-conflitos-serao-inevitaveis-no-reality/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Novo reality Casa do Patrão estreia nesta segunda-feira (27); veja horário e onde assistir",
-            "subtitulo": "Novo reality show começa às 22h30 e aposta em dinâmica com três casas e prêmio acumulativo",
-            "categoria": [
-                "A Casa do Patrão",
-                "Entretenimento",
-                "Notícias",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Danielle Christine",
-            "dataPublicacao": "2026-04-27T17:58:38",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/27/novo-reality-casa-do-patrao-estreia-nesta-segunda-feira-27-veja-horario-e-onde-assistir/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "&#8216;Michael&#8217; tem melhor fim de semana de estreia da história das biografias musicais",
-            "subtitulo": "O Brasil está entre os mercados que mais contribuíram para os bons números do filme da Universal Pictures",
-            "categoria": [
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Lucca Franco",
-            "dataPublicacao": "2026-04-27T16:59:01",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/27/michael-tem-melhor-fim-de-semana-de-estreia-da-historia-das-biografias-musicais/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Casa do Patrão: que horas começa o novo reality da Record?",
-            "subtitulo": "Diferente de outros formatos, Casa do Patrão gira em torno da ideia de poder rotativo",
-            "categoria": [
-                "A Casa do Patrão",
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Lucca Franco",
-            "dataPublicacao": "2026-04-27T14:41:13",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/27/casa-do-patrao-que-horas-comeca-o-novo-reality-da-record/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Paolla Oliveira parabeniza ex Diogo Nogueira por aniversário; leia o recado",
-            "subtitulo": "Até às 8h30 desta segunda, 27, o comentário da atriz acumulava mais de mil curtidas, além de comentários de fãs celebrando o respeito que o ex-casal demonstra publicamente",
-            "categoria": [
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Lucca Franco",
-            "dataPublicacao": "2026-04-27T14:32:49",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/27/paolla-oliveira-parabeniza-ex-diogo-nogueira-por-aniversario-leia-o-recado/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Cearense Morena já está confinada e promete agitar ‘A Casa do Patrão’",
-            "subtitulo": "Em um vídeo publicado no Instagram, Morena apareceu emocionada ao falar sobre a oportunidade e fez um apelo direto ao público que a acompanha",
-            "categoria": [
-                "A Casa do Patrão",
-                "Entretenimento",
-                "Notícias",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Dayse Lima",
-            "dataPublicacao": "2026-04-25T21:18:48",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/25/cearense-morena-ja-esta-confinada-e-promete-agitar-a-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Entre Papos e Sabores recebe Elcio Nagano no último episódio da temporada em Fortaleza",
-            "subtitulo": "<p data-start=\"293\" data-end=\"405\">Programa exibe receitas com técnicas modernas e encerra edição especial pelos 300 anos da capital cearense</p>\r\n<p data-start=\"407\" data-end=\"829\"></p>\r\n<p data-start=\"313\" data-end=\"684\"></p>",
-            "categoria": [
-                "Entretenimento",
-                "Notícias",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Danielle Christine",
-            "dataPublicacao": "2026-04-24T20:04:16",
-            "link": "https://gcmais.com.br/noticias/2026/04/24/entre-papos-e-sabores-recebe-elcio-nagano-no-ultimo-episodio-da-temporada-em-fortaleza/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Davi Brito, Ricardo Macchi e grande elenco: conheça as estrelas que duelam no Acerte ou Caia! deste domingo (26)",
-            "subtitulo": "A atração é comandada por Tom Cavalcante e vai ao ar a partir das 15h45",
-            "categoria": [
-                "Celebridades",
-                "Entretenimento",
-                "Shows",
-                "Zedia Destaques"
-            ],
-            "autor": "Igor Silveira",
-            "dataPublicacao": "2026-04-24T19:07:54",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/24/davi-brito-ricardo-macchi-e-grande-elenco-conheca-as-estrelas-que-duelam-no-acerte-ou-caia-deste-domingo-26/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "&#8216;Deixando Neverland&#8217;: Diretor explica por que documentário sobre Michael Jackson deixou a HBO",
-            "subtitulo": "Segundo ele, o contrato inclui uma cláusula que foi ativada pelo espólio do músico nos meses que antecederam o lançamento de Michael, cinebiografia lançada mundialmente em abril",
-            "categoria": [
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Lucca Franco",
-            "dataPublicacao": "2026-04-24T18:55:38",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/24/deixando-neverland-diretor-explica-por-que-documentario-sobre-michael-jackson-deixou-a-hbo/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Rico Melquiades e Pocah têm a missão de desarmar as bombas no Boom! deste domingo (26) na Record; veja detalhes",
-            "subtitulo": "No game show, os participantes precisam responder perguntas de conhecimentos gerais e desarmar bombas cortando os fios corretos",
-            "categoria": [
-                "Celebridades",
-                "Entretenimento",
-                "Notícias",
-                "Televisão"
-            ],
-            "autor": "Igor Silveira",
-            "dataPublicacao": "2026-04-24T18:49:41",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/24/rico-melquiades-e-pocah-tem-a-missao-de-desarmar-as-bombas-no-boom-deste-domingo-26-na-record-veja-detalhes/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Jack Nicholson faz 89 anos e aparece em foto rara comemorando o aniversário",
-            "subtitulo": "Em um primeiro post, ela escreve \"89?\" ao compartilhar uma foto antiga do ator",
-            "categoria": [
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Lucca Franco",
-            "dataPublicacao": "2026-04-24T18:41:02",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/24/jack-nicholson-faz-89-anos-e-aparece-em-foto-rara-comemorando-o-aniversario/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Além de &#8216;O Diabo Veste Prada&#8217;: por que 2026 é o ano de Anne Hathaway?",
-            "subtitulo": "Aos 43 anos, ela está no elenco de cinco filmes aguardados que chegam às telonas praticamente em sequência",
-            "categoria": [
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Lucca Franco",
-            "dataPublicacao": "2026-04-24T17:31:27",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/24/alem-de-o-diabo-veste-prada-por-que-2026-e-o-ano-de-anne-hathaway/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Apaixonada por dança, Andressa é confirmada como nova participante da Casa do Patrão",
-            "subtitulo": "Atualmente, mora em Canoas, no Rio Grande do Sul, onde trabalha como vendedora. Andressa também é bolsista integral no curso de Enfermagem, mas revela que sua maior paixão sempre foi a dança",
-            "categoria": [
-                "A Casa do Patrão",
-                "Entretenimento",
-                "Notícias",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Dayse Lima",
-            "dataPublicacao": "2026-04-24T10:25:57",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/24/apaixonada-por-danca-andressa-e-confirmada-como-nova-participante-da-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "De campeão no atletismo a personal trainer: conheça Thiago Monteiro, participante da Casa do Patrão",
-            "subtitulo": "Formado em Educação Física, Thiago descobriu o atletismo ainda na escola. O talento nas pistas logo apareceu e o jovem conquistou o título de campeão estadual, abrindo portas para novas experiências",
-            "categoria": [
-                "A Casa do Patrão",
-                "Entretenimento",
-                "Notícias",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Dayse Lima",
-            "dataPublicacao": "2026-04-24T06:42:34",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/24/de-campeao-no-atletismo-a-personal-trainer-conheca-thiago-monteiro-participante-da-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Veja quem é Alexandre Vinicius, o competidor que promete causar nas festas da Casa do Patrão",
-            "subtitulo": "Carioca já foi dançarino de funk e manda bem no passinho",
-            "categoria": [
-                "A Casa do Patrão",
-                "Celebridades",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Paulo Martins",
-            "dataPublicacao": "2026-04-24T00:58:55",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/24/veja-quem-e-alexandre-vinicius-o-competidor-que-promete-causar-nas-festas-da-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Boas histórias! Conheça Marina Keller, participante de Casa do Patrão",
-            "subtitulo": "Participante foi revelada no Cidade Alerta",
-            "categoria": [
-                "A Casa do Patrão",
-                "Celebridades",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Paulo Martins",
-            "dataPublicacao": "2026-04-23T22:32:41",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/23/boas-historias-conheca-marina-keller-participante-de-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Cheio de estilo! Conheça Vivão, mais um competidor anunciado para a Casa do Patrão",
-            "subtitulo": "Ele iniciou sua trajetória artística nas ruas da cidade usando o nome inusitado.",
-            "categoria": [
-                "A Casa do Patrão",
-                "Celebridades",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Paulo Martins",
-            "dataPublicacao": "2026-04-23T20:46:06",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/23/cheio-de-estilo-conheca-vivao-mais-um-competidor-anunciado-para-a-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Saiba quem é Luiza, revendedora de cosméticos confirmada na Casa do Patrão",
-            "subtitulo": "Participante foi revelada no Cidade Alerta",
-            "categoria": [
-                "A Casa do Patrão",
-                "Celebridades",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Paulo Martins",
-            "dataPublicacao": "2026-04-23T19:33:04",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/23/saiba-quem-e-luiza-revendedora-de-cosmeticos-confirmada-na-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Após virar piada em premiação, Leonardo DiCaprio envia presente inusitado à apresentadora",
-            "subtitulo": "No entanto, ela admitiu que gostaria de fugir do tema das namoradas, já que é basicamente a única referência constante à vida pessoal de DiCaprio",
-            "categoria": [
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Lucca Franco",
-            "dataPublicacao": "2026-04-23T18:40:09",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/23/apos-virar-piada-em-premiacao-leonardo-dicaprio-envia-presente-inusitado-a-apresentadora/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Vai ter casal? Conheça Jackson, o policial romântico da Casa do Patrão",
-            "subtitulo": "A identidade do competidor foi a última revelada na coletiva de imprensa",
-            "categoria": [
-                "A Casa do Patrão",
-                "Celebridades",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Igor Silveira",
-            "dataPublicacao": "2026-04-23T17:19:37",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/23/vai-ter-casal-conheca-jackson-o-policial-romantico-da-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "De Jericoacoara para o Brasil! Cearense Morena é a nova participante da Casa do Patrão",
-            "subtitulo": "A recepcionista vive na praia e vai encarar o confinamento longe do ‘paraíso’",
-            "categoria": [
-                "A Casa do Patrão",
-                "Celebridades",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Igor Silveira",
-            "dataPublicacao": "2026-04-23T17:15:21",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/23/de-jericoacoara-para-o-brasil-cearense-morena-e-a-nova-participante-da-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Pau para toda obra! João Victor é revelado como competidor na Casa do Patrão",
-            "subtitulo": "Multifuncional, o engenheiro de produção já teve trabalhos variados",
-            "categoria": [
-                "A Casa do Patrão",
-                "Celebridades",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Igor Silveira",
-            "dataPublicacao": "2026-04-23T17:01:11",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/23/pau-para-toda-obra-joao-victor-e-revelado-como-competidor-na-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Justiceira? Conheça Nikita, a advogada que integra a Casa do Patrão",
-            "subtitulo": "Identidade da competidora foi revelada na coleteiva de imprensa do reality",
-            "categoria": [
-                "A Casa do Patrão",
-                "Celebridades",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Igor Silveira",
-            "dataPublicacao": "2026-04-23T16:55:32",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/23/justiceira-conheca-nikita-a-advogada-que-integra-a-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Do volante ao confinamento: Luis Fellipe é confirmado na Casa do Patrão",
-            "subtitulo": "Motorista de aplicativo encerrou a lista divulgada pelo Balanço Geral",
-            "categoria": [
-                "A Casa do Patrão",
-                "Celebridades",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Igor Silveira",
-            "dataPublicacao": "2026-04-23T16:12:42",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/23/do-volante-ao-confinamento-luis-fellipe-e-confirmado-na-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Saiba tudo sobre Mari, a trancista que faz parte da Casa do Patrão",
-            "subtitulo": "Carioca é especialista em cabelos afro; confira detalhes",
-            "categoria": [
-                "A Casa do Patrão",
-                "Celebridades",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Igor Silveira",
-            "dataPublicacao": "2026-04-23T16:01:18",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/23/saiba-tudo-sobre-mari-a-trancista-que-faz-parte-da-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Conheça o motoboy Jovan, participante da Casa do Patrão",
-            "subtitulo": "O competidor também é instrutor de capoeira",
-            "categoria": [
-                "A Casa do Patrão",
-                "Celebridades",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Igor Silveira",
-            "dataPublicacao": "2026-04-23T15:04:10",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/23/conheca-o-motoboy-jovan-participante-da-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Sheila integra o elenco de Casa do Patrão",
-            "subtitulo": "Capitã da PM foi a primeira participante divulgada pelo Balanço Geral",
-            "categoria": [
-                "A Casa do Patrão",
-                "Celebridades",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Igor Silveira",
-            "dataPublicacao": "2026-04-23T14:56:23",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/23/sheila-integra-o-elenco-de-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Marcelo Skova é o quarto integrante da Casa do Patrão",
-            "subtitulo": "O produtor de eventos completou a lista de divulgação do Hoje em Dia",
-            "categoria": [
-                "A Casa do Patrão",
-                "Celebridades",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Igor Silveira",
-            "dataPublicacao": "2026-04-23T11:39:25",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/23/marcelo-skova-e-o-quarto-integrante-da-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Bianca Becker garante vaga na competição da Casa do Patrão",
-            "subtitulo": "Além de massoterapeuta, ela é a atual Miss Grand Rio Grande do Sul",
-            "categoria": [
-                "A Casa do Patrão",
-                "Celebridades",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Igor Silveira",
-            "dataPublicacao": "2026-04-23T11:33:53",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/23/bianca-becker-garante-vaga-na-competicao-da-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Saiba quem é Matheus Pantaneiro, confirmado no reality Casa do Patrão",
-            "subtitulo": "Lutador foi o segundo participante divulgado pelo Hoje em Dia",
-            "categoria": [
-                "A Casa do Patrão",
-                "Celebridades",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Igor Silveira",
-            "dataPublicacao": "2026-04-23T11:26:53",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/23/saiba-quem-e-matheus-pantaneiro-confirmado-no-reality-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Conheça Nataly Silva, primeira participante da Casa do Patrão",
-            "subtitulo": "A identidade da ambulante foi revelada no Hoje em Dia desta quinta (23)",
-            "categoria": [
-                "A Casa do Patrão",
-                "Celebridades",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Igor Silveira",
-            "dataPublicacao": "2026-04-23T11:22:51",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/23/conheca-nataly-silva-primeira-participante-da-casa-do-patrao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Casa do Patrão: saiba como funciona o novo reality da Record e o que acontece em cada dia",
-            "subtitulo": "Leandro Hassum será o apresentador e acompanhará a dinâmica a partir do chamado Estúdio Suspenso, espaço com vista para as casas onde o jogo acontece",
-            "categoria": [
-                "A Casa do Patrão",
-                "Celebridades",
-                "Entretenimento",
-                "Notícias",
-                "Televisão",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Anderson Gurgel",
-            "dataPublicacao": "2026-04-23T09:32:30",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/23/casa-do-patrao-saiba-como-funciona-o-novo-reality-da-record-e-o-que-acontece-em-cada-dia/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Casa do Patrão revela participantes nesta quinta (23); saiba como acompanhar",
-            "subtitulo": "Reality da RECORD divulga os 18 competidores ao longo da programação e antecipa estreia marcada para segunda-feira (27)",
-            "categoria": [
-                "A Casa do Patrão",
-                "Entretenimento",
-                "Notícias",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Danielle Christine",
-            "dataPublicacao": "2026-04-22T18:37:30",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/22/casa-do-patrao-revela-participantes-nesta-quinta-23-saiba-como-acompanhar/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "&#8216;Manuscritos&#8217;: composições de Marília Mendonça são relançadas em projeto póstumo",
-            "subtitulo": "Os áudios foram extraídos de uma live feita por Marília durante a pandemia, e o projeto reforça o legado da cantora, que morreu de forma trágica em 2021, aos 26 anos",
-            "categoria": [
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Lucca Franco",
-            "dataPublicacao": "2026-04-22T17:40:44",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/22/manuscritos-composicoes-de-marilia-mendonca-sao-relancadas-em-projeto-postumo/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Centro Dragão do Mar reúne shows, teatro e cinema em programação especial de aniversário",
-            "subtitulo": "Agenda traz nomes como Priscila Senna, Ricardo Guilherme e Cidadão Instigado entre os dias 22 e 26 de abril",
-            "categoria": [
-                "Entretenimento",
-                "Notícias",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Danielle Christine",
-            "dataPublicacao": "2026-04-22T17:40:19",
-            "link": "https://gcmais.com.br/noticias/2026/04/22/centro-dragao-do-mar-reune-shows-teatro-e-cinema-em-programacao-especial-de-aniversario/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "&#8216;Da Magia à Sedução 2&#8217;: Warner divulga teaser com retorno de Nicole Kidman e Sandra Bullock",
-            "subtitulo": "Na narrativa original, as irmãs são assombradas pela maldição da família: todo homem que se apaixona por uma mulher Owens morre",
-            "categoria": [
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Lucca Franco",
-            "dataPublicacao": "2026-04-22T16:55:02",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/22/da-magia-a-seducao-2-warner-divulga-teaser-com-retorno-de-nicole-kidman-e-sandra-bullock/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Cineteatro São Luiz tem programação gratuita a partir desta quarta-feira (22); confira",
-            "subtitulo": "Agenda reúne atividades gratuitas e pagas em diferentes espaços do equipamento cultural em Fortaleza",
-            "categoria": [
-                "Entretenimento",
-                "Notícias",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Danielle Christine",
-            "dataPublicacao": "2026-04-22T15:55:29",
-            "link": "https://gcmais.com.br/noticias/2026/04/22/cineteatro-sao-luiz-tem-programacao-gratuita-a-partir-desta-quarta-feira-22-confira/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Juliano Cazarré é criticado após criar evento para fortalecer homens&#8217;: &#8216;Incompreensível&#8217;",
-            "subtitulo": "Segundo o ator, vivemos em \"uma sociedade que enfraqueceu os homens e está pagando um preço alto por isso\".",
-            "categoria": [
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Lucca Franco",
-            "dataPublicacao": "2026-04-22T15:11:06",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/22/juliano-cazarre-e-criticado-apos-criar-evento-para-fortalecer-homens-incompreensivel/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Viúvo de Isabel Veloso, Lucas Borbas rebate acusações de traição",
-            "subtitulo": "\"O silêncio fala muito e eu sei. A Isabel me ensinou muito sobre isso, mas eu cansei de ficar calado\", diz Borbas no começo do vídeo",
-            "categoria": [
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Lucca Franco",
-            "dataPublicacao": "2026-04-22T14:37:58",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/22/viuvo-de-isabel-veloso-lucas-borbas-rebate-acusacoes-de-traicao/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "TV Cidade prepara estreia de novo programa especial de São João com música e grandes nomes do forró",
-            "subtitulo": "Nova atração da emissora aposta na cultura nordestina e promete reunir artistas, histórias e momentos inéditos na TV",
-            "categoria": [
-                "Celebridades",
-                "Entretenimento",
-                "Música",
-                "Shows",
-                "Televisão"
-            ],
-            "autor": "Viana Júnior",
-            "dataPublicacao": "2026-04-21T22:12:36",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/21/tv-cidade-prepara-estreia-de-novo-programa-especial-de-sao-joao-com-musica-e-grandes-nomes-do-forro/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Pâmella Holanda anuncia segunda gravidez com DJ Ivis e surpreende seguidores nas redes sociais",
-            "subtitulo": "Em uma publicação, Pâmella mostrou a filha mais velha do casal e escreveu na legenda: “Oficialmente promovida a irmã mais velha”",
-            "categoria": [
-                "Ceará",
-                "Entretenimento",
-                "Notícias",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Dayse Lima",
-            "dataPublicacao": "2026-04-21T12:51:06",
-            "link": "https://gcmais.com.br/noticias/2026/04/21/pamella-holanda-anuncia-segunda-gravidez-com-dj-ivis-e-surpreende-seguidores-nas-redes-sociais/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Dragão do Mar celebra 27 anos com programação gratuita e atrações musicais diversas em Fortaleza",
-            "subtitulo": "A edição de 2026 do aniversário traz como tema “Não existe Chico sem Matilde”",
-            "categoria": [
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Lucca Franco",
-            "dataPublicacao": "2026-04-20T17:05:44",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/20/dragao-do-mar-celebra-27-anos-com-programacao-gratuita-e-atracoes-musicais-diversas-em-fortaleza/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Quem é Bruno Bevan, novo namorado de Wanessa Camargo?",
-            "subtitulo": "Este é o primeiro relacionamento assumido publicamente por Wanessa desde o término com Dado Dolabella, encerrado em agosto de 2025",
-            "categoria": [
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "Lucca Franco",
-            "dataPublicacao": "2026-04-20T15:59:46",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/20/quem-e-bruno-bevan-novo-namorado-de-wanessa-camargo/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Pedido de casamento em show do Guns N’ Roses emociona público em Fortaleza",
-            "subtitulo": "<p data-start=\"154\" data-end=\"256\">Momento aconteceu durante apresentação da banda e surpreendeu fãs no meio da multidão</p>\r\n<p data-start=\"258\" data-end=\"695\"></p>",
-            "categoria": [
-                "Entretenimento",
-                "Notícias",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Danielle Christine",
-            "dataPublicacao": "2026-04-19T17:17:38",
-            "link": "https://gcmais.com.br/noticias/2026/04/19/pedido-de-casamento-em-show-do-guns-n-roses-emociona-publico-em-fortaleza/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Quem ganhou o Acerte ou Caia hoje (19/04)? Veja resultado do programa",
-            "subtitulo": "Programa da Record reúne famosos em disputa valendo prêmio de até R$ 300 mil neste domingo",
-            "categoria": [
-                "Entretenimento",
-                "Televisão"
-            ],
-            "autor": "Viana Júnior",
-            "dataPublicacao": "2026-04-19T14:22:09",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/19/quem-ganhou-o-acerte-ou-caia-hoje-19-04-2026/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Governador Elmano curte show histórico de Guns N’ Roses em Fortaleza com os filhos",
-            "subtitulo": "Guns N’ Roses em Fortaleza: governador acompanha show na Arena Castelão e evento reúne milhares de fãs após 12 anos.",
-            "categoria": [
-                "Entretê",
-                "Entretenimento",
-                "Fortaleza",
-                "Notícias"
-            ],
-            "autor": "Nicole Duarte",
-            "dataPublicacao": "2026-04-19T11:50:29",
-            "link": "https://gcmais.com.br/noticias/2026/04/19/show-guns-n-roses-fortaleza/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Guns N’ Roses lota Arena Castelão e reúne milhares de fãs em Fortaleza neste sábado (18)",
-            "subtitulo": "A chegada do Guns N’ Roses à capital cearense movimentou fãs de diferentes regiões do Ceará e também visitantes de outros estados",
-            "categoria": [
-                "Entretenimento",
-                "Fortaleza",
-                "Música",
-                "Notícias",
-                "Shows"
-            ],
-            "autor": "Anderson Gurgel",
-            "dataPublicacao": "2026-04-18T21:40:43",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/18/guns-n-roses-lota-arena-castelao-e-reune-milhares-de-fas-em-fortaleza-neste-sabado-18/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Guns N’ Roses no Castelão: portões abrem, mas fila segue gigante para o show",
-            "subtitulo": "<span style=\"font-weight: 400;\">Mesmo após abertura às 16h, multidão mantém filas extensas na Arena Castelão para apresentação da banda</span>",
-            "categoria": [
-                "Entretenimento",
-                "Shows"
-            ],
-            "autor": "Lucas Monteiro",
-            "dataPublicacao": "2026-04-18T19:58:39",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/18/guns-n-roses-no-castelao-portoes-abrem-mas-fila-segue-gigante-para-o-show/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "MC Livinho e Bola comandam duelo no Boom! deste domingo (19) na Record; veja detalhes da disputa",
-            "subtitulo": "No game show, os participantes precisam responder perguntas de conhecimentos gerais e desarmar bombas cortando os fios corretos",
-            "categoria": [
-                "Celebridades",
-                "Entretenimento",
-                "Notícias",
-                "Televisão"
-            ],
-            "autor": "Anderson Gurgel",
-            "dataPublicacao": "2026-04-18T19:52:25",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/18/mc-livinho-e-bola-comandam-duelo-no-boom-deste-domingo-19-na-record-veja-detalhes-da-disputa/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "MC Daniel, Mateus Carrieri e Bárbara França agitam o Acerte ou Caia! deste domingo (19); veja elenco completo",
-            "subtitulo": "A atração é comandada por Tom Cavalcante e vai ao ar a partir das 15h45",
-            "categoria": [
-                "Celebridades",
-                "Entretenimento",
-                "Shows",
-                "Zedia Destaques"
-            ],
-            "autor": "Anderson Gurgel",
-            "dataPublicacao": "2026-04-18T19:38:07",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/18/mc-daniel-mateus-carrieri-e-barbara-franca-agitam-o-acerte-ou-caia-deste-domingo-19-veja-elenco-completo/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Padre viraliza ao responder se é pecado ir ao show do Guns N’ Roses em Fortaleza",
-            "subtitulo": "O show do Guns N’ Roses em Fortaleza marca o retorno de uma grande apresentação internacional à capital cearense",
-            "categoria": [
-                "Entretenimento",
-                "Fortaleza",
-                "Música",
-                "Notícias",
-                "R7",
-                "Religião",
-                "Shows",
-                "Zedia",
-                "Zedia Destaques"
-            ],
-            "autor": "Anderson Gurgel",
-            "dataPublicacao": "2026-04-18T17:34:39",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/18/padre-viraliza-ao-responder-se-e-pecado-ir-ao-show-do-guns-n-roses-em-fortaleza/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
-        },
-        {
-            "titulo": "Guns N’ Roses em Fortaleza hoje: FM Cidade 99 tem programação especial",
-            "subtitulo": "Banda se apresenta na Arena Castelão neste sábado (18); FM Cidade 99 faz programação especial para quem não vai ao show",
-            "categoria": [
-                "Cidade 99.1",
-                "Entretenimento",
-                "Notícias"
-            ],
-            "autor": "tiagolima",
-            "dataPublicacao": "2026-04-18T13:29:10",
-            "link": "https://gcmais.com.br/entretenimento/2026/04/18/guns-n-roses-em-fortaleza-hoje-fm-cidade-99-tem-programacao-especial/",
-            "jornal": "gcmais",
-            "createdAt": "2026-05-05 16:00:48"
+            "createdAt": "2026-05-09 02:07:20"
         }
     ],
-    "diarionordeste": [],
-    "g1": [],
-    "cearaagora": [],
-    "tribunadoceara": [],
-    "portalterraluz": [],
-    "noticiasceara": [],
-    "jornaldobrasil": []
+    "dn": [
+        {
+            "title": "Jovem que teve mãos decepadas em Quixeramobim recebe alta da UTI",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/jovem-que-teve-maos-decepadas-em-quixeramobim-recebe-alta-da-uti-1.3762876",
+            "date": "2026-05-08T19:35:00-03:00",
+            "author": "Luana Severo",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Manifestação interdita via e pede redutores de velocidade em trecho da BR-020 no Ceará",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/manifestacao-interdita-via-e-pede-redutores-de-velocidade-em-trecho-da-br-020-no-ceara-1.3762790",
+            "date": "2026-05-08T15:43:49-03:00",
+            "author": "Redação",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Uniodonto Fortaleza oferece condições especiais em campanha de Dia das Mães",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/uniodonto-fortaleza-oferece-condicoes-especiais-em-campanha-de-dia-das-maes-1.3762493",
+            "date": "2026-05-08T07:00:00-03:00",
+            "author": "Agência de Conteúdo DN",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Quanto custa um funeral no Ceará? Enterro e cremação podem chegar a R$ 50 mil",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/quanto-custa-um-funeral-no-ceara-enterro-e-cremacao-podem-chegar-a-r-50-mil-1.3761622",
+            "date": "2026-05-08T06:00:42-03:00",
+            "author": "Nícolas Paulino",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Fortaleza teve 1º surto de chikungunya há 10 anos; veja cenário da doença hoje",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/fortaleza-teve-1-surto-de-chikungunya-ha-10-anos-veja-cenario-da-doenca-hoje-1.3762315",
+            "date": "2026-05-08T06:00:10-03:00",
+            "author": "Nícolas Paulino",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Jovem atacada com foice em Quixeramobim se fingiu de morta para escapar de ex",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/jovem-atacada-com-foice-em-quixeramobim-se-fingiu-de-morta-para-escapar-de-ex-1.3762382",
+            "date": "2026-05-07T15:23:00-03:00",
+            "author": "João Lima Neto",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Entre riscos de desabamento e alagamentos, Fortaleza tem média de 200 ocorrências por mês",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/entre-riscos-de-desabamento-e-alagamentos-fortaleza-tem-media-de-200-ocorrencias-por-mes-1.3759327",
+            "date": "2026-05-07T14:40:00-03:00",
+            "author": "Ana Alice Freire*, Nícolas Paulino",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Acordo garante indenização a moradores de comunidade onde muro desabou na Aerolândia",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/acordo-garante-indenizacao-a-moradores-de-comunidade-onde-muro-desabou-na-aerolandia-1.3762305",
+            "date": "2026-05-07T12:05:44-03:00",
+            "author": "João Gabriel Tréz",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Jovem atacada com foice em Quixeramobim deve sair de UTI nesta sexta (8), diz padrasto",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/jovem-atacada-com-foice-em-quixeramobim-deve-sair-de-uti-nesta-sexta-8-diz-padrasto-1.3762308",
+            "date": "2026-05-07T11:51:27-03:00",
+            "author": "João Lima Neto",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Instituto Queiroz Jereissati oferece 100 vagas em imersão tecnológica para jovens",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/instituto-queiroz-jereissati-oferece-100-vagas-em-imersao-tecnologica-para-jovens-1.3762299",
+            "date": "2026-05-07T11:03:00-03:00",
+            "author": "Redação",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Cearense leva 28 anos para receber diagnóstico de doença rara; veja sintomas",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/cearense-leva-28-anos-para-receber-diagnostico-de-doenca-rara-veja-sintomas-1.3761245",
+            "date": "2026-05-07T10:00:38-03:00",
+            "author": "Ana Beatriz Caldas",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Jovem que teve mãos decepadas em Quixeramobim recebe alta da UTI",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/jovem-que-teve-maos-decepadas-em-quixeramobim-recebe-alta-da-uti-1.3762876",
+            "date": "2026-05-08T19:35:00-03:00",
+            "author": "Luana Severo",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Manifestação interdita via e pede redutores de velocidade em trecho da BR-020 no Ceará",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/manifestacao-interdita-via-e-pede-redutores-de-velocidade-em-trecho-da-br-020-no-ceara-1.3762790",
+            "date": "2026-05-08T15:43:49-03:00",
+            "author": "Redação",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Uniodonto Fortaleza oferece condições especiais em campanha de Dia das Mães",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/uniodonto-fortaleza-oferece-condicoes-especiais-em-campanha-de-dia-das-maes-1.3762493",
+            "date": "2026-05-08T07:00:00-03:00",
+            "author": "Agência de Conteúdo DN",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Quanto custa um funeral no Ceará? Enterro e cremação podem chegar a R$ 50 mil",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/quanto-custa-um-funeral-no-ceara-enterro-e-cremacao-podem-chegar-a-r-50-mil-1.3761622",
+            "date": "2026-05-08T06:00:42-03:00",
+            "author": "Nícolas Paulino",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Fortaleza teve 1º surto de chikungunya há 10 anos; veja cenário da doença hoje",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/fortaleza-teve-1-surto-de-chikungunya-ha-10-anos-veja-cenario-da-doenca-hoje-1.3762315",
+            "date": "2026-05-08T06:00:10-03:00",
+            "author": "Nícolas Paulino",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Jovem atacada com foice em Quixeramobim se fingiu de morta para escapar de ex",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/jovem-atacada-com-foice-em-quixeramobim-se-fingiu-de-morta-para-escapar-de-ex-1.3762382",
+            "date": "2026-05-07T15:23:00-03:00",
+            "author": "João Lima Neto",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Entre riscos de desabamento e alagamentos, Fortaleza tem média de 200 ocorrências por mês",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/entre-riscos-de-desabamento-e-alagamentos-fortaleza-tem-media-de-200-ocorrencias-por-mes-1.3759327",
+            "date": "2026-05-07T14:40:00-03:00",
+            "author": "Ana Alice Freire*, Nícolas Paulino",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Acordo garante indenização a moradores de comunidade onde muro desabou na Aerolândia",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/acordo-garante-indenizacao-a-moradores-de-comunidade-onde-muro-desabou-na-aerolandia-1.3762305",
+            "date": "2026-05-07T12:05:44-03:00",
+            "author": "João Gabriel Tréz",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Jovem atacada com foice em Quixeramobim deve sair de UTI nesta sexta (8), diz padrasto",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/jovem-atacada-com-foice-em-quixeramobim-deve-sair-de-uti-nesta-sexta-8-diz-padrasto-1.3762308",
+            "date": "2026-05-07T11:51:27-03:00",
+            "author": "João Lima Neto",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Instituto Queiroz Jereissati oferece 100 vagas em imersão tecnológica para jovens",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/instituto-queiroz-jereissati-oferece-100-vagas-em-imersao-tecnologica-para-jovens-1.3762299",
+            "date": "2026-05-07T11:03:00-03:00",
+            "author": "Redação",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Cearense leva 28 anos para receber diagnóstico de doença rara; veja sintomas",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/cearense-leva-28-anos-para-receber-diagnostico-de-doenca-rara-veja-sintomas-1.3761245",
+            "date": "2026-05-07T10:00:38-03:00",
+            "author": "Ana Beatriz Caldas",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Jovem que teve mãos decepadas em Quixeramobim recebe alta da UTI",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/jovem-que-teve-maos-decepadas-em-quixeramobim-recebe-alta-da-uti-1.3762876",
+            "date": "2026-05-08T19:35:00-03:00",
+            "author": "Luana Severo",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Manifestação interdita via e pede redutores de velocidade em trecho da BR-020 no Ceará",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/manifestacao-interdita-via-e-pede-redutores-de-velocidade-em-trecho-da-br-020-no-ceara-1.3762790",
+            "date": "2026-05-08T15:43:49-03:00",
+            "author": "Redação",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Uniodonto Fortaleza oferece condições especiais em campanha de Dia das Mães",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/uniodonto-fortaleza-oferece-condicoes-especiais-em-campanha-de-dia-das-maes-1.3762493",
+            "date": "2026-05-08T07:00:00-03:00",
+            "author": "Agência de Conteúdo DN",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Quanto custa um funeral no Ceará? Enterro e cremação podem chegar a R$ 50 mil",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/quanto-custa-um-funeral-no-ceara-enterro-e-cremacao-podem-chegar-a-r-50-mil-1.3761622",
+            "date": "2026-05-08T06:00:42-03:00",
+            "author": "Nícolas Paulino",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Fortaleza teve 1º surto de chikungunya há 10 anos; veja cenário da doença hoje",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/fortaleza-teve-1-surto-de-chikungunya-ha-10-anos-veja-cenario-da-doenca-hoje-1.3762315",
+            "date": "2026-05-08T06:00:10-03:00",
+            "author": "Nícolas Paulino",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Jovem atacada com foice em Quixeramobim se fingiu de morta para escapar de ex",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/jovem-atacada-com-foice-em-quixeramobim-se-fingiu-de-morta-para-escapar-de-ex-1.3762382",
+            "date": "2026-05-07T15:23:00-03:00",
+            "author": "João Lima Neto",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Entre riscos de desabamento e alagamentos, Fortaleza tem média de 200 ocorrências por mês",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/entre-riscos-de-desabamento-e-alagamentos-fortaleza-tem-media-de-200-ocorrencias-por-mes-1.3759327",
+            "date": "2026-05-07T14:40:00-03:00",
+            "author": "Ana Alice Freire*, Nícolas Paulino",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Acordo garante indenização a moradores de comunidade onde muro desabou na Aerolândia",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/acordo-garante-indenizacao-a-moradores-de-comunidade-onde-muro-desabou-na-aerolandia-1.3762305",
+            "date": "2026-05-07T12:05:44-03:00",
+            "author": "João Gabriel Tréz",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Jovem atacada com foice em Quixeramobim deve sair de UTI nesta sexta (8), diz padrasto",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/jovem-atacada-com-foice-em-quixeramobim-deve-sair-de-uti-nesta-sexta-8-diz-padrasto-1.3762308",
+            "date": "2026-05-07T11:51:27-03:00",
+            "author": "João Lima Neto",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Instituto Queiroz Jereissati oferece 100 vagas em imersão tecnológica para jovens",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/instituto-queiroz-jereissati-oferece-100-vagas-em-imersao-tecnologica-para-jovens-1.3762299",
+            "date": "2026-05-07T11:03:00-03:00",
+            "author": "Redação",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Cearense leva 28 anos para receber diagnóstico de doença rara; veja sintomas",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/cearense-leva-28-anos-para-receber-diagnostico-de-doenca-rara-veja-sintomas-1.3761245",
+            "date": "2026-05-07T10:00:38-03:00",
+            "author": "Ana Beatriz Caldas",
+            "source": "diariodonordeste"
+        }
+    ],
+    "oestadoce": [
+        {
+            "titulo": "Musical “Barro Cru” leva artistas idosos ao  palco e propõe passeio pela cultura caririense",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda",
+                "Geral"
+            ],
+            "autor": "Júlia Lopes",
+            "dataPublicacao": "2026-05-06T06:00:00",
+            "link": "https://oestadoce.com.br/geral/musical-barro-cru-leva-artistas-idosos-ao-palco-e-propoe-passeio-pela-cultura-caririense/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Trairi celebra mestres e mestras da cultura com lançamento de livro, exposição e exibição de documentário",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda"
+            ],
+            "autor": "Hyago Felix",
+            "dataPublicacao": "2026-05-05T00:20:20",
+            "link": "https://oestadoce.com.br/arte-agenda/trairi-celebra-mestres-e-mestras-da-cultura-com-lancamento-de-livro-exposicao-e-exibicao-de-documentario/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Oscar barra IA de roteiros e atuações e muda regra de filme internacional",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda"
+            ],
+            "autor": "Júlia Lopes",
+            "dataPublicacao": "2026-05-02T07:52:18",
+            "link": "https://oestadoce.com.br/arte-agenda/oscar-barra-ia-de-roteiros-e-atuacoes-e-muda-regra-de-filme-internacional/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Dancinhas, lotação e alerta de segurança dos EUA marcam véspera de Shakira no Rio ",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda"
+            ],
+            "autor": "Hyago Felix",
+            "dataPublicacao": "2026-05-01T13:23:10",
+            "link": "https://oestadoce.com.br/arte-agenda/dancinhas-lotacao-e-alerta-de-seguranca-dos-eua-marcam-vespera-de-shakira-no-rio/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Estátua de menina Benigna, símbolo contra o feminicídio, é inaugurada",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda",
+                "Home - Destaque 1"
+            ],
+            "autor": "Júlia Lopes",
+            "dataPublicacao": "2026-04-24T08:12:02",
+            "link": "https://oestadoce.com.br/arte-agenda/estatua-de-menina-benigna-simbolo-contra-o-feminicidio-e-inaugurada/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Jesus aparece abraçando Axl Rose em imagem da Arquidiocese de Fortaleza",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda"
+            ],
+            "autor": "Júlia Lopes",
+            "dataPublicacao": "2026-04-20T17:30:53",
+            "link": "https://oestadoce.com.br/arte-agenda/jesus-aparece-abracando-axl-rose-em-imagem-da-arquidiocese-de-fortaleza/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Gravação da banda Forró Real é interrompida após fiscalização por poluição sonora em Fortaleza",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda",
+                "Home - Carrossel"
+            ],
+            "autor": "Ismael Azevedo",
+            "dataPublicacao": "2026-04-19T15:11:44",
+            "link": "https://oestadoce.com.br/arte-agenda/gravacao-da-banda-forro-real-e-interrompida-apos-fiscalizacao-por-poluicao-sonora-em-fortaleza/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Bilheteria Digital é multada por cobrança abusiva em ingressos do Guns N’ Roses em Fortaleza",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda"
+            ],
+            "autor": "Júlia Lopes",
+            "dataPublicacao": "2026-04-17T20:34:02",
+            "link": "https://oestadoce.com.br/arte-agenda/bilheteria-digital-e-multada-por-cobranca-abusiva-em-ingressos-do-guns-n-roses-em-fortaleza/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Mari Fernandez reforça avanço da maternidade compartilhada e impulsiona debate sobre reprodução assistida",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda"
+            ],
+            "autor": "Ismael Azevedo",
+            "dataPublicacao": "2026-04-17T20:00:00",
+            "link": "https://oestadoce.com.br/arte-agenda/mari-fernandez-reforca-avanco-da-maternidade-compartilhada-e-impulsiona-debate-sobre-reproducao-assistida/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Leila Pinheiro celebra 45 anos de carreira em Fortaleza com o espetáculo “Viva Meu Samba”",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda"
+            ],
+            "autor": "Ismael Azevedo",
+            "dataPublicacao": "2026-04-16T21:41:08",
+            "link": "https://oestadoce.com.br/arte-agenda/leila-pinheiro-celebra-45-anos-de-carreira-em-fortaleza-com-o-espetaculo-viva-meu-samba/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Show de Leila Pinheiro celebra trajetória e clássicos do samba em Fortaleza",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda",
+                "Últimas"
+            ],
+            "autor": "Priscila Sampaio",
+            "dataPublicacao": "2026-04-16T10:31:23",
+            "link": "https://oestadoce.com.br/arte-agenda/show-de-leila-pinheiro-celebra-trajetoria-e-classicos-do-samba-em-fortaleza/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "“Olhos nos Olhos”: Ana Lúcia Torre celebra 60 anos de carreira em espetáculo emocionante com canções de Chico Buarque",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda",
+                "Últimas"
+            ],
+            "autor": "Priscila Sampaio",
+            "dataPublicacao": "2026-04-16T09:27:05",
+            "link": "https://oestadoce.com.br/arte-agenda/olhos-nos-olhos-ana-lucia-torre-celebra-60-anos-de-carreira-em-espetaculo-emocionante-com-cancoes-de-chico-buarque/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "O Bode Quer: espetáculo de rua celebra ícone popular em Quixeramobim, Sobral e Fortaleza",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda"
+            ],
+            "autor": "Hyago Felix",
+            "dataPublicacao": "2026-04-15T23:45:15",
+            "link": "https://oestadoce.com.br/arte-agenda/o-bode-quer-espetaculo-de-rua-celebra-icone-popular-em-quixeramobim-sobral-e-fortaleza/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "S Pique Festival agita Praia do Futuro com DJ Arana e grandes nomes da cena na capital cearense",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda"
+            ],
+            "autor": "Ismael Azevedo",
+            "dataPublicacao": "2026-04-15T21:01:00",
+            "link": "https://oestadoce.com.br/arte-agenda/s-pique-festival-agita-praia-do-futuro-com-dj-arana-e-grandes-nomes-da-cena-na-capital-cearense/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Wagner Moura é eleito uma das cem personalidades do ano pela revista Time",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda",
+                "Home - Destaque 1",
+                "Últimas"
+            ],
+            "autor": "Dalila Lima",
+            "dataPublicacao": "2026-04-15T11:42:03",
+            "link": "https://oestadoce.com.br/arte-agenda/wagner-moura-e-eleito-uma-das-cem-personalidades-do-ano-pela-revista-time/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Carlinhos Maia é multado em R$ 1 milhão por filmar amigos alimentando gaivota",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda",
+                "Últimas"
+            ],
+            "autor": "Priscila Sampaio",
+            "dataPublicacao": "2026-04-14T11:04:36",
+            "link": "https://oestadoce.com.br/arte-agenda/carlinhos-maia-e-multado-em-r-1-milhao-por-filmar-amigos-alimentando-gaivota/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Fortaleza ganha espaço no cenário da música eletrônica com avanço de eventos e novos públicos",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda"
+            ],
+            "autor": "Ismael Azevedo",
+            "dataPublicacao": "2026-04-12T12:58:00",
+            "link": "https://oestadoce.com.br/arte-agenda/fortaleza-ganha-espaco-no-cenario-da-musica-eletronica-com-avanco-de-eventos-e-novos-publicos/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Carolina Ferraz deixa Record após seis anos no Domingo Espetacular",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda",
+                "Home - Destaque 2"
+            ],
+            "autor": "Ismael Azevedo",
+            "dataPublicacao": "2026-04-08T21:22:00",
+            "link": "https://oestadoce.com.br/arte-agenda/carolina-ferraz-deixa-record-apos-seis-anos-no-domingo-espetacular/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Justiça determina bloqueio de cachês de Belo para quitação de dívida trabalhista de R$ 230 mil",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda",
+                "Últimas"
+            ],
+            "autor": "Priscila Sampaio",
+            "dataPublicacao": "2026-04-07T10:11:07",
+            "link": "https://oestadoce.com.br/arte-agenda/justica-determina-bloqueio-de-caches-de-belo-para-quitacao-de-divida-trabalhista-de-r-230-mil/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Inédito no Nordeste, Abyssal Deep desembarca em Fortaleza neste fim de semana no Centro de Eventos",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda"
+            ],
+            "autor": "Ismael Azevedo",
+            "dataPublicacao": "2026-04-06T21:08:40",
+            "link": "https://oestadoce.com.br/arte-agenda/inedito-no-nordeste-abyssal-deep-desembarca-em-fortaleza-neste-fim-de-semana-no-centro-de-eventos/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Cara fechada de Virginia em festa surpresa reforça rumor de crise com Vini Jr.",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda",
+                "Últimas"
+            ],
+            "autor": "Priscila Sampaio",
+            "dataPublicacao": "2026-04-06T09:55:24",
+            "link": "https://oestadoce.com.br/arte-agenda/cara-fechada-de-virginia-em-festa-surpresa-reforca-rumor-de-crise-com-vini-jr/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Banda do Manguebeat faz shows especiais na CAIXA Cultural Fortaleza",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda",
+                "Últimas"
+            ],
+            "autor": "Priscila Sampaio",
+            "dataPublicacao": "2026-04-03T11:03:19",
+            "link": "https://oestadoce.com.br/arte-agenda/banda-do-manguebeat-faz-shows-especiais-na-caixa-cultural-fortaleza/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "&#8216;O Agente Secreto&#8217; estreia na China como parte de acordo de 2024 entre Lula e Xi",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda",
+                "Últimas"
+            ],
+            "autor": "Priscila Sampaio",
+            "dataPublicacao": "2026-04-02T11:29:43",
+            "link": "https://oestadoce.com.br/arte-agenda/o-agente-secreto-estreia-na-china-como-parte-de-acordo-de-2024-entre-lula-e-xi/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Alberto Cowboy deixa o BBB 26 com alta rejeição no décimo paredão",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda",
+                "Home - Carrossel"
+            ],
+            "autor": "Ismael Azevedo",
+            "dataPublicacao": "2026-03-29T15:35:26",
+            "link": "https://oestadoce.com.br/arte-agenda/alberto-cowboy-deixa-o-bbb-26-com-alta-rejeicao-no-decimo-paredao/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Milena prepara &#8216;suco fake&#8217; com água de frango e leva advertência da produção do BBB 26",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda",
+                "Home - Carrossel"
+            ],
+            "autor": "Ismael Azevedo",
+            "dataPublicacao": "2026-03-28T18:51:00",
+            "link": "https://oestadoce.com.br/arte-agenda/milena-prepara-suco-fake-com-agua-de-frango-e-leva-advertencia-da-producao-do-bbb-26/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Direção suspende castigo do monstro de Ana Paula e Milena no BBB 26 após apelo do público",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda",
+                "Home - Destaque 2"
+            ],
+            "autor": "Ismael Azevedo",
+            "dataPublicacao": "2026-03-28T16:38:00",
+            "link": "https://oestadoce.com.br/arte-agenda/direcao-suspende-castigo-do-monstro-de-ana-paula-e-milena-no-bbb-26-apos-apelo-do-publico/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Com entrada gratuita, espetáculo solo “Memórias de Subsolo” retorna ao Teatro Cuca José Walter e Teatro Cuca Pici",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda",
+                "Últimas"
+            ],
+            "autor": "Priscila Sampaio",
+            "dataPublicacao": "2026-03-26T10:00:33",
+            "link": "https://oestadoce.com.br/arte-agenda/com-entrada-gratuita-espetaculo-solo-memorias-de-subsolo-retorna-ao-teatro-cuca-jose-walter-e-teatro-cuca-pici/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Fram Paulo reflete sobre ancestralidade e sertão no filme &#8220;Nova Terra&#8221;",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda"
+            ],
+            "autor": "Ismael Azevedo",
+            "dataPublicacao": "2026-03-25T16:34:00",
+            "link": "https://oestadoce.com.br/arte-agenda/fram-paulo-reflete-sobre-ancestralidade-e-sertao-no-filme-nova-terra/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Mari Fernandez, Márcia Felipe, Guilherme Dantas e Jota Vê são atrações no aniversário de 69 anos de Martinópole",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda"
+            ],
+            "autor": "Ismael Azevedo",
+            "dataPublicacao": "2026-03-23T18:23:00",
+            "link": "https://oestadoce.com.br/arte-agenda/mari-fernandez-marcia-felipe-guilherme-dantas-e-jota-ve-sao-atracoes-no-aniversario-de-69-anos-de-martinopole/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        },
+        {
+            "titulo": "Dono do OnlyFans morre aos 43 anos",
+            "subtitulo": null,
+            "categoria": [
+                "Arte + Agenda",
+                "Últimas"
+            ],
+            "autor": "Priscila Sampaio",
+            "dataPublicacao": "2026-03-23T13:02:17",
+            "link": "https://oestadoce.com.br/arte-agenda/dono-do-onlyfans-morre-aos-43-anos/",
+            "jornal": "oestadoce",
+            "createdAt": "2026-05-09 02:07:21"
+        }
+    ],
+    "globoce": [
+        {
+            "titulo": "Três irmãos são mortos em ação policial no Ceará; um deles era suspeito de tentar sequestrar uma criança",
+            "subtitulo": "Tentativa de sequestro ocorreu em Iguatu e a intervenção policial com mortes em Acopiara, no interior do estado. As duas cidades são vizinhas.",
+            "categoria": "G1",
+            "dataPublicacao": "Sat, 09 May 2026 00:52:10 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/tres-irmaos-sao-mortos-em-acao-policial-no-ceara-um-deles-era-suspeito-de-tentar-sequestrar-uma-crianca.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Governo divulga vídeo do novo VLT Aeroporto-Castelão e promete entrega para maio de 2027",
+            "subtitulo": "O equipamento teve o prazo de entrega adiantado em dois meses, em razão da Copa do Mundo de Futebol Feminino - que terá a capital cearense como uma das sedes.",
+            "categoria": "G1",
+            "dataPublicacao": "Sat, 09 May 2026 00:21:04 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/governo-divulga-video-do-novo-vlt-aeroporto-castelao-e-promete-entrega-para-maio-de-2027.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Homem é preso pela segunda vez por invadir casa e agredir ex-companheira",
+            "subtitulo": "Em março deste ano, a Polícia Militar havia realizado a captura do suspeito no mesmo bairro, mas a Justiça Estadual o soltou em audiência de custódia.",
+            "categoria": "G1",
+            "dataPublicacao": "Fri, 08 May 2026 22:13:57 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/homem-e-preso-pela-segunda-vez-por-invadir-casa-e-agredir-ex-companheira.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Suplente toma posse após vereador de Fortaleza ser cassado por fraude à cota de gênero ",
+            "subtitulo": "Partido Agir foi condenado pela Justiça Eleitoral por fraude à cota de gênero nas eleições de 2024 em Fortaleza. Legenda teve os votos anulados e o vereador foi cassado.",
+            "categoria": "G1",
+            "dataPublicacao": "Fri, 08 May 2026 21:34:19 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/suplente-toma-posse-apos-vereador-de-fortaleza-ser-cassado-por-fraude-a-cota-de-genero.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Pastor afirmava retirar pregos e agulhas do corpo de fiéis vítimas de abusos sexuais",
+            "subtitulo": "O suspeito, preso na última quinta-feira (7), dizia que as vítimas estavam doentes e pedia encontros particulares sob o pretexto de realizar uma “cura espiritual”.",
+            "categoria": "G1",
+            "dataPublicacao": "Fri, 08 May 2026 20:37:57 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/pastor-afirmava-retirar-pregos-e-agulhas-do-corpo-de-fieis-vitimas-de-abusos-sexuais.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Professor é afastado após denúncia de assédio contra alunas no Ceará: ‘Essa aí é boa de cama’",
+            "subtitulo": "Uma aluna disse que o professor teria tocado no seio dela. A Polícia Civil investiga o caso.",
+            "categoria": "G1",
+            "dataPublicacao": "Fri, 08 May 2026 20:22:33 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/professor-e-afastado-apos-denuncia-de-assedio-contra-alunas-no-ceara-essa-ai-e-boa-de-cama.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Todo o Ceará tem alerta de chuvas intensas para este sábado (9)",
+            "subtitulo": "89 municípios cearenses ainda estão incluídos em um alerta laranja, mais grave, segundo o Instituto Nacional de Meteorologia (Inmet).",
+            "categoria": "G1",
+            "dataPublicacao": "Fri, 08 May 2026 19:34:53 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/todo-o-ceara-tem-alerta-de-chuvas-intensas-para-este-sabado-9.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Jovem que teve mãos decepadas por cunhado deixa UTI sete dias após o crime",
+            "subtitulo": "Ana Clara foi vítima de tentativa de feminicídio no dia 1º de maio, em Quixeramobim, e teve uma uma mão amputada e outra semi-amputada. A cirurgia de reimplante durou 12 horas e foi bem-sucedida.",
+            "categoria": "G1",
+            "dataPublicacao": "Fri, 08 May 2026 17:33:10 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/jovem-que-teve-maos-decepadas-por-cunhado-deixa-uti-sete-dias-apos-o-crime.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Jovem cai de moto ao fazer 'grau' e vai a UTI em hospital no Ceará; vídeo",
+            "subtitulo": "Acidente aconteceu na última quarta-feira (6), no loteamento Mãe Rainha, em Itaitinga.",
+            "categoria": "G1",
+            "dataPublicacao": "Fri, 08 May 2026 15:33:35 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/jovem-cai-de-moto-ao-fazer-grau-e-vai-a-uti-em-hospital-no-ceara-video.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Pastor preso por usar falsas doenças para abusar de fiéis ameaçou acionar facção contra vítima",
+            "subtitulo": "Segundo as denúncias, o pastor dizia que as vítimas estavam doentes e pedia encontros particulares sob o pretexto de realizar uma “cura espiritual”.",
+            "categoria": "G1",
+            "dataPublicacao": "Fri, 08 May 2026 15:29:25 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/pastor-preso-por-usar-falsas-doencas-para-abusar-de-fieis-ameacou-acionar-faccao-contra-vitima.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Pastor é preso suspeito de usar falsas curas de doenças para abusar de fiéis em Fortaleza",
+            "subtitulo": "Segundo as denúncias, o pastor dizia que as vítimas estavam doentes — em alguns casos, afirmando que elas tinham câncer — como forma de justificar os abusos.",
+            "categoria": "G1",
+            "dataPublicacao": "Fri, 08 May 2026 14:53:10 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/pastor-e-preso-suspeito-de-usar-falsas-curas-de-doencas-para-abusar-de-fieis-em-fortaleza.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Ceará teve redução de 37% no número de mortes violentas nos quatro primeiros meses de 2026, diz secretaria",
+            "subtitulo": "Conforme secretaria, abril foi o mês com melhor resultado da série histórica na diminuição de Crimes Violentos Letais e Intencionais (CVLI).",
+            "categoria": "G1",
+            "dataPublicacao": "Fri, 08 May 2026 14:00:42 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/ceara-teve-reducao-de-37percent-no-numero-de-mortes-violentas-nos-quatro-primeiros-meses-de-2026-diz-secretaria.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "VÍDEO: Alemã faz ataque racista, mas é surpreendida por brasileira: 'Também consigo falar alemão'",
+            "subtitulo": "Moradora do país há 8 anos, Ionara Sech, que é natural do Ceará, registrou quando uma mulher que, acreditando que ela não falava o idioma, passou a ofendê-la e contou ao g1 que essa não foi a primeira vez que passou por essa situação.",
+            "categoria": "G1",
+            "dataPublicacao": "Fri, 08 May 2026 11:53:54 -0000",
+            "link": "https://g1.globo.com/mundo/noticia/2026/05/08/brasileira-e-vitima-de-racismo-em-aeroporto-da-alemanha-veja-flagrante-em-video.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Três são presos pelo assassinato de duas pessoas no interior do Ceará",
+            "subtitulo": "Crime aconteceu em março deste ano, em Quixelô; segundo a polícia, ataque teria sido motivado por disputa territorial do tráfico de drogas.",
+            "categoria": "G1",
+            "dataPublicacao": "Fri, 08 May 2026 10:54:14 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/tres-sao-presos-pelo-assassinato-de-duas-pessoas-no-interior-do-ceara.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Servidor público, policial penal e outros dois homens são denunciados pelo MP por tentativa de fraude em concurso no Ceará",
+            "subtitulo": "Caso aconteceu em dezembro de 2025, no dia da aplicação da prova para a Guarda Municipal de Tauá.",
+            "categoria": "G1",
+            "dataPublicacao": "Fri, 08 May 2026 09:39:14 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/servidor-publico-policial-penal-e-outros-dois-homens-sao-denunciados-pelo-mp-por-tentativa-de-fraude-em-concurso-no-ceara.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Dois homens são presos com 67 kg de 'supermaconha' escondidos em caminhão na Grande Fortaleza",
+            "subtitulo": "Entorpecente estava em pneus estepe e dentro de um cilindro de ar instalado sob a carroceria do veículo.",
+            "categoria": "G1",
+            "dataPublicacao": "Fri, 08 May 2026 08:55:11 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/dois-homens-sao-presos-com-67-kg-de-supermaconha-escondidos-em-caminhao-na-grande-fortaleza.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Garçom que matou vereador e atacou patrão e cliente a facadas estava em transtorno psicótico, diz laudo pericial",
+            "subtitulo": "Antônio Charlan foi preso após atacar três pessoas com uma faca em Camocim. Um laudo da Pefoce indicou que ele não tinha condições de entender o crime.",
+            "categoria": "G1",
+            "dataPublicacao": "Fri, 08 May 2026 07:01:00 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/garcom-que-matou-vereador-e-atacou-patrao-e-cliente-a-facadas-estava-em-transtorno-psicotico-diz-laudo-pericial.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Traficante de animais silvestres é autuado por oferecer aves e tatus em grupo de WhatsApp no Ceará",
+            "subtitulo": "Uma equipe de fiscalização do Ibama chegou à localização do criminoso, que já era monitorado pela internet. No local, foram resgatadas 17 aves e 4 tatus.",
+            "categoria": "G1",
+            "dataPublicacao": "Thu, 07 May 2026 22:42:16 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/07/traficante-de-animais-silvestres-e-autuado-por-oferecer-aves-e-tatus-em-grupo-de-whatsapp-no-ceara.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Homem é condenado por matar mulher em situação de rua com 44 facadas após atrai-la para suposto programa sexual",
+            "subtitulo": "Antônio Germano ameaçou a vítima com uma faca para que ela praticasse relação sexual com ele. Após o estupro, para garantir que a vítima não o denunciasse, o réu a matou, segundo as investigações.",
+            "categoria": "G1",
+            "dataPublicacao": "Thu, 07 May 2026 21:53:41 -0000",
+            "link": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/05/07/homem-e-condenado-por-matar-mulher-em-situacao-de-rua-com-44-facadas-apos-atrai-la-para-suposto-programa-sexual.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Instituto oferece vagas de reforço escolar e formação tecnológica para alunos do ensino fundamental",
+            "subtitulo": "Para se inscrever, os estudantes devem estar cursando o 7º, 8º ou 9º ano do ensino fundamental, em escolas públicas no Ceará.",
+            "categoria": "G1",
+            "dataPublicacao": "Thu, 07 May 2026 20:52:43 -0000",
+            "link": "https://g1.globo.com/ce/ceara/suachance/noticia/2026/05/07/instituto-oferece-vagas-de-reforco-escolar-e-formacao-tecnologica-para-alunos-do-ensino-fundamental.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Estado vai convocar mais 500 aprovados em concurso do sistema socioeducativo",
+            "subtitulo": "Os novos profissionais vão atuar em Fortaleza, Sobral e Juazeiro do Norte, segundo o governador Elmano de Freitas (PT). Outro concurso para a área foi homologado em abril deste ano.",
+            "categoria": "G1",
+            "dataPublicacao": "Thu, 07 May 2026 20:06:24 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/07/estado-vai-convocar-mais-500-aprovados-em-concurso-do-sistema-socioeducativo-no-ceara.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Cadeirante morre 16 dias após ataque a tiros flagrado por câmera de segurança",
+            "subtitulo": "Ação criminosa foi flagrada por câmera de segurança. A vítima foi atingida na cabeça e no pescoço e levada a um hospital da região.",
+            "categoria": "G1",
+            "dataPublicacao": "Thu, 07 May 2026 19:11:25 -0000",
+            "link": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/05/07/cadeirante-morre-apos-ataque-a-tiros-flagrado-por-camera-de-seguranca.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "'Turista nenhum gosta de ir a lugares em que tem gente mendigando', diz ministro do Desenvolvimento Social",
+            "subtitulo": "Fala ocorreu enquanto o ministro Wellington Dias (PT) citava a importância de garantir alimentação para pessoas em situação de pobreza, durante a abertura do 10º Salão do Turismo, em Fortaleza.",
+            "categoria": "G1",
+            "dataPublicacao": "Thu, 07 May 2026 19:08:45 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/07/turista-nenhum-gosta-de-ir-a-lugares-em-que-tem-gente-mendigando-diz-ministro-do-desenvolvimento-social.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Latrocínio contra motorista de aplicativo leva polícia a quadrilha especializada em roubos de veículos no Ceará",
+            "subtitulo": "Oito mandados de prisão foram cumpridos nesta quinta-feira (7) contra o grupo criminoso. Três suspeitos já estavam presos pela morte do motorista.",
+            "categoria": "G1",
+            "dataPublicacao": "Thu, 07 May 2026 18:24:43 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/07/latrocinio-contra-motorista-de-aplicativo-leva-policia-a-quadrilha-especializada-em-roubos-de-veiculos-no-ceara.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Três homens e duas mulheres são presos por furtos em série em comércios do interior do Ceará",
+            "subtitulo": "Um dos homens tem 12 antecedentes criminais por furto. Polícia encontrou dezenas de produtos escondidos em bolsas e roupas de suspeitos.",
+            "categoria": "G1",
+            "dataPublicacao": "Thu, 07 May 2026 16:47:41 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/07/tres-homens-e-duas-mulheres-sao-presos-por-furtos-em-serie-em-comercios-do-interior-do-ceara.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "IFCE Fortaleza abre 461 vagas para cursos técnicos e especialização gratuitos",
+            "subtitulo": "Inscrições começam próximo sábado (9) e vão até 24 de maio. Pedido de isenção pode ser feito somente até o dia 9/5",
+            "categoria": "G1",
+            "dataPublicacao": "Thu, 07 May 2026 14:34:54 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/07/ifce-fortaleza-abre-436-vagas-para-cursos-tecnicos-e-especializacao-gratuitos.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Governo Federal anuncia linha de crédito para MEIs de baixa renda",
+            "subtitulo": "Medida foi apresentada no 10º Salão do Turismo e busca facilitar acesso a financiamento para microempreendedores, como donos de barracas, lanchonetes e pequenos comércios.",
+            "categoria": "G1",
+            "dataPublicacao": "Thu, 07 May 2026 14:21:20 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/07/governo-federal-anuncia-linha-de-credito-para-microempreendedores-individuais-de-baixa-renda.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Com Lula prestes a encontrar Trump, Alckmin fala em buscar parcerias com EUA",
+            "subtitulo": "Presidente em exercício participou da abertura do 10º Salão do Turismo, em Fortaleza, e afirmou que governo brasileiro busca ampliar relações comerciais com os Estados Unidos.",
+            "categoria": "G1",
+            "dataPublicacao": "Thu, 07 May 2026 14:05:28 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/07/com-lula-prestes-a-encontrar-trump-alckmin-fala-em-buscar-parcerias-com-eua.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Homem é preso após jogar pedra e quebrar vidro de viatura policial no Ceará",
+            "subtitulo": "Nenhum dos ocupantes teve ferimentos graves. Prisão ocorreu na Avenida Aguanambi, em Fortaleza.",
+            "categoria": "G1",
+            "dataPublicacao": "Thu, 07 May 2026 12:29:00 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/07/homem-e-preso-apos-jogar-pedra-e-quebrar-vidro-de-viatura-policial-no-ceara.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        },
+        {
+            "titulo": "Mulher de 69 anos cai em canal em obras no interior do Ceará",
+            "subtitulo": "Resgate foi realizado na tarde desta quarta-feira (6) no município do Crato, na região do Cariri.",
+            "categoria": "G1",
+            "dataPublicacao": "Thu, 07 May 2026 12:10:50 -0000",
+            "link": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/05/07/mulher-de-69-anos-cai-em-canal-em-obras-no-interior-do-ceara.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 02:07:22"
+        }
+    ]
 }
