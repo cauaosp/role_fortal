@@ -1,6 +1,36 @@
 {
     "opovo": [
         {
+            "titulo": "Bienal de Veneza inicia com polêmica por presença da Rússia",
+            "subtitulo": " Maior exposição de arte contemporânea do mundo, a Bienal de Veneza vai reunir diversos países que estão atravessando conflitos",
+            "categoria": "Vida&Arte",
+            "autor": "AFP",
+            "dataPublicacao": "2026-05-06 18:12:00",
+            "link": "https://www.opovo.com.br/vidaearte/2026/05/06/bienal-de-veneza-inicia-com-polemica-por-presenca-da-russia.html",
+            "jornal": "opovo",
+            "createdAt": "2026-05-09 14:54:33"
+        },
+        {
+            "titulo": "Rolling Stones lançam novo álbum 'Foreign Tongues' em 10 de julho",
+            "subtitulo": "\"Foreign Tongues\" será o primeiro disco dos Rolling Stones sem o baterista Charlie Watts, falecido em 2021",
+            "categoria": "Vida&Arte",
+            "autor": "AFP",
+            "dataPublicacao": "2026-05-06 17:39:00",
+            "link": "https://www.opovo.com.br/vidaearte/2026/05/06/rolling-stones-lancam-novo-album-foreign-tongues-em-10-de-julho.html",
+            "jornal": "opovo",
+            "createdAt": "2026-05-09 14:54:33"
+        },
+        {
+            "titulo": "Em parceria, Isaac Cândido e Marcus Dias lançam novo álbum",
+            "subtitulo": "O quinto álbum autoral em conjunto de Marcus Dias e Isaac Cândido traz aspectos da trajetória e parceria da dupla\r\n",
+            "categoria": "Vida&Arte",
+            "autor": null,
+            "dataPublicacao": "2026-05-06 14:33:00",
+            "link": "https://www.opovo.com.br/vidaearte/2026/05/06/em-parceria-isaac-candido-e-marcus-dias-lancam-novo-album.html",
+            "jornal": "opovo",
+            "createdAt": "2026-05-09 14:54:33"
+        },
+        {
             "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  06 de maio(06/05)",
             "subtitulo": "Veja programação - com estreia, horários de hoje, quarta, 06 de maio(06/05), dos cinemas de Fortaleza.",
             "categoria": "Cinema",
@@ -8,7 +38,7 @@
             "dataPublicacao": "2026-05-06 09:00:13",
             "link": "https://www.opovo.com.br/vidaearte/cinema/2026/05/06/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-06-de-maio-06-05.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "Barbalha 2026: fé e grandes shows na Festa do Pau da Bandeira",
@@ -18,7 +48,7 @@
             "dataPublicacao": "2026-05-06 08:00:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/06/barbalha-2026-fe-e-grandes-shows-na-festa-do-pau-da-bandeira.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "A saga de Orson Welles no Ceará: morte, censura e o filme inacabado \"It's All True\"",
@@ -28,7 +58,7 @@
             "dataPublicacao": "2026-05-06 06:00:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/06/a-saga-de-orson-welles-no-ceara-morte-censura-e-o-filme-inacabado-its-all-true.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo quarta, 06/05/2026",
@@ -38,7 +68,7 @@
             "dataPublicacao": "2026-05-06 00:15:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/06/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-quarta-06-05-2026.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "Amazon não vai encerrar venda de livros físicos; entenda boato",
@@ -48,7 +78,7 @@
             "dataPublicacao": "2026-05-05 15:41:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/05/amazon-nao-vai-encerrar-venda-de-livros-fisicos-entenda-boato.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "Tour 'Assombros e memórias' narra Fortaleza em aula guiada em cemitério",
@@ -58,7 +88,7 @@
             "dataPublicacao": "2026-05-05 13:08:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/05/tour-narra-historia-de-fortaleza-em-aula-guiada-no-cemiterio.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  05 de maio(05/05)",
@@ -68,7 +98,7 @@
             "dataPublicacao": "2026-05-05 09:00:12",
             "link": "https://www.opovo.com.br/vidaearte/cinema/2026/05/05/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-05-de-maio-05-05.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "Shows em Fortaleza: confira a programação para maio",
@@ -78,7 +108,7 @@
             "dataPublicacao": "2026-05-05 08:00:00",
             "link": "https://www.opovo.com.br/vidaearte/shows-e-espetaculos/2026/05/05/shows-em-fortaleza-confira-a-programacao-para-maio.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo terça, 05/05/2026",
@@ -88,7 +118,7 @@
             "dataPublicacao": "2026-05-05 00:15:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/05/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-terca-05-05-2026.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "O caso de amor entre dois homens que abalou o Império Alemão",
@@ -98,7 +128,7 @@
             "dataPublicacao": "2026-05-05 00:09:58",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/05/o-caso-de-amor-entre-dois-homens-que-abalou-o-imperio-alemao.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "Wesley Safadão rebate críticas por cachês recebidos de prefeituras",
@@ -108,7 +138,7 @@
             "dataPublicacao": "2026-05-04 12:47:26",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/04/wesley-safadao-rebate-criticas-por-caches-recebidos-de-prefeituras.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "Atriz Alanis Guillen obtém medida protetiva contra ex-namorada Giovanna Reis",
@@ -118,7 +148,7 @@
             "dataPublicacao": "2026-05-04 12:41:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/04/alanis-guillen-consegue-medida-protetiva-contra-ex-entenda.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "Morre aos 69 anos o cantor e compositor cearense Evaristo Filho",
@@ -128,7 +158,7 @@
             "dataPublicacao": "2026-05-04 12:28:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/04/morre-aos-69-anos-o-cantor-e-compositor-cearense-evaristo-filho.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "'A Casa dos Espíritos': conheça o livro que inspirou série da Amazon Prime",
@@ -138,7 +168,7 @@
             "dataPublicacao": "2026-05-04 11:01:54",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/04/a-casa-dos-espiritos-livro-que-inspirou-serie-da-amazon-prime.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  04 de maio(04/05)",
@@ -148,7 +178,7 @@
             "dataPublicacao": "2026-05-04 09:00:11",
             "link": "https://www.opovo.com.br/vidaearte/cinema/2026/05/04/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-04-de-maio-04-05.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "MEC Livros: obras e autores premiados para ler na plataforma gratuita",
@@ -158,7 +188,7 @@
             "dataPublicacao": "2026-05-04 06:32:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/04/mec-livros-obras-e-autores-premiados-para-ler-na-plataforma-gratuita.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo segunda, 04/05/2026",
@@ -168,7 +198,7 @@
             "dataPublicacao": "2026-05-04 00:15:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/04/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-segunda-04-05-2026.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "Banksy confirma autoria de nova estátua no centro de Londres",
@@ -178,7 +208,7 @@
             "dataPublicacao": "2026-05-04 00:04:49",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/04/banksy-confirma-autoria-de-nova-estatua-no-centro-de-londres.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "Imprensa europeia celebra show histórico de Shakira em Copacabana",
@@ -188,7 +218,7 @@
             "dataPublicacao": "2026-05-04 00:04:44",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/04/imprensa-europeia-celebra-show-historico-de-shakira-em-copacabana.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "Conheça atores de doramas que são ou já foram cantores de kpop",
@@ -198,7 +228,7 @@
             "dataPublicacao": "2026-05-03 16:00:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/03/conheca-atores-de-doramas-que-sao-ou-ja-foram-cantores-de-kpop.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "Domingo Maior: qual filme passa hoje (03/05/26), domingo, na TV Globo",
@@ -208,7 +238,7 @@
             "dataPublicacao": "2026-05-03 13:00:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/03/domingo-maior-qual-filme-passa-hoje-03-05-26-domingo-na-tv-globo.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  03 de maio(03/05)",
@@ -218,7 +248,7 @@
             "dataPublicacao": "2026-05-03 09:00:12",
             "link": "https://www.opovo.com.br/vidaearte/cinema/2026/05/03/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-03-de-maio-03-05.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "Temperatura Máxima hoje (03/05/26); filme de domingo na TV Globo",
@@ -228,7 +258,7 @@
             "dataPublicacao": "2026-05-03 00:15:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/03/temperatura-maxima-hoje-03-05-26-filme-de-domingo-na-tv-globo.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "Shakira em Copacabana: veja horário e como assistir ao show deste sábado, 2",
@@ -238,7 +268,7 @@
             "dataPublicacao": "2026-05-02 18:51:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/02/shakira-em-copacabana-onde-ver-e-detalhes-do-show.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "O que fazer em Fortaleza hoje, 02/05? Veja agenda de festas e shows",
@@ -248,7 +278,7 @@
             "dataPublicacao": "2026-05-02 11:00:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/02/o-que-fazer-em-fortaleza-hoje-02-05-veja-agenda-de-festas-e-shows.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  02 de maio(02/05)",
@@ -258,7 +288,7 @@
             "dataPublicacao": "2026-05-02 08:55:13",
             "link": "https://www.opovo.com.br/vidaearte/cinema/2026/05/02/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-02-de-maio-02-05.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         },
         {
             "titulo": "Prime Video, Netflix e HBO Max: as estreias da semana (27/04 a 03/05)",
@@ -268,37 +298,7 @@
             "dataPublicacao": "2026-05-01 11:00:00",
             "link": "https://www.opovo.com.br/vidaearte/2026/05/01/prime-video-netflix-e-hbo-max-as-estreias-da-semana-27-04-a-03-05.html",
             "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
-        },
-        {
-            "titulo": "O que fazer em Fortaleza hoje, 01/05? Veja agenda de festas e shows",
-            "subtitulo": "Confira o que fazer em Fortaleza nesta sexta, 01 de maio (01/05/2026). Veja opções de festas e shows em diversos bairros da capital cearense",
-            "categoria": "Vida&Arte",
-            "autor": "Carolina Passos",
-            "dataPublicacao": "2026-05-01 11:00:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/05/01/o-que-fazer-em-fortaleza-hoje-01-05-veja-agenda-de-festas-e-shows.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
-        },
-        {
-            "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje,  01 de maio(01/05)",
-            "subtitulo": "Veja programação - com estreia, horários de hoje, sexta, 01 de maio(01/05), dos cinemas de Fortaleza.",
-            "categoria": "Cinema",
-            "autor": "Ingresso.com",
-            "dataPublicacao": "2026-05-01 09:00:14",
-            "link": "https://www.opovo.com.br/vidaearte/cinema/2026/05/01/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-01-de-maio-01-05.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
-        },
-        {
-            "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo sexta, 01/05/2026",
-            "subtitulo": "Um filme de comédia vai passar na Sessão da Tarde hoje, sexta 1º de maio de 2026, (01/05/2026) às 15h25min (horário de Brasília), na TV Globo",
-            "categoria": "Vida&Arte",
-            "autor": null,
-            "dataPublicacao": "2026-05-01 00:15:00",
-            "link": "https://www.opovo.com.br/vidaearte/2026/05/01/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-sexta-01-05-2026.html",
-            "jornal": "opovo",
-            "createdAt": "2026-05-09 02:07:17"
+            "createdAt": "2026-05-09 14:54:33"
         }
     ],
     "gcmais": [
@@ -316,7 +316,7 @@
             "dataPublicacao": "2026-05-08T14:47:08",
             "link": "https://gcmais.com.br/entretenimento/2026/05/08/thiago-revela-estrategia-no-reality-apos-ser-eliminado-da-casa-do-patrao/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Leandro Hassum volta a dar bronca na Casa do Patrão e faz alerta: &#8220;o público não é bobo&#8221;",
@@ -333,7 +333,7 @@
             "dataPublicacao": "2026-05-08T09:46:00",
             "link": "https://gcmais.com.br/entretenimento/2026/05/08/leandro-hassum-volta-a-dar-bronca-na-casa-do-patrao-e-faz-alerta-o-publico-nao-e-bobo/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Thiago é eliminado da Casa do Patrão com 20,61% dos votos",
@@ -349,7 +349,7 @@
             "dataPublicacao": "2026-05-08T06:19:51",
             "link": "https://gcmais.com.br/entretenimento/2026/05/08/thiago-e-eliminado-da-casa-do-patrao-com-2061-dos-votos/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Mayara Lorena participa do programa “Acerte ou Caia!” com Tom Cavalcante",
@@ -364,7 +364,7 @@
             "dataPublicacao": "2026-05-07T17:44:54",
             "link": "https://gcmais.com.br/entretenimento/2026/05/07/mayara-lorena-participa-do-programa-acerte-ou-caia-com-tom-cavalcante/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Novo participante agita a Casa do Patrão e promete movimentar o jogo: “Vim para competir”",
@@ -380,7 +380,7 @@
             "dataPublicacao": "2026-05-07T11:52:41",
             "link": "https://gcmais.com.br/entretenimento/2026/05/07/novo-participante-agita-a-casa-do-patrao-e-promete-movimentar-o-jogo-vim-para-competir/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Conheça João Pedro, novo participante da Casa do Patrão após saída de Jovan",
@@ -397,7 +397,7 @@
             "dataPublicacao": "2026-05-07T08:31:49",
             "link": "https://gcmais.com.br/entretenimento/2026/05/07/conheca-joao-pedro-novo-participante-da-casa-do-patrao-apos-saida-de-jovan/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Hassum revela entrada de novo participante na Casa do Patrão",
@@ -413,7 +413,7 @@
             "dataPublicacao": "2026-05-06T15:12:07",
             "link": "https://gcmais.com.br/entretenimento/2026/05/06/hassum-revela-entrada-de-novo-participante-na-casa-do-patrao/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Tá na Reta: Luiza, Sheila e Thiago disputam permanência na Casa do Patrão",
@@ -429,7 +429,7 @@
             "dataPublicacao": "2026-05-06T06:44:21",
             "link": "https://gcmais.com.br/entretenimento/2026/05/06/ta-na-reta-luiza-sheila-e-thiago-disputam-permanencia-na-casa-do-patrao/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Rolling Stones anunciam lançamento de &#8216;Foreign Tongues&#8217;, seu 28º disco de estúdio",
@@ -442,7 +442,7 @@
             "dataPublicacao": "2026-05-05T17:53:13",
             "link": "https://gcmais.com.br/entretenimento/2026/05/05/rolling-stones-anunciam-lancamento-de-foreign-tongues-seu-28o-disco-de-estudio/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Confinados se reúnem e cobram explicações de Thiago sobre formação do Tá na Reta",
@@ -456,7 +456,7 @@
             "dataPublicacao": "2026-05-05T09:00:35",
             "link": "https://gcmais.com.br/entretenimento/2026/05/05/confinados-se-reunem-e-cobram-explicacoes-de-thiago-sobre-formacao-do-ta-na-reta/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Luís Fellipe vence Prova Tô Fora no reality Casa do Patrão; entenda o que muda",
@@ -473,7 +473,7 @@
             "dataPublicacao": "2026-05-05T08:38:15",
             "link": "https://gcmais.com.br/entretenimento/2026/05/05/luis-fellipe-vence-prova-to-fora-no-reality-casa-do-patrao-entenda-o-que-muda/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Morena surpreende ao colocar aliados na Casa do Trampo após vencer Prova do Patrão",
@@ -490,7 +490,7 @@
             "dataPublicacao": "2026-05-04T08:56:52",
             "link": "https://gcmais.com.br/entretenimento/2026/05/04/morena-surpreende-ao-colocar-aliados-na-casa-do-trampo-apos-vencer-prova-do-patrao/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Jovan desiste da Casa do Patrão após conflitos e sinais de desgaste no reality",
@@ -505,7 +505,7 @@
             "dataPublicacao": "2026-05-03T21:03:12",
             "link": "https://gcmais.com.br/entretenimento/2026/05/03/jovan-desiste-da-casa-do-patrao-apos-conflitos-e-sinais-de-desgaste-no-reality/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Luana Piovani diz que esqueceu encontro com Shakira no programa de Hebe: “achei que era montagem”",
@@ -520,7 +520,7 @@
             "dataPublicacao": "2026-05-03T19:22:38",
             "link": "https://gcmais.com.br/entretenimento/2026/05/03/luana-piovani-diz-que-esqueceu-encontro-com-shakira-no-programa-de-hebe-achei-que-era-montagem/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Shakira divide palco com Maria Bethânia durante show no Rio de Janeiro",
@@ -535,7 +535,7 @@
             "dataPublicacao": "2026-05-03T17:43:37",
             "link": "https://gcmais.com.br/noticias/2026/05/03/shakira-divide-palco-com-maria-bethania-durante-show-no-rio-de-janeiro/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Shakira dedica show às mães solteiras durante apresentação no Rio de Janeiro: “nós fazemos tudo”",
@@ -550,7 +550,7 @@
             "dataPublicacao": "2026-05-03T16:39:07",
             "link": "https://gcmais.com.br/entretenimento/2026/05/03/shakira-dedica-show-as-maes-solteiras-durante-apresentacao-no-rio-de-janeiro-nos-fazemos-tudo/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Cearense Morena vence Prova do Patrão e assume comando da Casa do Patrão",
@@ -565,7 +565,7 @@
             "dataPublicacao": "2026-05-03T13:15:45",
             "link": "https://gcmais.com.br/entretenimento/2026/05/03/cearense-morena-vence-prova-do-patrao-e-assume-comando-da-casa-do-patrao/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Shakira transforma Copacabana em megafesta latina e reúne 2 milhões em show histórico no Rio",
@@ -579,7 +579,7 @@
             "dataPublicacao": "2026-05-03T12:54:10",
             "link": "https://gcmais.com.br/entretenimento/2026/05/03/shakira-transforma-copacabana-em-megafesta-latina-e-reune-2-milhoes-em-show-historico-no-rio/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Faustão faz rara aparição em vídeo com Tom Cavalcante ao completar 76 anos",
@@ -594,7 +594,7 @@
             "dataPublicacao": "2026-05-02T21:17:16",
             "link": "https://gcmais.com.br/entretenimento/2026/05/02/faustao-faz-rara-aparicao-em-video-com-tom-cavalcante-ao-completar-76-anos/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Matheus, da dupla com Kauan, anuncia separação de Paula Aires após 14 anos",
@@ -609,7 +609,7 @@
             "dataPublicacao": "2026-05-02T20:24:22",
             "link": "https://gcmais.com.br/entretenimento/2026/05/02/matheus-da-dupla-com-kauan-anuncia-separacao-de-paula-aires-apos-14-anos/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Faustão faz aniversário de 76 anos e recebe homenagem emocionada da esposa; confira",
@@ -624,7 +624,7 @@
             "dataPublicacao": "2026-05-02T20:09:08",
             "link": "https://gcmais.com.br/entretenimento/2026/05/02/faustao-faz-aniversario-de-76-anos-e-recebe-homenagem-emocionada-da-esposa-confira/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Ivete Sangalo é vista indo ao show de Shakira no Rio; as duas cantarão juntas",
@@ -641,7 +641,7 @@
             "dataPublicacao": "2026-05-02T19:01:28",
             "link": "https://gcmais.com.br/entretenimento/2026/05/02/ivete-sangalo-e-vista-indo-ao-show-de-shakira-no-rio-as-duas-cantarao-juntas/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Sheila chora ao ser votada a mais falsa na Casa do Patrão; confira o vídeo",
@@ -658,7 +658,7 @@
             "dataPublicacao": "2026-05-02T17:03:45",
             "link": "https://gcmais.com.br/entretenimento/2026/05/02/sheila-chora-ao-ser-votada-a-mais-falsa-na-casa-do-patrao-confira-o-video/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Shakira se surpreende com multidão antes de show em Copacabana: “Isso tudo é pra mim?”",
@@ -671,7 +671,7 @@
             "dataPublicacao": "2026-05-02T13:56:33",
             "link": "https://gcmais.com.br/entretenimento/2026/05/02/shakira-surpresa-multidao-copacabana-show/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "MC Brinquedo anuncia fim da carreira no funk após conversão religiosa",
@@ -684,7 +684,7 @@
             "dataPublicacao": "2026-05-01T20:35:17",
             "link": "https://gcmais.com.br/noticias/brasil/2026/05/01/mc-brinquedo-fim-carreira-funk/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Marcelo Skova critica Sheila após eliminação na Casa do Patrão e revela bastidores do jogo",
@@ -701,7 +701,7 @@
             "dataPublicacao": "2026-05-01T19:01:22",
             "link": "https://gcmais.com.br/entretenimento/2026/05/01/marcelo-skova-critica-sheila-apos-eliminacao-na-casa-do-patrao-e-revela-bastidores-do-jogo/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Marcelo Skova é o primeiro eliminado da Casa do Patrão, com 21,60% dos votos",
@@ -718,7 +718,7 @@
             "dataPublicacao": "2026-05-01T09:00:47",
             "link": "https://gcmais.com.br/entretenimento/2026/05/01/marcelo-skova-e-o-primeiro-eliminado-da-casa-do-patrao-com-2160-dos-votos/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Narcisa Tamborindeguy usa megafone para falar com Shakira antes de show no Rio",
@@ -734,7 +734,7 @@
             "dataPublicacao": "2026-05-01T08:38:40",
             "link": "https://gcmais.com.br/entretenimento/2026/05/01/narcisa-tamborindeguy-usa-megafone-para-falar-com-shakira-antes-de-show-no-rio/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Sheila recusa ordens do Patrão Luis Fellipe e gera primeira treta na Casa do Patrão",
@@ -748,7 +748,7 @@
             "dataPublicacao": "2026-04-30T18:44:24",
             "link": "https://gcmais.com.br/entretenimento/2026/04/30/sheila-recusa-ordens-do-patrao-luis-fellipe-e-gera-primeira-treta-na-casa-do-patrao/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         },
         {
             "titulo": "Casa do Patrão: alianças, conflitos e estratégias marcam pós-festa antes de eliminação",
@@ -765,11 +765,95 @@
             "dataPublicacao": "2026-04-30T18:33:34",
             "link": "https://gcmais.com.br/entretenimento/2026/04/30/casa-do-patrao-aliancas-conflitos-e-estrategias-marcam-pos-festa-antes-de-eliminacao/",
             "jornal": "gcmais",
-            "createdAt": "2026-05-09 02:07:20"
+            "createdAt": "2026-05-09 14:54:36"
         }
     ],
     "dn": [
         {
+            "title": "Bombeiros resgatam bezerro que caiu em cacimba com 7 metros de profundidade no Ceará",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/bombeiros-resgatam-bezerro-que-caiu-em-cacimba-com-7-metros-de-profundidade-no-ceara-1.3762962",
+            "date": "2026-05-09T14:38:48-03:00",
+            "author": "Redação",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Morre pesquisador Hilário Ferreira, referência do movimento negro no Ceará",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/morre-pesquisador-hilario-ferreira-referencia-do-movimento-negro-no-ceara-1.3762938",
+            "date": "2026-05-09T11:14:03-03:00",
+            "author": "Redação",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Jovem que teve mãos decepadas em Quixeramobim recebe alta da UTI",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/jovem-que-teve-maos-decepadas-em-quixeramobim-recebe-alta-da-uti-1.3762876",
+            "date": "2026-05-08T19:35:00-03:00",
+            "author": "Luana Severo",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Manifestação interdita via e pede redutores de velocidade em trecho da BR-020 no Ceará",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/manifestacao-interdita-via-e-pede-redutores-de-velocidade-em-trecho-da-br-020-no-ceara-1.3762790",
+            "date": "2026-05-08T15:43:49-03:00",
+            "author": "Redação",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Uniodonto Fortaleza oferece condições especiais em campanha de Dia das Mães",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/uniodonto-fortaleza-oferece-condicoes-especiais-em-campanha-de-dia-das-maes-1.3762493",
+            "date": "2026-05-08T07:00:00-03:00",
+            "author": "Agência de Conteúdo DN",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Quanto custa um funeral no Ceará? Enterro e cremação podem chegar a R$ 50 mil",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/quanto-custa-um-funeral-no-ceara-enterro-e-cremacao-podem-chegar-a-r-50-mil-1.3761622",
+            "date": "2026-05-08T06:00:42-03:00",
+            "author": "Nícolas Paulino",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Fortaleza teve 1º surto de chikungunya há 10 anos; veja cenário da doença hoje",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/fortaleza-teve-1-surto-de-chikungunya-ha-10-anos-veja-cenario-da-doenca-hoje-1.3762315",
+            "date": "2026-05-08T06:00:10-03:00",
+            "author": "Nícolas Paulino",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Jovem atacada com foice em Quixeramobim se fingiu de morta para escapar de ex",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/jovem-atacada-com-foice-em-quixeramobim-se-fingiu-de-morta-para-escapar-de-ex-1.3762382",
+            "date": "2026-05-07T15:23:00-03:00",
+            "author": "João Lima Neto",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Entre riscos de desabamento e alagamentos, Fortaleza tem média de 200 ocorrências por mês",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/entre-riscos-de-desabamento-e-alagamentos-fortaleza-tem-media-de-200-ocorrencias-por-mes-1.3759327",
+            "date": "2026-05-07T14:40:00-03:00",
+            "author": "Ana Alice Freire*, Nícolas Paulino",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "CE tem 44 cidades em situação de emergência por seca ou estiagem; veja locais",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/ce-tem-44-cidades-em-situacao-de-emergencia-por-seca-ou-estiagem-veja-locais-1.3762320",
+            "date": "2026-05-07T14:21:36-03:00",
+            "author": "Redação",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Acordo garante indenização a moradores de comunidade onde muro desabou na Aerolândia",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/acordo-garante-indenizacao-a-moradores-de-comunidade-onde-muro-desabou-na-aerolandia-1.3762305",
+            "date": "2026-05-07T12:05:44-03:00",
+            "author": "João Gabriel Tréz",
+            "source": "diariodonordeste"
+        },
+        {
+            "title": "Morre pesquisador Hilário Ferreira, referência do movimento negro no Ceará",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/morre-pesquisador-hilario-ferreira-referencia-do-movimento-negro-no-ceara-1.3762938",
+            "date": "2026-05-09T11:14:03-03:00",
+            "author": "Redação",
+            "source": "diariodonordeste"
+        },
+        {
             "title": "Jovem que teve mãos decepadas em Quixeramobim recebe alta da UTI",
             "url": "https://diariodonordeste.verdesmares.com.br/ceara/jovem-que-teve-maos-decepadas-em-quixeramobim-recebe-alta-da-uti-1.3762876",
             "date": "2026-05-08T19:35:00-03:00",
@@ -840,10 +924,10 @@
             "source": "diariodonordeste"
         },
         {
-            "title": "Cearense leva 28 anos para receber diagnóstico de doença rara; veja sintomas",
-            "url": "https://diariodonordeste.verdesmares.com.br/ceara/cearense-leva-28-anos-para-receber-diagnostico-de-doenca-rara-veja-sintomas-1.3761245",
-            "date": "2026-05-07T10:00:38-03:00",
-            "author": "Ana Beatriz Caldas",
+            "title": "Morre pesquisador Hilário Ferreira, referência do movimento negro no Ceará",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/morre-pesquisador-hilario-ferreira-referencia-do-movimento-negro-no-ceara-1.3762938",
+            "date": "2026-05-09T11:14:03-03:00",
+            "author": "Redação",
             "source": "diariodonordeste"
         },
         {
@@ -896,80 +980,10 @@
             "source": "diariodonordeste"
         },
         {
-            "title": "Acordo garante indenização a moradores de comunidade onde muro desabou na Aerolândia",
-            "url": "https://diariodonordeste.verdesmares.com.br/ceara/acordo-garante-indenizacao-a-moradores-de-comunidade-onde-muro-desabou-na-aerolandia-1.3762305",
-            "date": "2026-05-07T12:05:44-03:00",
-            "author": "João Gabriel Tréz",
-            "source": "diariodonordeste"
-        },
-        {
-            "title": "Jovem atacada com foice em Quixeramobim deve sair de UTI nesta sexta (8), diz padrasto",
-            "url": "https://diariodonordeste.verdesmares.com.br/ceara/jovem-atacada-com-foice-em-quixeramobim-deve-sair-de-uti-nesta-sexta-8-diz-padrasto-1.3762308",
-            "date": "2026-05-07T11:51:27-03:00",
-            "author": "João Lima Neto",
-            "source": "diariodonordeste"
-        },
-        {
-            "title": "Instituto Queiroz Jereissati oferece 100 vagas em imersão tecnológica para jovens",
-            "url": "https://diariodonordeste.verdesmares.com.br/ceara/instituto-queiroz-jereissati-oferece-100-vagas-em-imersao-tecnologica-para-jovens-1.3762299",
-            "date": "2026-05-07T11:03:00-03:00",
+            "title": "CE tem 44 cidades em situação de emergência por seca ou estiagem; veja locais",
+            "url": "https://diariodonordeste.verdesmares.com.br/ceara/ce-tem-44-cidades-em-situacao-de-emergencia-por-seca-ou-estiagem-veja-locais-1.3762320",
+            "date": "2026-05-07T14:21:36-03:00",
             "author": "Redação",
-            "source": "diariodonordeste"
-        },
-        {
-            "title": "Cearense leva 28 anos para receber diagnóstico de doença rara; veja sintomas",
-            "url": "https://diariodonordeste.verdesmares.com.br/ceara/cearense-leva-28-anos-para-receber-diagnostico-de-doenca-rara-veja-sintomas-1.3761245",
-            "date": "2026-05-07T10:00:38-03:00",
-            "author": "Ana Beatriz Caldas",
-            "source": "diariodonordeste"
-        },
-        {
-            "title": "Jovem que teve mãos decepadas em Quixeramobim recebe alta da UTI",
-            "url": "https://diariodonordeste.verdesmares.com.br/ceara/jovem-que-teve-maos-decepadas-em-quixeramobim-recebe-alta-da-uti-1.3762876",
-            "date": "2026-05-08T19:35:00-03:00",
-            "author": "Luana Severo",
-            "source": "diariodonordeste"
-        },
-        {
-            "title": "Manifestação interdita via e pede redutores de velocidade em trecho da BR-020 no Ceará",
-            "url": "https://diariodonordeste.verdesmares.com.br/ceara/manifestacao-interdita-via-e-pede-redutores-de-velocidade-em-trecho-da-br-020-no-ceara-1.3762790",
-            "date": "2026-05-08T15:43:49-03:00",
-            "author": "Redação",
-            "source": "diariodonordeste"
-        },
-        {
-            "title": "Uniodonto Fortaleza oferece condições especiais em campanha de Dia das Mães",
-            "url": "https://diariodonordeste.verdesmares.com.br/ceara/uniodonto-fortaleza-oferece-condicoes-especiais-em-campanha-de-dia-das-maes-1.3762493",
-            "date": "2026-05-08T07:00:00-03:00",
-            "author": "Agência de Conteúdo DN",
-            "source": "diariodonordeste"
-        },
-        {
-            "title": "Quanto custa um funeral no Ceará? Enterro e cremação podem chegar a R$ 50 mil",
-            "url": "https://diariodonordeste.verdesmares.com.br/ceara/quanto-custa-um-funeral-no-ceara-enterro-e-cremacao-podem-chegar-a-r-50-mil-1.3761622",
-            "date": "2026-05-08T06:00:42-03:00",
-            "author": "Nícolas Paulino",
-            "source": "diariodonordeste"
-        },
-        {
-            "title": "Fortaleza teve 1º surto de chikungunya há 10 anos; veja cenário da doença hoje",
-            "url": "https://diariodonordeste.verdesmares.com.br/ceara/fortaleza-teve-1-surto-de-chikungunya-ha-10-anos-veja-cenario-da-doenca-hoje-1.3762315",
-            "date": "2026-05-08T06:00:10-03:00",
-            "author": "Nícolas Paulino",
-            "source": "diariodonordeste"
-        },
-        {
-            "title": "Jovem atacada com foice em Quixeramobim se fingiu de morta para escapar de ex",
-            "url": "https://diariodonordeste.verdesmares.com.br/ceara/jovem-atacada-com-foice-em-quixeramobim-se-fingiu-de-morta-para-escapar-de-ex-1.3762382",
-            "date": "2026-05-07T15:23:00-03:00",
-            "author": "João Lima Neto",
-            "source": "diariodonordeste"
-        },
-        {
-            "title": "Entre riscos de desabamento e alagamentos, Fortaleza tem média de 200 ocorrências por mês",
-            "url": "https://diariodonordeste.verdesmares.com.br/ceara/entre-riscos-de-desabamento-e-alagamentos-fortaleza-tem-media-de-200-ocorrencias-por-mes-1.3759327",
-            "date": "2026-05-07T14:40:00-03:00",
-            "author": "Ana Alice Freire*, Nícolas Paulino",
             "source": "diariodonordeste"
         },
         {
@@ -984,20 +998,6 @@
             "url": "https://diariodonordeste.verdesmares.com.br/ceara/jovem-atacada-com-foice-em-quixeramobim-deve-sair-de-uti-nesta-sexta-8-diz-padrasto-1.3762308",
             "date": "2026-05-07T11:51:27-03:00",
             "author": "João Lima Neto",
-            "source": "diariodonordeste"
-        },
-        {
-            "title": "Instituto Queiroz Jereissati oferece 100 vagas em imersão tecnológica para jovens",
-            "url": "https://diariodonordeste.verdesmares.com.br/ceara/instituto-queiroz-jereissati-oferece-100-vagas-em-imersao-tecnologica-para-jovens-1.3762299",
-            "date": "2026-05-07T11:03:00-03:00",
-            "author": "Redação",
-            "source": "diariodonordeste"
-        },
-        {
-            "title": "Cearense leva 28 anos para receber diagnóstico de doença rara; veja sintomas",
-            "url": "https://diariodonordeste.verdesmares.com.br/ceara/cearense-leva-28-anos-para-receber-diagnostico-de-doenca-rara-veja-sintomas-1.3761245",
-            "date": "2026-05-07T10:00:38-03:00",
-            "author": "Ana Beatriz Caldas",
             "source": "diariodonordeste"
         }
     ],
@@ -1013,7 +1013,7 @@
             "dataPublicacao": "2026-05-06T06:00:00",
             "link": "https://oestadoce.com.br/geral/musical-barro-cru-leva-artistas-idosos-ao-palco-e-propoe-passeio-pela-cultura-caririense/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Trairi celebra mestres e mestras da cultura com lançamento de livro, exposição e exibição de documentário",
@@ -1025,7 +1025,7 @@
             "dataPublicacao": "2026-05-05T00:20:20",
             "link": "https://oestadoce.com.br/arte-agenda/trairi-celebra-mestres-e-mestras-da-cultura-com-lancamento-de-livro-exposicao-e-exibicao-de-documentario/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Oscar barra IA de roteiros e atuações e muda regra de filme internacional",
@@ -1037,7 +1037,7 @@
             "dataPublicacao": "2026-05-02T07:52:18",
             "link": "https://oestadoce.com.br/arte-agenda/oscar-barra-ia-de-roteiros-e-atuacoes-e-muda-regra-de-filme-internacional/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Dancinhas, lotação e alerta de segurança dos EUA marcam véspera de Shakira no Rio ",
@@ -1049,7 +1049,7 @@
             "dataPublicacao": "2026-05-01T13:23:10",
             "link": "https://oestadoce.com.br/arte-agenda/dancinhas-lotacao-e-alerta-de-seguranca-dos-eua-marcam-vespera-de-shakira-no-rio/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Estátua de menina Benigna, símbolo contra o feminicídio, é inaugurada",
@@ -1062,7 +1062,7 @@
             "dataPublicacao": "2026-04-24T08:12:02",
             "link": "https://oestadoce.com.br/arte-agenda/estatua-de-menina-benigna-simbolo-contra-o-feminicidio-e-inaugurada/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Jesus aparece abraçando Axl Rose em imagem da Arquidiocese de Fortaleza",
@@ -1074,7 +1074,7 @@
             "dataPublicacao": "2026-04-20T17:30:53",
             "link": "https://oestadoce.com.br/arte-agenda/jesus-aparece-abracando-axl-rose-em-imagem-da-arquidiocese-de-fortaleza/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Gravação da banda Forró Real é interrompida após fiscalização por poluição sonora em Fortaleza",
@@ -1087,7 +1087,7 @@
             "dataPublicacao": "2026-04-19T15:11:44",
             "link": "https://oestadoce.com.br/arte-agenda/gravacao-da-banda-forro-real-e-interrompida-apos-fiscalizacao-por-poluicao-sonora-em-fortaleza/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Bilheteria Digital é multada por cobrança abusiva em ingressos do Guns N’ Roses em Fortaleza",
@@ -1099,7 +1099,7 @@
             "dataPublicacao": "2026-04-17T20:34:02",
             "link": "https://oestadoce.com.br/arte-agenda/bilheteria-digital-e-multada-por-cobranca-abusiva-em-ingressos-do-guns-n-roses-em-fortaleza/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Mari Fernandez reforça avanço da maternidade compartilhada e impulsiona debate sobre reprodução assistida",
@@ -1111,7 +1111,7 @@
             "dataPublicacao": "2026-04-17T20:00:00",
             "link": "https://oestadoce.com.br/arte-agenda/mari-fernandez-reforca-avanco-da-maternidade-compartilhada-e-impulsiona-debate-sobre-reproducao-assistida/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Leila Pinheiro celebra 45 anos de carreira em Fortaleza com o espetáculo “Viva Meu Samba”",
@@ -1123,7 +1123,7 @@
             "dataPublicacao": "2026-04-16T21:41:08",
             "link": "https://oestadoce.com.br/arte-agenda/leila-pinheiro-celebra-45-anos-de-carreira-em-fortaleza-com-o-espetaculo-viva-meu-samba/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Show de Leila Pinheiro celebra trajetória e clássicos do samba em Fortaleza",
@@ -1136,7 +1136,7 @@
             "dataPublicacao": "2026-04-16T10:31:23",
             "link": "https://oestadoce.com.br/arte-agenda/show-de-leila-pinheiro-celebra-trajetoria-e-classicos-do-samba-em-fortaleza/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "“Olhos nos Olhos”: Ana Lúcia Torre celebra 60 anos de carreira em espetáculo emocionante com canções de Chico Buarque",
@@ -1149,7 +1149,7 @@
             "dataPublicacao": "2026-04-16T09:27:05",
             "link": "https://oestadoce.com.br/arte-agenda/olhos-nos-olhos-ana-lucia-torre-celebra-60-anos-de-carreira-em-espetaculo-emocionante-com-cancoes-de-chico-buarque/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "O Bode Quer: espetáculo de rua celebra ícone popular em Quixeramobim, Sobral e Fortaleza",
@@ -1161,7 +1161,7 @@
             "dataPublicacao": "2026-04-15T23:45:15",
             "link": "https://oestadoce.com.br/arte-agenda/o-bode-quer-espetaculo-de-rua-celebra-icone-popular-em-quixeramobim-sobral-e-fortaleza/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "S Pique Festival agita Praia do Futuro com DJ Arana e grandes nomes da cena na capital cearense",
@@ -1173,7 +1173,7 @@
             "dataPublicacao": "2026-04-15T21:01:00",
             "link": "https://oestadoce.com.br/arte-agenda/s-pique-festival-agita-praia-do-futuro-com-dj-arana-e-grandes-nomes-da-cena-na-capital-cearense/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Wagner Moura é eleito uma das cem personalidades do ano pela revista Time",
@@ -1187,7 +1187,7 @@
             "dataPublicacao": "2026-04-15T11:42:03",
             "link": "https://oestadoce.com.br/arte-agenda/wagner-moura-e-eleito-uma-das-cem-personalidades-do-ano-pela-revista-time/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Carlinhos Maia é multado em R$ 1 milhão por filmar amigos alimentando gaivota",
@@ -1200,7 +1200,7 @@
             "dataPublicacao": "2026-04-14T11:04:36",
             "link": "https://oestadoce.com.br/arte-agenda/carlinhos-maia-e-multado-em-r-1-milhao-por-filmar-amigos-alimentando-gaivota/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Fortaleza ganha espaço no cenário da música eletrônica com avanço de eventos e novos públicos",
@@ -1212,7 +1212,7 @@
             "dataPublicacao": "2026-04-12T12:58:00",
             "link": "https://oestadoce.com.br/arte-agenda/fortaleza-ganha-espaco-no-cenario-da-musica-eletronica-com-avanco-de-eventos-e-novos-publicos/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Carolina Ferraz deixa Record após seis anos no Domingo Espetacular",
@@ -1225,7 +1225,7 @@
             "dataPublicacao": "2026-04-08T21:22:00",
             "link": "https://oestadoce.com.br/arte-agenda/carolina-ferraz-deixa-record-apos-seis-anos-no-domingo-espetacular/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Justiça determina bloqueio de cachês de Belo para quitação de dívida trabalhista de R$ 230 mil",
@@ -1238,7 +1238,7 @@
             "dataPublicacao": "2026-04-07T10:11:07",
             "link": "https://oestadoce.com.br/arte-agenda/justica-determina-bloqueio-de-caches-de-belo-para-quitacao-de-divida-trabalhista-de-r-230-mil/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Inédito no Nordeste, Abyssal Deep desembarca em Fortaleza neste fim de semana no Centro de Eventos",
@@ -1250,7 +1250,7 @@
             "dataPublicacao": "2026-04-06T21:08:40",
             "link": "https://oestadoce.com.br/arte-agenda/inedito-no-nordeste-abyssal-deep-desembarca-em-fortaleza-neste-fim-de-semana-no-centro-de-eventos/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Cara fechada de Virginia em festa surpresa reforça rumor de crise com Vini Jr.",
@@ -1263,7 +1263,7 @@
             "dataPublicacao": "2026-04-06T09:55:24",
             "link": "https://oestadoce.com.br/arte-agenda/cara-fechada-de-virginia-em-festa-surpresa-reforca-rumor-de-crise-com-vini-jr/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Banda do Manguebeat faz shows especiais na CAIXA Cultural Fortaleza",
@@ -1276,7 +1276,7 @@
             "dataPublicacao": "2026-04-03T11:03:19",
             "link": "https://oestadoce.com.br/arte-agenda/banda-do-manguebeat-faz-shows-especiais-na-caixa-cultural-fortaleza/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "&#8216;O Agente Secreto&#8217; estreia na China como parte de acordo de 2024 entre Lula e Xi",
@@ -1289,7 +1289,7 @@
             "dataPublicacao": "2026-04-02T11:29:43",
             "link": "https://oestadoce.com.br/arte-agenda/o-agente-secreto-estreia-na-china-como-parte-de-acordo-de-2024-entre-lula-e-xi/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Alberto Cowboy deixa o BBB 26 com alta rejeição no décimo paredão",
@@ -1302,7 +1302,7 @@
             "dataPublicacao": "2026-03-29T15:35:26",
             "link": "https://oestadoce.com.br/arte-agenda/alberto-cowboy-deixa-o-bbb-26-com-alta-rejeicao-no-decimo-paredao/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Milena prepara &#8216;suco fake&#8217; com água de frango e leva advertência da produção do BBB 26",
@@ -1315,7 +1315,7 @@
             "dataPublicacao": "2026-03-28T18:51:00",
             "link": "https://oestadoce.com.br/arte-agenda/milena-prepara-suco-fake-com-agua-de-frango-e-leva-advertencia-da-producao-do-bbb-26/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Direção suspende castigo do monstro de Ana Paula e Milena no BBB 26 após apelo do público",
@@ -1328,7 +1328,7 @@
             "dataPublicacao": "2026-03-28T16:38:00",
             "link": "https://oestadoce.com.br/arte-agenda/direcao-suspende-castigo-do-monstro-de-ana-paula-e-milena-no-bbb-26-apos-apelo-do-publico/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Com entrada gratuita, espetáculo solo “Memórias de Subsolo” retorna ao Teatro Cuca José Walter e Teatro Cuca Pici",
@@ -1341,7 +1341,7 @@
             "dataPublicacao": "2026-03-26T10:00:33",
             "link": "https://oestadoce.com.br/arte-agenda/com-entrada-gratuita-espetaculo-solo-memorias-de-subsolo-retorna-ao-teatro-cuca-jose-walter-e-teatro-cuca-pici/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Fram Paulo reflete sobre ancestralidade e sertão no filme &#8220;Nova Terra&#8221;",
@@ -1353,7 +1353,7 @@
             "dataPublicacao": "2026-03-25T16:34:00",
             "link": "https://oestadoce.com.br/arte-agenda/fram-paulo-reflete-sobre-ancestralidade-e-sertao-no-filme-nova-terra/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Mari Fernandez, Márcia Felipe, Guilherme Dantas e Jota Vê são atrações no aniversário de 69 anos de Martinópole",
@@ -1365,7 +1365,7 @@
             "dataPublicacao": "2026-03-23T18:23:00",
             "link": "https://oestadoce.com.br/arte-agenda/mari-fernandez-marcia-felipe-guilherme-dantas-e-jota-ve-sao-atracoes-no-aniversario-de-69-anos-de-martinopole/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Dono do OnlyFans morre aos 43 anos",
@@ -1378,10 +1378,82 @@
             "dataPublicacao": "2026-03-23T13:02:17",
             "link": "https://oestadoce.com.br/arte-agenda/dono-do-onlyfans-morre-aos-43-anos/",
             "jornal": "oestadoce",
-            "createdAt": "2026-05-09 02:07:21"
+            "createdAt": "2026-05-09 14:54:37"
         }
     ],
     "globoce": [
+        {
+            "titulo": "Motociclista morre após colidir em mureta na BR-116, na Grande Fortaleza",
+            "subtitulo": "O passageiro da motocicleta foi socorrido pelo Samu com ferimentos graves e encaminhado para atendimento médico especializado.",
+            "categoria": "G1",
+            "dataPublicacao": "Sat, 09 May 2026 17:12:36 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/09/motociclista-morre-apos-colidir-em-mureta-na-br-116-na-grande-fortaleza.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 14:54:37"
+        },
+        {
+            "titulo": "Vídeo: Bezerro é resgatado pelos bombeiros após cair em cacimba de 7 metros de profundidade",
+            "subtitulo": "Animal foi içado pelos agentes até o topo com um equipamento de tripé com roldanas e devolvido ao proprietário.",
+            "categoria": "G1",
+            "dataPublicacao": "Sat, 09 May 2026 15:21:57 -0000",
+            "link": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/05/09/video-bezerro-e-resgatado-pelos-bombeiros-apos-cair-em-cacimba-de-7-metros-de-profundidade.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 14:54:37"
+        },
+        {
+            "titulo": "Mulher denuncia agressão cometida por prefeito no interior do Ceará; gestor nega acusação",
+            "subtitulo": "O prefeito José Joeni alegou que trocou empurrões apenas com o filho da denunciante. A Polícia Civil investiga o caso.",
+            "categoria": "G1",
+            "dataPublicacao": "Sat, 09 May 2026 14:22:33 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/09/mulher-denuncia-agressao-cometida-por-prefeito-no-interior-do-ceara-gestor-nega-acusacao.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 14:54:37"
+        },
+        {
+            "titulo": "Passageira é baleada com 9 tiros dentro de topique no interior do Ceará",
+            "subtitulo": "A jovem de 20 anos teve ferimentos na face, no tórax e no ombro e foi levada ao hospital. A Polícia Civil investiga o caso.",
+            "categoria": "G1",
+            "dataPublicacao": "Sat, 09 May 2026 13:46:09 -0000",
+            "link": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/05/09/passageira-e-baleada-com-9-tiros-dentro-de-topique-no-interior-do-ceara.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 14:54:37"
+        },
+        {
+            "titulo": "Pastor disse a fiel que identificou um tumor no útero dela para cometer abusos sexuais",
+            "subtitulo": "Alan Pereira Vicente, de 38 anos, foi preso na última quinta-feira (9) por suspeita de abusar sexualmente de mulheres da igreja que liderava em Fortaleza.",
+            "categoria": "G1",
+            "dataPublicacao": "Sat, 09 May 2026 12:29:49 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/09/pastor-disse-a-fiel-que-identificou-um-tumor-no-utero-dela-para-cometer-abusos-sexuais.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 14:54:37"
+        },
+        {
+            "titulo": "Postos de saúde e shopping realizam vacinação contra a gripe em Fortaleza neste fim de semana; veja quais são",
+            "subtitulo": "Além da vacinação, pacientes com sintomas gripais leves poderão contar com atendimento e entrega de medicamentos em oito equipamentos.",
+            "categoria": "G1",
+            "dataPublicacao": "Sat, 09 May 2026 10:39:54 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/09/postos-de-saude-e-shopping-realizam-vacinacao-contra-a-gripe-em-fortaleza-neste-fim-de-semana-veja-quais-sao.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 14:54:37"
+        },
+        {
+            "titulo": "Músico se apresenta com piano de 120 kg em cachoeira no Ceará após operação logística complexa",
+            "subtitulo": "O pianista Paulo Rodrigo Pinto Barros escolheu a Cachoeira do Perigo para fazer uma homenagem ao município onde nasceu, Baturité.",
+            "categoria": "G1",
+            "dataPublicacao": "Sat, 09 May 2026 08:01:02 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/09/musico-se-apresenta-com-piano-de-120-kg-em-cachoeira-no-ceara-apos-operacao-logistica-complexa.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 14:54:37"
+        },
+        {
+            "titulo": "Dunas de destino turístico no Ceará escondem vila soterrada há mais de 40 anos; conheça a história de Tatajuba",
+            "subtitulo": "Território, localizado na cidade de Camocim, litoral do Ceará, foi soterrado entre as décadas de 1970 e 1980 e sua população formou um distrito alvo de disputas econômicas e que faz parte da Rota das Emoções.",
+            "categoria": "G1",
+            "dataPublicacao": "Sat, 09 May 2026 05:00:37 -0000",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/09/dunas-de-destino-turistico-no-ceara-escondem-vila-soterrada-ha-mais-de-40-anos-conheca-a-historia-de-tatajuba.ghtml",
+            "jornal": "g1ceara",
+            "createdAt": "2026-05-09 14:54:37"
+        },
         {
             "titulo": "Três irmãos são mortos em ação policial no Ceará; um deles era suspeito de tentar sequestrar uma criança",
             "subtitulo": "Tentativa de sequestro ocorreu em Iguatu e a intervenção policial com mortes em Acopiara, no interior do estado. As duas cidades são vizinhas.",
@@ -1389,7 +1461,7 @@
             "dataPublicacao": "Sat, 09 May 2026 00:52:10 -0000",
             "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/tres-irmaos-sao-mortos-em-acao-policial-no-ceara-um-deles-era-suspeito-de-tentar-sequestrar-uma-crianca.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Governo divulga vídeo do novo VLT Aeroporto-Castelão e promete entrega para maio de 2027",
@@ -1398,7 +1470,7 @@
             "dataPublicacao": "Sat, 09 May 2026 00:21:04 -0000",
             "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/governo-divulga-video-do-novo-vlt-aeroporto-castelao-e-promete-entrega-para-maio-de-2027.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Homem é preso pela segunda vez por invadir casa e agredir ex-companheira",
@@ -1407,7 +1479,7 @@
             "dataPublicacao": "Fri, 08 May 2026 22:13:57 -0000",
             "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/homem-e-preso-pela-segunda-vez-por-invadir-casa-e-agredir-ex-companheira.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Suplente toma posse após vereador de Fortaleza ser cassado por fraude à cota de gênero ",
@@ -1416,7 +1488,7 @@
             "dataPublicacao": "Fri, 08 May 2026 21:34:19 -0000",
             "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/suplente-toma-posse-apos-vereador-de-fortaleza-ser-cassado-por-fraude-a-cota-de-genero.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Pastor afirmava retirar pregos e agulhas do corpo de fiéis vítimas de abusos sexuais",
@@ -1425,7 +1497,7 @@
             "dataPublicacao": "Fri, 08 May 2026 20:37:57 -0000",
             "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/pastor-afirmava-retirar-pregos-e-agulhas-do-corpo-de-fieis-vitimas-de-abusos-sexuais.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Professor é afastado após denúncia de assédio contra alunas no Ceará: ‘Essa aí é boa de cama’",
@@ -1434,7 +1506,7 @@
             "dataPublicacao": "Fri, 08 May 2026 20:22:33 -0000",
             "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/professor-e-afastado-apos-denuncia-de-assedio-contra-alunas-no-ceara-essa-ai-e-boa-de-cama.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Todo o Ceará tem alerta de chuvas intensas para este sábado (9)",
@@ -1443,7 +1515,7 @@
             "dataPublicacao": "Fri, 08 May 2026 19:34:53 -0000",
             "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/todo-o-ceara-tem-alerta-de-chuvas-intensas-para-este-sabado-9.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Jovem que teve mãos decepadas por cunhado deixa UTI sete dias após o crime",
@@ -1452,7 +1524,7 @@
             "dataPublicacao": "Fri, 08 May 2026 17:33:10 -0000",
             "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/jovem-que-teve-maos-decepadas-por-cunhado-deixa-uti-sete-dias-apos-o-crime.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Jovem cai de moto ao fazer 'grau' e vai a UTI em hospital no Ceará; vídeo",
@@ -1461,7 +1533,7 @@
             "dataPublicacao": "Fri, 08 May 2026 15:33:35 -0000",
             "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/jovem-cai-de-moto-ao-fazer-grau-e-vai-a-uti-em-hospital-no-ceara-video.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Pastor preso por usar falsas doenças para abusar de fiéis ameaçou acionar facção contra vítima",
@@ -1470,7 +1542,7 @@
             "dataPublicacao": "Fri, 08 May 2026 15:29:25 -0000",
             "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/pastor-preso-por-usar-falsas-doencas-para-abusar-de-fieis-ameacou-acionar-faccao-contra-vitima.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Pastor é preso suspeito de usar falsas curas de doenças para abusar de fiéis em Fortaleza",
@@ -1479,7 +1551,7 @@
             "dataPublicacao": "Fri, 08 May 2026 14:53:10 -0000",
             "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/pastor-e-preso-suspeito-de-usar-falsas-curas-de-doencas-para-abusar-de-fieis-em-fortaleza.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Ceará teve redução de 37% no número de mortes violentas nos quatro primeiros meses de 2026, diz secretaria",
@@ -1488,7 +1560,7 @@
             "dataPublicacao": "Fri, 08 May 2026 14:00:42 -0000",
             "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/ceara-teve-reducao-de-37percent-no-numero-de-mortes-violentas-nos-quatro-primeiros-meses-de-2026-diz-secretaria.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "VÍDEO: Alemã faz ataque racista, mas é surpreendida por brasileira: 'Também consigo falar alemão'",
@@ -1497,7 +1569,7 @@
             "dataPublicacao": "Fri, 08 May 2026 11:53:54 -0000",
             "link": "https://g1.globo.com/mundo/noticia/2026/05/08/brasileira-e-vitima-de-racismo-em-aeroporto-da-alemanha-veja-flagrante-em-video.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Três são presos pelo assassinato de duas pessoas no interior do Ceará",
@@ -1506,7 +1578,7 @@
             "dataPublicacao": "Fri, 08 May 2026 10:54:14 -0000",
             "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/tres-sao-presos-pelo-assassinato-de-duas-pessoas-no-interior-do-ceara.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Servidor público, policial penal e outros dois homens são denunciados pelo MP por tentativa de fraude em concurso no Ceará",
@@ -1515,7 +1587,7 @@
             "dataPublicacao": "Fri, 08 May 2026 09:39:14 -0000",
             "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/servidor-publico-policial-penal-e-outros-dois-homens-sao-denunciados-pelo-mp-por-tentativa-de-fraude-em-concurso-no-ceara.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Dois homens são presos com 67 kg de 'supermaconha' escondidos em caminhão na Grande Fortaleza",
@@ -1524,7 +1596,7 @@
             "dataPublicacao": "Fri, 08 May 2026 08:55:11 -0000",
             "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/dois-homens-sao-presos-com-67-kg-de-supermaconha-escondidos-em-caminhao-na-grande-fortaleza.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Garçom que matou vereador e atacou patrão e cliente a facadas estava em transtorno psicótico, diz laudo pericial",
@@ -1533,7 +1605,7 @@
             "dataPublicacao": "Fri, 08 May 2026 07:01:00 -0000",
             "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/08/garcom-que-matou-vereador-e-atacou-patrao-e-cliente-a-facadas-estava-em-transtorno-psicotico-diz-laudo-pericial.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Traficante de animais silvestres é autuado por oferecer aves e tatus em grupo de WhatsApp no Ceará",
@@ -1542,7 +1614,7 @@
             "dataPublicacao": "Thu, 07 May 2026 22:42:16 -0000",
             "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/07/traficante-de-animais-silvestres-e-autuado-por-oferecer-aves-e-tatus-em-grupo-de-whatsapp-no-ceara.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Homem é condenado por matar mulher em situação de rua com 44 facadas após atrai-la para suposto programa sexual",
@@ -1551,7 +1623,7 @@
             "dataPublicacao": "Thu, 07 May 2026 21:53:41 -0000",
             "link": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/05/07/homem-e-condenado-por-matar-mulher-em-situacao-de-rua-com-44-facadas-apos-atrai-la-para-suposto-programa-sexual.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Instituto oferece vagas de reforço escolar e formação tecnológica para alunos do ensino fundamental",
@@ -1560,7 +1632,7 @@
             "dataPublicacao": "Thu, 07 May 2026 20:52:43 -0000",
             "link": "https://g1.globo.com/ce/ceara/suachance/noticia/2026/05/07/instituto-oferece-vagas-de-reforco-escolar-e-formacao-tecnologica-para-alunos-do-ensino-fundamental.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Estado vai convocar mais 500 aprovados em concurso do sistema socioeducativo",
@@ -1569,7 +1641,7 @@
             "dataPublicacao": "Thu, 07 May 2026 20:06:24 -0000",
             "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/07/estado-vai-convocar-mais-500-aprovados-em-concurso-do-sistema-socioeducativo-no-ceara.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
         },
         {
             "titulo": "Cadeirante morre 16 dias após ataque a tiros flagrado por câmera de segurança",
@@ -1578,79 +1650,309 @@
             "dataPublicacao": "Thu, 07 May 2026 19:11:25 -0000",
             "link": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/05/07/cadeirante-morre-apos-ataque-a-tiros-flagrado-por-camera-de-seguranca.ghtml",
             "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "createdAt": "2026-05-09 14:54:37"
+        }
+    ],
+    "cearaagora": [
+        {
+            "titulo": "Após decisão da Justiça Eleitoral, novo vereador toma posse na Câmara de Fortaleza",
+            "subtitulo": "<p>A Câmara Municipal de Fortaleza passou por uma mudança na composição após a posse do suplente Anderson Nilo Dantas Viana, conhecido como Nilo Dantas (PRD). A alteração ocorreu depois da perda do mandato do vereador Luiz Paupina, em decorrência de uma decisão da Justiça Eleitoral envolvendo o partido Agir. A legenda foi condenada por irregularidades [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-09T14:46:00",
+            "link": "https://cearaagora.com.br/apos-decisao-da-justica-eleitoral-novo-vereador-toma-posse-na-camara-de-fortaleza/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:54:41"
         },
         {
-            "titulo": "'Turista nenhum gosta de ir a lugares em que tem gente mendigando', diz ministro do Desenvolvimento Social",
-            "subtitulo": "Fala ocorreu enquanto o ministro Wellington Dias (PT) citava a importância de garantir alimentação para pessoas em situação de pobreza, durante a abertura do 10º Salão do Turismo, em Fortaleza.",
-            "categoria": "G1",
-            "dataPublicacao": "Thu, 07 May 2026 19:08:45 -0000",
-            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/07/turista-nenhum-gosta-de-ir-a-lugares-em-que-tem-gente-mendigando-diz-ministro-do-desenvolvimento-social.ghtml",
-            "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "titulo": "Ministro do Supremo quer manifestação de Planalto e Congresso sobre dosimetria",
+            "subtitulo": "<p>O ministro Alexandre de Moraes, do Supremo Tribunal Federal, deu prazo de cinco dias para que a Presidência da República e o Congresso Nacional se manifestem sobre a Lei da Dosimetria, promulgada nessa sexta-feira pelo presidente do Senado, Davi Alcolumbre (União-AP). Moraes foi escolhido, em sorteio, para relatar as ações que contestam a constitucionalidade da lei, que reduz [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-09T14:20:00",
+            "link": "https://cearaagora.com.br/ministro-do-supremo-quer-manifestacao-de-planalto-e-congresso-sobre-dosimetria/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:54:42"
         },
         {
-            "titulo": "Latrocínio contra motorista de aplicativo leva polícia a quadrilha especializada em roubos de veículos no Ceará",
-            "subtitulo": "Oito mandados de prisão foram cumpridos nesta quinta-feira (7) contra o grupo criminoso. Três suspeitos já estavam presos pela morte do motorista.",
-            "categoria": "G1",
-            "dataPublicacao": "Thu, 07 May 2026 18:24:43 -0000",
-            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/07/latrocinio-contra-motorista-de-aplicativo-leva-policia-a-quadrilha-especializada-em-roubos-de-veiculos-no-ceara.ghtml",
-            "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "titulo": "Negras nordestinas e nortistas são as mais afetadas pela fome",
+            "subtitulo": "<p>Lares chefiados por mulheres negras das regiões Norte e Nordeste são os mais afetados pela insegurança alimentar grave. Os dados constam do estudo&nbsp;As faces da desigualdade: raça, sexo e alimentação no Brasil (2017-2023), autoria de Veruska Prado e Rute Costa. “Ser mulher e negra significou maior convivência com as desigualdades e injustiças alimentares”, diz as [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-09T14:03:00",
+            "link": "https://cearaagora.com.br/negras-nordestinas-e-nortistas-sao-as-mais-afetadas-pela-fome/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:54:43"
         },
         {
-            "titulo": "Três homens e duas mulheres são presos por furtos em série em comércios do interior do Ceará",
-            "subtitulo": "Um dos homens tem 12 antecedentes criminais por furto. Polícia encontrou dezenas de produtos escondidos em bolsas e roupas de suspeitos.",
-            "categoria": "G1",
-            "dataPublicacao": "Thu, 07 May 2026 16:47:41 -0000",
-            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/07/tres-homens-e-duas-mulheres-sao-presos-por-furtos-em-serie-em-comercios-do-interior-do-ceara.ghtml",
-            "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "titulo": "Novo Desenrola: juros altos pressionam endividamento das famílias",
+            "subtitulo": "<p>Economistas indicam que a elevada taxa básica de juros – a taxa Selic – praticada no Brasil, somada aos altos spreads bancários aplicados pelas instituições financeiras, têm contribuído para o aumento do endividamento das famílias, o que levou o governo a lançar nesta semana o Novo Desenrola.  O&nbsp;spread&nbsp;bancário é a diferença entre os juros que os bancos pagam e os que [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-09T13:50:00",
+            "link": "https://cearaagora.com.br/novo-desenrola-juros-altos-pressionam-endividamento-das-familias/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:54:44"
         },
         {
-            "titulo": "IFCE Fortaleza abre 461 vagas para cursos técnicos e especialização gratuitos",
-            "subtitulo": "Inscrições começam próximo sábado (9) e vão até 24 de maio. Pedido de isenção pode ser feito somente até o dia 9/5",
-            "categoria": "G1",
-            "dataPublicacao": "Thu, 07 May 2026 14:34:54 -0000",
-            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/07/ifce-fortaleza-abre-436-vagas-para-cursos-tecnicos-e-especializacao-gratuitos.ghtml",
-            "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "titulo": "Ex-presidente entra com revisão criminal no STF para anular condenação",
+            "subtitulo": "<p>A defesa do ex-presidente Jair Bolsonaro protocolou nesta sexta-feira (8), no Supremo Tribunal Federal (STF), um&nbsp;pedido de revisão criminal para anular a condenação a 27 anos e 3 meses de prisão no processo da trama golpista. De acordo com os advogados, a condenação deve ser revista porque houve “erro judiciário”. “O que esta revisão criminal [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-09T13:35:00",
+            "link": "https://cearaagora.com.br/ex-presidente-entra-com-revisao-criminal-no-stf-para-anular-condenacao/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:54:45"
         },
         {
-            "titulo": "Governo Federal anuncia linha de crédito para MEIs de baixa renda",
-            "subtitulo": "Medida foi apresentada no 10º Salão do Turismo e busca facilitar acesso a financiamento para microempreendedores, como donos de barracas, lanchonetes e pequenos comércios.",
-            "categoria": "G1",
-            "dataPublicacao": "Thu, 07 May 2026 14:21:20 -0000",
-            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/07/governo-federal-anuncia-linha-de-credito-para-microempreendedores-individuais-de-baixa-renda.ghtml",
-            "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "titulo": "Cerca de R$ 20 bilhões são injetados no PIB com turismo em parques nacionais; Jericoacoara é destaque entre visitações",
+            "subtitulo": "<p>O turismo em Unidades de Conservação (UCs) federais em 2025 movimentou R$ 40,7 bilhões em vendas no Brasil, gerou R$ 20,3 bilhões para o Produto Interno Bruto (PIB) e sustentou mais de 332,5 mil postos de trabalho no país. Os dados são do estudo elaborado pelo Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio). O levantamento [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-09T13:10:00",
+            "link": "https://cearaagora.com.br/cerca-de-r-20-bilhoes-sao-injetados-no-pib-com-turismo-em-parques-nacionais-jericoacoara-e-destaque-entre-visitacoes/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:54:46"
         },
         {
-            "titulo": "Com Lula prestes a encontrar Trump, Alckmin fala em buscar parcerias com EUA",
-            "subtitulo": "Presidente em exercício participou da abertura do 10º Salão do Turismo, em Fortaleza, e afirmou que governo brasileiro busca ampliar relações comerciais com os Estados Unidos.",
-            "categoria": "G1",
-            "dataPublicacao": "Thu, 07 May 2026 14:05:28 -0000",
-            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/07/com-lula-prestes-a-encontrar-trump-alckmin-fala-em-buscar-parcerias-com-eua.ghtml",
-            "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "titulo": "Viagem de Elmano aos Estados Unidos leva presidente do Tribunal de Justiça ao comando interino do Governo do Ceará",
+            "subtitulo": "<p>O governador Elmano de Freitas (PT) embarcou para missão oficial em Nova Iorque, nos Estados Unidos, onde cumprirá agenda internacional até o próximo dia 12 de maio em busca de novos investimentos e parcerias para o Ceará. Com a ausência do governador, o comando interino da administração estadual ficará com o presidente do Tribunal de [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-09T10:16:16",
+            "link": "https://cearaagora.com.br/viagem-de-elmano-aos-estados-unidos-leva-presidente-do-tribunal-de-justica-ao-comando-interino-do-governo-do-ceara/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:54:47"
         },
         {
-            "titulo": "Homem é preso após jogar pedra e quebrar vidro de viatura policial no Ceará",
-            "subtitulo": "Nenhum dos ocupantes teve ferimentos graves. Prisão ocorreu na Avenida Aguanambi, em Fortaleza.",
-            "categoria": "G1",
-            "dataPublicacao": "Thu, 07 May 2026 12:29:00 -0000",
-            "link": "https://g1.globo.com/ce/ceara/noticia/2026/05/07/homem-e-preso-apos-jogar-pedra-e-quebrar-vidro-de-viatura-policial-no-ceara.ghtml",
-            "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "titulo": "Dia das mães: Decon autua salões de beleza em Fortaleza por falhas sanitárias e descumprimento de normas de defesa do consumidor",
+            "subtitulo": "<p>Seis salões de beleza em Fortaleza foram autuados pelo Ministério Público do Ceará, por meio do Programa Estadual de Proteção e Defesa do Consumidor (Decon), na Operação Dia das Mães. Entre as irregularidades encontrados estão a falta de preços visíveis para produtos e serviços, ausência de licença sanitária, inexistência do Código de Defesa do Consumidor [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-09T10:02:57",
+            "link": "https://cearaagora.com.br/dia-das-maes-decon-autua-saloes-de-beleza-em-fortaleza-por-falhas-sanitarias-e-descumprimento-de-normas-de-defesa-do-consumidor/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:54:48"
         },
         {
-            "titulo": "Mulher de 69 anos cai em canal em obras no interior do Ceará",
-            "subtitulo": "Resgate foi realizado na tarde desta quarta-feira (6) no município do Crato, na região do Cariri.",
-            "categoria": "G1",
-            "dataPublicacao": "Thu, 07 May 2026 12:10:50 -0000",
-            "link": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/05/07/mulher-de-69-anos-cai-em-canal-em-obras-no-interior-do-ceara.ghtml",
-            "jornal": "g1ceara",
-            "createdAt": "2026-05-09 02:07:22"
+            "titulo": "Ciro Gomes confirma anúncio de pré-candidatura ao Governo do Ceará",
+            "subtitulo": "<p>O ex-ministro&nbsp;Ciro Gomes&nbsp;deverá anunciar oficialmente sua decisão sobre a disputa pelo Governo do Ceará nas eleições de 2026 durante um evento marcado para o próximo dia 16 de maio, em Fortaleza. A expectativa é que a pré-candidatura de Ciro Gomes ao Palácio da Abolição seja lançada durante o encontro político, programado para começar às 9h, [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-09T09:38:13",
+            "link": "https://cearaagora.com.br/ciro-gomes-confirma-anuncio-de-pre-candidatura-ao-governo-do-ceara/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:54:49"
+        },
+        {
+            "titulo": "Vai chover neste fim de semana? Veja previsão da Funceme",
+            "subtitulo": "<p>A Fundação Cearense de Meteorologia e Recursos Hídricos (Funceme) prevê condições favoráveis para chuvas isoladas em diferentes regiões do Ceará neste fim de semana. As precipitações devem ocorrer principalmente na faixa litorânea, Cariri, Ibiapaba e no centro-norte do estado. De acordo com a previsão, a tendência é de chuvas isoladas na faixa litorânea durante a [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-09T08:49:23",
+            "link": "https://cearaagora.com.br/vai-chover-neste-fim-de-semana-veja-previsao-da-funceme/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:54:50"
+        },
+        {
+            "titulo": "Hantavírus: dois casos são confirmados no Paraná e outros 11 são investigados",
+            "subtitulo": "<p>A Secretaria de Saúde do Paraná confirmou duas infecções por hantavírus, investiga 11 e descartou 21 depois de análise. Os dois episódios são em Pérola d&#8217;Oeste e em Ponta Grossa. O alerta vem depois da divulgação da Organização Mundial de Saúde (OMS), nesta semana, sobre casos e mortes pelo agente infeccioso no navio de cruzeiro MV Hondius, que viajava [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-09T08:37:01",
+            "link": "https://cearaagora.com.br/hantavirus-dois-casos-sao-confirmados-no-parana-e-outros-11-sao-investigados/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:54:51"
+        },
+        {
+            "titulo": "Piso nacional do magistério volta à pauta do STF na próxima sexta-feira",
+            "subtitulo": "<p>O Supremo Tribunal Federal (STF) retomará na próxima sexta-feira (dia 15), o julgamento do recurso extraordinário sobre a adoção do piso nacional dos professores da educação básica, estabelecido pela Lei 11.738, de julho de 2008. A análise estava suspensa desde dezembro, quando o ministro Dias solicitou um pedido de vista no mesmo dia em que [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-09T08:28:07",
+            "link": "https://cearaagora.com.br/piso-nacional-do-magisterio-volta-a-pauta-do-stf-na-proxima-sexta-feira/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:54:52"
+        },
+        {
+            "titulo": "Após nova lei sobre penas do 8 de Janeiro, defesa de Bolsonaro pede ao STF anulação de condenação de 27 anos",
+            "subtitulo": "<p>Dias após a publicação da nova legislação que flexibiliza regras de dosimetria penal e reduz penas de condenados pelos atos golpistas de 8 de janeiro de 2023, a defesa do ex-presidente Jair Bolsonaro (PL) entrou com ação no Supremo Tribunal Federal (STF) pedindo a anulação da condenação de 27 anos de prisão imposta ao ex-chefe [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-09T08:10:48",
+            "link": "https://cearaagora.com.br/apos-nova-lei-sobre-penas-do-8-de-janeiro-defesa-de-bolsonaro-pede-ao-stf-anulacao-de-condenacao-de-27-anos/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:54:53"
+        },
+        {
+            "titulo": "Alvo de críticas no Ceará, RJ e SP, Enel entra na mira do presidente Lula que dispara: “não cumpriu nada que prometeu”",
+            "subtitulo": "<p>Alvo do descontentamento de consumidores no Ceará, São Paulo e Rio de Janeiro, a Enel também passou a ser alvo direto das críticas do presidente Luiz Inácio Lula da Silva que, mesmo sem citar nominalmente a empresa, acusou a concessionária de descumprir compromissos assumidos com o Governo Federal e com a população brasileira. A declaração [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-09T08:09:19",
+            "link": "https://cearaagora.com.br/alvo-de-criticas-no-ceara-rj-e-sp-enel-entra-na-mira-do-presidente-lula-que-dispara-nao-cumpriu-nada-que-prometeu/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:54:55"
+        },
+        {
+            "titulo": "Pesquisa mostra que 82% das pessoas acima de 14 anos no Brasil têm algum rendimento; 11% recebem programas sociais",
+            "subtitulo": "<p>Das 174,7 milhões de pessoas acima de 14 anos que vivem no Brasil &#8211; segundo dados do IBGE relativos ao final de 2025 -, 143 milhões recebem algum tipo de rendimento. Ou 82%. Este é o maior percentual da série histórica da&nbsp;Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD-Contínua), do IBGE. Com base nos números [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-09T08:00:44",
+            "link": "https://cearaagora.com.br/pesquisa-mostra-que-82-das-pessoas-acima-de-14-anos-no-brasil-tem-algum-rendimento-11-recebem-programas-sociais/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:54:56"
+        },
+        {
+            "titulo": "Escala 5&#215;2 já é realidade no Brasil para 30 milhões de trabalhadores, afirma Chico Macena",
+            "subtitulo": "<p>O secretário-executivo do Ministério do Trabalho e Emprego (MTE), Francisco Macena, afirmou nesta sexta-feira (8/5), durante entrevista à TV Senado, que a jornada de trabalho com cinco dias de trabalho e dois de descanso já é realidade no Brasil para quase 30 milhões de trabalhadores formais. “Dois terços dos trabalhadores já estão na escala 5&#215;2. [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-09T07:56:55",
+            "link": "https://cearaagora.com.br/escala-5x2-ja-e-realidade-no-brasil-para-30-milhoes-de-trabalhadores-afirma-chico-macena/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:54:57"
+        },
+        {
+            "titulo": "Anote na agenda: programa Gás do Povo será pago sempre no dia 10 de cada mês",
+            "subtitulo": "<p>O vale do Gás do Povo de maio será disponibilizado neste domingo (10), para 2,71 milhões de famílias. O Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS) fixou a data para o pagamento mensal. Ou seja, no dia 10 de cada mês, seja dia útil, fim de semana ou feriado, o [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-09T07:48:56",
+            "link": "https://cearaagora.com.br/anote-na-agenda-programa-gas-do-povo-sera-pago-sempre-no-dia-10-de-cada-mes/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:54:58"
+        },
+        {
+            "titulo": "Ceará registra mais de 148 mil títulos eleitorais regularizados; jovens somam mais de 72 mil atendimentos",
+            "subtitulo": "<p>Com o fim do prazo para regularização do título eleitoral no Ceará, o Tribunal Regional Eleitoral informou que 148.213 pessoas estão aptas a votar neste ano. Desse número, observa-se um maior quantitativo de jovens que regularizaram a situação eleitoral. Segundo o TRE, mais de 72 mil das pessoas atendidas são jovens eleitores. REFORÇO NO ATENDIMENTO [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-09T07:44:05",
+            "link": "https://cearaagora.com.br/ceara-registra-mais-de-148-mil-titulos-eleitorais-regularizados-jovens-somam-mais-de-72-mil-atendimentos/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:54:59"
+        },
+        {
+            "titulo": "Alvo de críticas e processos, Enel fica fora da renovação de concessões assinada pelo Governo Federal",
+            "subtitulo": "<p>Alvo de processos administrativos, denúncias de consumidores e críticas pela má prestação de serviços, a Enel ficou de fora do pacote de renovação antecipada das concessões de distribuição de energia elétrica assinado, nesta sexta-feira (8), pelo Governo Federal. A decisão atinge as operações da empresa em São Paulo, Rio de Janeiro e Ceará. O Governo [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-08T18:22:22",
+            "link": "https://cearaagora.com.br/alvo-de-criticas-e-processos-enel-fica-fora-da-renovacao-de-concessoes-assinada-pelo-governo-federal/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:55:01"
+        },
+        {
+            "titulo": "Ciro Nogueira reage à operação da PF, descarta renúncia e fala em tentativa de manchar sua trajetória política",
+            "subtitulo": "<p>Cercado pela repercussão da operação da Polícia Federal que o atingiu diretamente nas investigações sobre o escândalo do Banco Master, o senador Ciro Nogueira (PP-PI) mandou um recado claro aos aliados e adversários políticos: não pretende renunciar ao mandato e classificou a ofensiva como uma tentativa de manchar sua trajetória política. Um dia após ser [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-08T18:12:40",
+            "link": "https://cearaagora.com.br/ciro-nogueira-reage-a-operacao-da-pf-descarta-renuncia-e-fala-em-tentativa-de-manchar-sua-trajetoria-politica/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:55:04"
+        },
+        {
+            "titulo": "Agenda da educação reúne novamente Elmano, Camilo e Cid em Boa Viagem e mostra sintonia política para 2026",
+            "subtitulo": "<p>Mais uma agenda administrativa na área da educação colocou, nesta sexta-feira (8), no mesmo palanque, em Boa Viagem, o governador Elmano de Freitas (PT) e os senadores Camilo Santana (PT) e Cid Gomes (PSB). O presidente da Assembleia Legislativa, Romeu Aldigueri (PSB), também, participou do evento. O encontro, marcado por anúncios de investimentos e entregas [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-08T18:07:46",
+            "link": "https://cearaagora.com.br/agenda-da-educacao-reune-novamente-elmano-camilo-e-cid-em-boa-viagem-e-mostra-sintonia-politica-para-2026/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:55:05"
+        },
+        {
+            "titulo": "Ceará amplia força no turismo e ganha novos voos para Manaus e Miami",
+            "subtitulo": "<p>O Ceará ganhou, nesta quinta-feira, importantes reforços na malha aérea nacional e internacional com o anúncio de uma nova rota direta entre Fortaleza e Manaus e da ampliação dos voos entre a capital cearense e Miami, nos Estados Unidos. As novidades foram confirmadas pela GOL Linhas Aéreas durante o Salão do Turismo, realizado no Centro [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-08T18:01:12",
+            "link": "https://cearaagora.com.br/ceara-amplia-forca-no-turismo-e-ganha-novos-voos-para-manaus-e-miami/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:55:06"
+        },
+        {
+            "titulo": "Equipes trabalham até no final de semana para acelerar recuperação da CE-025 no Porto das Dunas",
+            "subtitulo": "<p>O Governo do Ceará intensificou os trabalhos de recuperação da rodovia CE-025, no Porto das Dunas, em Aquiraz, mobilizando equipes inclusive aos fins de semana para agilizar a liberação total da via após os danos provocados pelas fortes chuvas. As obras tiveram início no dia 27 de abril, logo após a liberação da área pela [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-08T17:59:28",
+            "link": "https://cearaagora.com.br/equipes-trabalham-ate-no-final-de-semana-para-acelerar-recuperacao-da-ce-025-no-porto-das-dunas/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:55:08"
+        },
+        {
+            "titulo": "Sobrinho mata o tio a facadas após briga por morte de cadela",
+            "subtitulo": "<p>Um homem, de 33 anos, foi preso em Bambuí, no Sul de Minas, suspeito de matar o próprio tio, de 52, a facadas. À Polícia Militar (PM), o sobrinho confessou ter esfaqueado o familiar nesta quinta-feira (7/5) depois de se desentenderem por causa da morte de uma cadela. De acordo com a PM, a ocorrência foi no [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-08T16:20:44",
+            "link": "https://cearaagora.com.br/sobrinho-mata-o-tio-a-facadas-apos-briga-por-morte-de-cadela/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:55:09"
+        },
+        {
+            "titulo": "Ex-goleiro Bruno é preso após dois meses foragido",
+            "subtitulo": "<p>O ex-goleiro Bruno Fernandes, condenado pelo assassinato de Eliza Samudio, foi preso na noite desta quinta-feira (7/5) em São Pedro da Aldeia, na Região dos Lagos do Rio de Janeiro. Segundo o G1, a captura ocorreu em uma ação conjunta das polícias militares do Rio de Janeiro e de Minas Gerais, após cerca de dois meses [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-08T16:19:39",
+            "link": "https://cearaagora.com.br/ex-goleiro-bruno-e-preso-apos-dois-meses-foragido/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:55:10"
+        },
+        {
+            "titulo": "Caso chocante: mãe suspeita de matar filha envenenada acaba presa",
+            "subtitulo": "<p>Uma mulher de 29 anos, suspeita de envenenar a própria filha, de apenas dois anos, em janeiro de 2024, foi presa na noite dessa quinta-feira (7/5) em Vespasiano, na Região Metropolitana de Belo Horizonte. Segundo a Polícia Militar (PM), ela estava foragida desde que a Polícia Civil (PC) concluiu que a menina havia sido envenenada. No momento do [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-08T16:18:33",
+            "link": "https://cearaagora.com.br/caso-chocante-mae-suspeita-de-matar-filha-envenenada-acaba-presa/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:55:10"
+        },
+        {
+            "titulo": "Os objetos de casa ‘mais sujos que sua privada’, segundo especialistas",
+            "subtitulo": "<p>No imaginário popular, o banheiro é, na maioria das vezes, visto como o lugar mais “sujo” da casa, e por isso centro das atenções de limpezas mais profundas, principalmente o vaso sanitário. No entanto, Esosa Igbinenikaro, dono da empresa britânica Infinity Cleaning Service, em entrevista ao site Whats the Jam, detalhou por que, nem sempre, [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-08T16:13:32",
+            "link": "https://cearaagora.com.br/os-objetos-de-casa-mais-sujos-que-sua-privada-segundo-especialistas/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:55:11"
+        },
+        {
+            "titulo": "Pressão alta pode ter relação com falta de potássio, não só com sal",
+            "subtitulo": "<p>Pelo senso comum, o sal iodado é o principal culpado da pressão alta. Mas você sabia que a falta de outro nutriente pode resultar, também, em uma pressão arterial mais alta? É o potássio, responsável pelo mecanismo chamado bomba de sódio e potássio. Facilmente encontrado em frutas como banana e abacate, o potássio é peça [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-08T16:11:59",
+            "link": "https://cearaagora.com.br/pressao-alta-pode-ter-relacao-com-falta-de-potassio-nao-so-com-sal/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:55:12"
+        },
+        {
+            "titulo": "Encceja 2026: inscrição pode ser feita até dia 15 de maio",
+            "subtitulo": "<p>As inscrições gratuitas para o Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2026 estão abertas até a próxima sexta-feira (15). Os estudantes pode se inscrever no Sistema Encceja.. No momento da inscrição, o candidato deve selecionar o estado e município onde deseja fazer a prova e escolher&nbsp;a&nbsp;instituição certificadora. O exame é uma oportunidade para [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-08T16:09:09",
+            "link": "https://cearaagora.com.br/encceja-2026-inscricao-pode-ser-feita-ate-dia-15-de-maio/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:55:13"
+        },
+        {
+            "titulo": "Dia das Mães é feriado? Veja o que diz a legislação brasileira",
+            "subtitulo": "<p>O Dia das Mães é uma das datas mais celebradas pelos brasileiros todos os anos, movimentando o comércio, reunindo famílias e promovendo homenagens. Apesar da forte tradição cultural, muita gente ainda tem dúvida sobre o assunto: afinal, o Dia das Mães é feriado no Brasil? A resposta é não. A data não faz parte do [&hellip;]</p>\n",
+            "categoria": "",
+            "autor": "Redação Ceará Agora",
+            "dataPublicacao": "2026-05-08T16:07:15",
+            "link": "https://cearaagora.com.br/dia-das-maes-e-feriado-veja-o-que-diz-a-legislacao-brasileira/",
+            "jornal": "cearaagora",
+            "created_at": "2026-05-09 14:55:14"
         }
     ]
 }
