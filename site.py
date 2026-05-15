@@ -11,7 +11,7 @@ DATA_FILE = "data/artigos_ceara.json"
 
 
 @app.route("/artigos")
-def get_opovo():
+def get_artigos():
     if not os.path.exists(DATA_FILE):
         return jsonify({"error": "Dados não disponíveis ainda", "artigos": []}), 503
 

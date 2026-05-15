@@ -492,9 +492,7 @@ if __name__ == "__main__":
         },
     }
 
-    n = 0
-
-    while n == 0:
+    while True:
         data = {
             "opovo": [],
             "dn": [],
@@ -559,6 +557,5 @@ if __name__ == "__main__":
         print(f"total: {sum(len(v) for v in data.values())} artigos")
 
         print({k: len(v) for k, v in data.items()})
-        n += 1
 
-        # time.sleep(360)
+        time.sleep(360)
