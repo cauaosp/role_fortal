@@ -16,7 +16,7 @@ def creation_time():
     return datetime.now(fuso_brasilia).strftime("%Y-%m-%d %H:%M:%S")
 
 
-async def fetch_opovo(url, params, headers):
+async def fetch_opovo(session, url, params, headers):
     opovo_articles = []
 
     async with aiohttp.ClientSession() as session:
@@ -56,7 +56,7 @@ async def fetch_opovo(url, params, headers):
     return opovo_articles
 
 
-async def fetch_dn(url, headers):
+async def fetch_dn(session, url, headers):
     dn_articles = []
 
     async with aiohttp.ClientSession() as session:
@@ -114,47 +114,46 @@ async def fetch_dn(url, headers):
     return dn_articles
 
 
-async def fetch_oestadoce(url, params, headers):
+async def fetch_oestadoce(session, url, params, headers):
     oestadoce_articles = []
 
     try:
-        async with aiohttp.ClientSession().get(
-            url, params=params, headers=headers
-        ) as response:
-            if response.status != 200:
-                print(f"Erro HTTP {response.status} para o estado")
-                return oestadoce_articles
+        async with aiohttp.ClientSession() as session:
+            async with session.get(url, params=params, headers=headers) as response:
+                if response.status != 200:
+                    print(f"Erro HTTP {response.status} para o estado")
+                    return oestadoce_articles
 
-            print(response.status, "o estado")
+                print(response.status, "o estado")
 
-            data = await response.json()
+                data = await response.json()
 
-            created_at = creation_time()
+                created_at = creation_time()
 
-            for item in data:
-                try:
-                    categorias = (
-                        item.get("yoast_head_json", {})
-                        .get("schema", {})
-                        .get("@graph", [{}])[0]
-                        .get("articleSection", [])
-                    )
+                for item in data:
+                    try:
+                        categorias = (
+                            item.get("yoast_head_json", {})
+                            .get("schema", {})
+                            .get("@graph", [{}])[0]
+                            .get("articleSection", [])
+                        )
 
-                    oestadoce_articles.append(
-                        {
-                            "titulo": item["title"]["rendered"],
-                            "subtitulo": item.get("acf", {}).get("post_gravata"),
-                            "categoria": categorias,
-                            "autor": item.get("yoast_head_json", {}).get("author"),
-                            "dataPublicacao": item["date"],
-                            "link": item["link"],
-                            "jornal": "oestadoce",
-                            "createdAt": created_at,
-                        }
-                    )
-                except KeyError:
-                    print("Erro ao processar item:", item)
-                    continue
+                        oestadoce_articles.append(
+                            {
+                                "titulo": item["title"]["rendered"],
+                                "subtitulo": item.get("acf", {}).get("post_gravata"),
+                                "categoria": categorias,
+                                "autor": item.get("yoast_head_json", {}).get("author"),
+                                "dataPublicacao": item["date"],
+                                "link": item["link"],
+                                "jornal": "oestadoce",
+                                "createdAt": created_at,
+                            }
+                        )
+                    except KeyError:
+                        print("Erro ao processar item:", item)
+                        continue
 
     except KeyError as e:
         print(f"Erro ao buscar dados do oestadoce {e}")
@@ -218,42 +217,57 @@ async def fetch_cearaagora(url, params, headers):
 
     try:
         async with aiohttp.ClientSession() as session:
-            async with session.get(url, params=params, headers=headers) as response:
-                if response.status != 200:
-                    print(f"Erro HTTP {response.status} para cearaagora")
-                    return articles
+            fetch_posts = session.get(url, params=params, headers=headers)
 
-                print(response.status, "cearaagora")
+            url_autor = "https://cearaagora.com.br/wp-json/wp/v2/users/"
+            fetch_author = session.get(url_autor, headers=headers)
 
-                items = await response.json()
+            url_categoria = f"https://cearaagora.com.br/wp-json/wp/v2/categories/"
+            fetch_categories = session.get(url_categoria, headers=headers)
 
-                for item in items:
-                    author_id = item["author"]
-                    categorias_id = item.get("categories", [])
-                    categorias = []
+            fetch_posts, fetch_author, fetch_categories = await asyncio.gather(
+                fetch_posts, fetch_author, fetch_categories
+            )
 
-                    url_autor = (
-                        f"https://cearaagora.com.br/wp-json/wp/v2/users/{author_id}"
-                    )
-                    autor = requests.get(url_autor, headers=headers).json()
+            users_data = await fetch_author.json()
+            users_map = {user["id"]: user for user in users_data}
 
-                    for i in range(len(categorias_id)):
-                        url_categoria = f"https://cearaagora.com.br/wp-json/wp/v2/categories/{categorias_id[i]}"
-                        categoria = requests.get(url_categoria, headers=headers).json()
-                        categorias.append(categoria["name"])
+            categories_data = await fetch_categories.json()
+            categories_map = {category["id"]: category for category in categories_data}
+
+            items = await fetch_posts.json()
+
+            if fetch_posts.status != 200:
+                print(f"Erro HTTP {fetch_posts.status} para cearaagora")
+                return articles
+
+            print(fetch_posts.status, "cearaagora")
+
+            for item in items:
+                try:
+                    categories = []
+                    categorias_id_list = item.get("categories", [])
+                    for id in categorias_id_list:
+                        categories.append(categories_map.get(id))
+
+                    author_id = item.get("author", 0)
+                    author_obj = users_map.get(author_id)
+                    author_name = author_obj.get("name", "") if author_obj else ""
 
                     articles.append(
                         {
                             "titulo": item["title"]["rendered"],
                             "subtitulo": item["excerpt"]["rendered"],
                             "categoria": "",
-                            "autor": autor["name"],
+                            "autor": author_name,
                             "dataPublicacao": item["date"],
                             "link": item["link"],
                             "jornal": "cearaagora",
                             "created_at": creation_time(),
                         }
                     )
+                except KeyError:
+                    print(f"Erro no item: {item}")
     except requests.exceptions.RequestException as e:
         print(f"Erro de conexão: {e}")
 
@@ -550,31 +564,31 @@ async def fetch_concurrent(limit: int = 4):
 
 
 FUNCTIONS_MAP = {
-    "opovo": {"func": fetch_opovo, "params": JORNAIS_MAP["opovo"]},
-    "dn": {
-        "func": fetch_dn,
-        "params": JORNAIS_MAP["dn"],
-    },
-    "oestadoce": {
-        "func": fetch_oestadoce,
-        "params": JORNAIS_MAP["oestadoce"],
-    },
-    "verdemares": {
-        "func": fetch_verdemares,
-        "params": JORNAIS_MAP["verdemares"],
-    },
+    # "opovo": {"func": fetch_opovo, "params": JORNAIS_MAP["opovo"]},
+    # "dn": {
+    #     "func": fetch_dn,
+    #     "params": JORNAIS_MAP["dn"],
+    # },
+    # "oestadoce": {
+    #     "func": fetch_oestadoce,
+    #     "params": JORNAIS_MAP["oestadoce"],
+    # },
+    # "verdemares": {
+    #     "func": fetch_verdemares,
+    #     "params": JORNAIS_MAP["verdemares"],
+    # },
     "cearaagora": {
         "func": fetch_cearaagora,
         "params": JORNAIS_MAP["cearaagora"],
     },
-    "terra_da_luz": {
-        "func": fetch_terra_da_luz,
-        "params": JORNAIS_MAP["terra_da_luz"],
-    },
-    "tce": {
-        "func": fetch_tce,
-        "params": JORNAIS_MAP["tce"],
-    },
+    # "terra_da_luz": {
+    #     "func": fetch_terra_da_luz,
+    #     "params": JORNAIS_MAP["terra_da_luz"],
+    # },
+    # "tce": {
+    #     "func": fetch_tce,
+    #     "params": JORNAIS_MAP["tce"],
+    # },
     "secult": {
         "func": fetch_secult,
         "params": JORNAIS_MAP["secult"],
